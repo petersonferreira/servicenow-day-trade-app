@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Trade Asset" max_length="40" name="x_200145_trade_sa_trade_asset" sizeclass="1" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Description" max_length="8000" name="description" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="State" mandatory="true" max_length="40" name="state" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Active" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Expired" sequence="1" value="0"/>
+                <element inactive_on_update="false" label="Not Started" sequence="2" value="-1"/>
+            </choice>
+        </element>
+    </element>
+</database>
