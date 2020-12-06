@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Trade Policy" max_length="40" name="x_200145_trade_sa_trade_policy" sizeclass="1" type="collection">
+        <element label="Actual result" max_length="15" name="actual_result" type="decimal"/>
         <element label="Loss limit (%)" max_length="15" name="loss_limit" type="decimal"/>
         <element label="Loss limit (R$)" max_length="15" name="loss_limit_am" type="decimal"/>
         <element choice="1" label="Month" max_length="40" name="month" type="choice">
