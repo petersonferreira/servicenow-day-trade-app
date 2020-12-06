@@ -21,7 +21,7 @@
             <element>month</element>
             <hint/>
             <inactive>false</inactive>
-            <label>1</label>
+            <label>January</label>
             <language>en</language>
             <name>x_200145_trade_sa_trade_policy</name>
             <sequence>1</sequence>
@@ -30,9 +30,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>599e0e03db70201024e058b3ca9619e7</sys_id>
-            <sys_mod_count>4</sys_mod_count>
+            <sys_mod_count>5</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-05 04:13:48</sys_updated_on>
+            <sys_updated_on>2020-12-06 13:06:15</sys_updated_on>
             <value>1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -40,7 +40,7 @@
             <element>month</element>
             <hint/>
             <inactive>false</inactive>
-            <label>2</label>
+            <label>February</label>
             <language>en</language>
             <name>x_200145_trade_sa_trade_policy</name>
             <sequence>2</sequence>
@@ -49,9 +49,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>139e8e03db70201024e058b3ca9619bc</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-05 04:13:51</sys_updated_on>
+            <sys_updated_on>2020-12-06 13:06:24</sys_updated_on>
             <value>2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -59,7 +59,7 @@
             <element>month</element>
             <hint/>
             <inactive>false</inactive>
-            <label>3</label>
+            <label>March</label>
             <language>en</language>
             <name>x_200145_trade_sa_trade_policy</name>
             <sequence>3</sequence>
@@ -68,10 +68,181 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>20ae0a43db70201024e058b3ca9619c5</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-06 13:06:30</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>month</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>April</label>
+            <language>en</language>
+            <name>x_200145_trade_sa_trade_policy</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-06 13:06:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4e4211ebdb38601024e058b3ca9619e2</sys_id>
             <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-05 04:13:55</sys_updated_on>
-            <value>3</value>
+            <sys_updated_on>2020-12-06 13:10:30</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>month</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>May</label>
+            <language>en</language>
+            <name>x_200145_trade_sa_trade_policy</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-06 13:06:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>316215ebdb38601024e058b3ca961936</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-06 13:10:46</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>month</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>June</label>
+            <language>en</language>
+            <name>x_200145_trade_sa_trade_policy</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-06 13:06:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6762112fdb38601024e058b3ca961935</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-06 13:10:43</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>month</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>July</label>
+            <language>en</language>
+            <name>x_200145_trade_sa_trade_policy</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-06 13:06:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a57211ebdb38601024e058b3ca961939</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-06 13:10:41</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>month</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>August</label>
+            <language>en</language>
+            <name>x_200145_trade_sa_trade_policy</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-06 13:07:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>177211ebdb38601024e058b3ca96193a</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-06 13:10:38</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>month</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>September</label>
+            <language>en</language>
+            <name>x_200145_trade_sa_trade_policy</name>
+            <sequence>9</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-06 13:07:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dd82512fdb38601024e058b3ca96198f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-06 13:10:51</sys_updated_on>
+            <value>9</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>month</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>October</label>
+            <language>en</language>
+            <name>x_200145_trade_sa_trade_policy</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-06 13:07:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b82512fdb38601024e058b3ca9619f2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-06 13:09:56</sys_updated_on>
+            <value>10</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>month</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>November</label>
+            <language>en</language>
+            <name>x_200145_trade_sa_trade_policy</name>
+            <sequence>11</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-06 13:07:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a192912fdb38601024e058b3ca96197e</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-06 13:10:12</sys_updated_on>
+            <value>11</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>month</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>December</label>
+            <language>en</language>
+            <name>x_200145_trade_sa_trade_policy</name>
+            <sequence>12</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-06 13:07:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00a2912fdb38601024e058b3ca96197f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-06 13:10:14</sys_updated_on>
+            <value>12</value>
         </sys_choice>
     </sys_choice>
 </record_update>

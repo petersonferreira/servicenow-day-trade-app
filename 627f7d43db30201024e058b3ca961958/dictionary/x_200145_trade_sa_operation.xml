@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Operation" max_length="40" name="x_200145_trade_sa_operation" sizeclass="1" type="collection">
-        <element label="Amount" mandatory="true" max_length="15" name="amount" type="decimal"/>
+        <element label="Amount" mandatory="true" max_length="15" name="amount" type="currency"/>
         <element label="Date Time" mandatory="true" max_length="40" name="date_time" type="glide_date_time"/>
         <element label="Day Trade" max_length="32" name="day_trade" read_only="true" reference="x_200145_trade_sa_day_trade" type="reference"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
@@ -10,6 +10,7 @@
                 <element inactive_on_update="false" label="Loss" value="loss"/>
             </choice>
         </element>
+        <element attributes="encode_utf8=false" label="Strategy" mandatory="true" max_length="32" name="strategy" reference="x_200145_trade_sa_strategy" type="reference"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
         <element attributes="edge_encryption_enabled=true" label="Trade diary" max_length="4000" name="trade_diary" type="string"/>
         <element label="Value" max_length="20" name="value" type="decimal"/>
@@ -17,6 +18,9 @@
             <element name="day_trade"/>
         </index>
         <index name="index2">
+            <element name="strategy"/>
+        </index>
+        <index name="index3">
             <element name="sys_class_name"/>
         </index>
     </element>

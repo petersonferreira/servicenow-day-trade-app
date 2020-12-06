@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Strategy" max_length="40" name="x_200145_trade_sa_strategy" type="collection">
+        <element label="Description" max_length="4000" name="description" type="string"/>
+        <element choice="1" label="Motivator type" mandatory="true" max_length="40" name="motivator_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Absorption" sequence="0" value="absorption"/>
+                <element inactive_on_update="false" label="Exhaustion" sequence="1" value="Exhaustion"/>
+                <element inactive_on_update="false" label="Value Area" sequence="2" value="Value Area"/>
+                <element inactive_on_update="false" label="Player Aggression" sequence="3" value="Player Aggression"/>
+            </choice>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element display="true" label="Short description" mandatory="true" max_length="200" name="short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Trend" mandatory="true" max_length="40" name="trend" type="string">
+            <choice>
+                <element inactive_on_update="false" label="On" sequence="0" value="On"/>
+                <element inactive_on_update="false" label="Off" sequence="1" value="Off"/>
+                <element inactive_on_update="false" label="Consolidated" sequence="2" value="Consolidated"/>
+            </choice>
+        </element>
+    </element>
+</database>

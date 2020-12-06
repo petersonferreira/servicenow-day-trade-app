@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Trade Policy" max_length="40" name="x_200145_trade_sa_trade_policy" sizeclass="1" type="collection">
-        <element label="Actual result" max_length="15" name="actual_result" type="decimal"/>
-        <element label="Loss limit (%)" max_length="15" name="loss_limit" type="decimal"/>
-        <element label="Loss limit (R$)" max_length="15" name="loss_limit_am" type="decimal"/>
+        <element default="R$" label="Actual result" max_length="15" name="actual_result" type="currency"/>
+        <element label="Actual result (%)" max_length="15" name="actual_result_percent" read_only="true" type="percent_complete"/>
+        <element label="Loss limit (%)" max_length="15" name="loss_limit" type="percent_complete"/>
+        <element label="Loss limit" max_length="15" name="loss_limit_am" type="currency"/>
         <element choice="1" label="Month" max_length="40" name="month" type="choice">
             <choice>
-                <element inactive_on_update="false" label="1" sequence="1" value="1"/>
-                <element inactive_on_update="false" label="2" sequence="2" value="2"/>
-                <element inactive_on_update="false" label="3" sequence="3" value="3"/>
+                <element inactive_on_update="false" label="January" sequence="1" value="1"/>
+                <element inactive_on_update="false" label="February" sequence="2" value="2"/>
+                <element inactive_on_update="false" label="March" sequence="3" value="3"/>
+                <element inactive_on_update="false" label="April" sequence="4" value="4"/>
+                <element inactive_on_update="false" label="May" sequence="5" value="5"/>
+                <element inactive_on_update="false" label="June" sequence="6" value="6"/>
+                <element inactive_on_update="false" label="July" sequence="7" value="7"/>
+                <element inactive_on_update="false" label="August" sequence="8" value="8"/>
+                <element inactive_on_update="false" label="September" sequence="9" value="9"/>
+                <element inactive_on_update="false" label="October" sequence="10" value="10"/>
+                <element inactive_on_update="false" label="November" sequence="11" value="11"/>
+                <element inactive_on_update="false" label="December" sequence="12" value="12"/>
             </choice>
         </element>
-        <element label="Month amount (R$)" max_length="20" name="month_amount" type="decimal"/>
+        <element label="Month amount" max_length="20" name="month_amount" type="currency"/>
         <element attributes="edge_encryption_enabled=true" display="true" label="Name" max_length="40" name="name" read_only="true" type="string"/>
         <element attributes="encode_utf8=false" label="Trade asset" mandatory="true" max_length="32" name="trade_asset" reference="x_200145_trade_sa_trade_asset" reference_qual="state=1^EQ" reference_qual_condition="state=1^EQ" type="reference"/>
         <element label="Year" mandatory="true" max_length="4" name="year" type="string"/>

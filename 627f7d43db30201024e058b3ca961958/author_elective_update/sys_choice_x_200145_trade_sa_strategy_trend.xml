@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="trend" table="x_200145_trade_sa_strategy" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>trend</element>
+            <name>x_200145_trade_sa_strategy</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-06 13:02:06</sys_created_on>
+            <sys_id>bb51d56bdb38601024e058b3ca9619e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>trend</sys_name>
+            <sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Trade Performance">627f7d43db30201024e058b3ca961958</sys_scope>
+            <sys_update_name>sys_choice_x_200145_trade_sa_strategy_trend</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-06 13:02:06</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>trend</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>On</label>
+            <language>en</language>
+            <name>x_200145_trade_sa_strategy</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-06 13:02:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3351d56bdb38601024e058b3ca9619e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-06 13:02:06</sys_updated_on>
+            <value>On</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>trend</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Off</label>
+            <language>en</language>
+            <name>x_200145_trade_sa_strategy</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-06 13:02:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3f51d56bdb38601024e058b3ca9619e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-06 13:02:06</sys_updated_on>
+            <value>Off</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>trend</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Consolidated</label>
+            <language>en</language>
+            <name>x_200145_trade_sa_strategy</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-06 13:03:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dca1996bdb38601024e058b3ca96196b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-06 13:03:14</sys_updated_on>
+            <value>Consolidated</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
