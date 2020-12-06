@@ -3,92 +3,122 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="x_200145_trade_sa_trade_policy" element="NULL" name="x_200145_trade_sa_trade_policy" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">07345a87db70201024e058b3ca961953</list_id>
+            <list_id display_value="x_200145_trade_sa_trade_policy" element="NULL" name="x_200145_trade_sa_trade_policy" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">06c386e7dbf8601024e058b3ca96198f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-05 04:37:16</sys_created_on>
-            <sys_id>4b345a87db70201024e058b3ca961953</sys_id>
+            <sys_created_on>2020-12-06 16:42:21</sys_created_on>
+            <sys_id>cec386e7dbf8601024e058b3ca96198f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-05 04:37:16</sys_updated_on>
+            <sys_updated_on>2020-12-06 16:42:21</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>month_amount</element>
-            <list_id display_value="x_200145_trade_sa_trade_policy" element="NULL" name="x_200145_trade_sa_trade_policy" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">07345a87db70201024e058b3ca961953</list_id>
+            <list_id display_value="x_200145_trade_sa_trade_policy" element="NULL" name="x_200145_trade_sa_trade_policy" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">06c386e7dbf8601024e058b3ca96198f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-05 04:37:16</sys_created_on>
-            <sys_id>cb345a87db70201024e058b3ca961953</sys_id>
+            <sys_created_on>2020-12-06 16:42:21</sys_created_on>
+            <sys_id>46c386e7dbf8601024e058b3ca961990</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-05 04:37:16</sys_updated_on>
+            <sys_updated_on>2020-12-06 16:42:21</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>trade_asset</element>
-            <list_id display_value="x_200145_trade_sa_trade_policy" element="NULL" name="x_200145_trade_sa_trade_policy" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">07345a87db70201024e058b3ca961953</list_id>
+            <element>actual_result</element>
+            <list_id display_value="x_200145_trade_sa_trade_policy" element="NULL" name="x_200145_trade_sa_trade_policy" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">06c386e7dbf8601024e058b3ca96198f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-05 04:37:16</sys_created_on>
-            <sys_id>4f345a87db70201024e058b3ca961953</sys_id>
+            <sys_created_on>2020-12-06 16:42:21</sys_created_on>
+            <sys_id>c6c386e7dbf8601024e058b3ca961990</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-05 04:37:16</sys_updated_on>
+            <sys_updated_on>2020-12-06 16:42:21</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>loss_limit</element>
-            <list_id display_value="x_200145_trade_sa_trade_policy" element="NULL" name="x_200145_trade_sa_trade_policy" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">07345a87db70201024e058b3ca961953</list_id>
+            <element>actual_result_percent</element>
+            <list_id display_value="x_200145_trade_sa_trade_policy" element="NULL" name="x_200145_trade_sa_trade_policy" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">06c386e7dbf8601024e058b3ca96198f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-05 04:37:16</sys_created_on>
-            <sys_id>cf345a87db70201024e058b3ca961953</sys_id>
+            <sys_created_on>2020-12-06 16:42:21</sys_created_on>
+            <sys_id>4ac386e7dbf8601024e058b3ca961990</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-05 04:37:16</sys_updated_on>
+            <sys_updated_on>2020-12-06 16:42:21</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>month</element>
-            <list_id display_value="x_200145_trade_sa_trade_policy" element="NULL" name="x_200145_trade_sa_trade_policy" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">07345a87db70201024e058b3ca961953</list_id>
+            <element>trade_asset</element>
+            <list_id display_value="x_200145_trade_sa_trade_policy" element="NULL" name="x_200145_trade_sa_trade_policy" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">06c386e7dbf8601024e058b3ca96198f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-05 04:37:16</sys_created_on>
-            <sys_id>43345a87db70201024e058b3ca961954</sys_id>
+            <sys_created_on>2020-12-06 16:42:21</sys_created_on>
+            <sys_id>cac386e7dbf8601024e058b3ca961990</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-05 04:37:16</sys_updated_on>
+            <sys_updated_on>2020-12-06 16:42:21</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>year</element>
-            <list_id display_value="x_200145_trade_sa_trade_policy" element="NULL" name="x_200145_trade_sa_trade_policy" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">07345a87db70201024e058b3ca961953</list_id>
+            <element>loss_limit</element>
+            <list_id display_value="x_200145_trade_sa_trade_policy" element="NULL" name="x_200145_trade_sa_trade_policy" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">06c386e7dbf8601024e058b3ca96198f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-05 04:37:16</sys_created_on>
-            <sys_id>c3345a87db70201024e058b3ca961954</sys_id>
+            <sys_created_on>2020-12-06 16:42:21</sys_created_on>
+            <sys_id>4ec386e7dbf8601024e058b3ca961990</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-05 04:37:16</sys_updated_on>
+            <sys_updated_on>2020-12-06 16:42:21</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>month</element>
+            <list_id display_value="x_200145_trade_sa_trade_policy" element="NULL" name="x_200145_trade_sa_trade_policy" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">06c386e7dbf8601024e058b3ca96198f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-06 16:42:21</sys_created_on>
+            <sys_id>cec386e7dbf8601024e058b3ca961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-06 16:42:21</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>year</element>
+            <list_id display_value="x_200145_trade_sa_trade_policy" element="NULL" name="x_200145_trade_sa_trade_policy" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">06c386e7dbf8601024e058b3ca96198f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-06 16:42:21</sys_created_on>
+            <sys_id>42c386e7dbf8601024e058b3ca961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-06 16:42:21</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -102,10 +132,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-05 04:37:16</sys_created_on>
+            <sys_created_on>2020-12-06 16:42:21</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>07345a87db70201024e058b3ca961953</sys_id>
+            <sys_id>06c386e7dbf8601024e058b3ca96198f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_200145_trade_sa_trade_policy</sys_name>
             <sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package>
@@ -113,7 +143,7 @@
             <sys_scope display_value="Trade Performance">627f7d43db30201024e058b3ca961958</sys_scope>
             <sys_update_name>sys_ui_list_x_200145_trade_sa_trade_policy_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-05 04:37:16</sys_updated_on>
+            <sys_updated_on>2020-12-06 16:42:21</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
