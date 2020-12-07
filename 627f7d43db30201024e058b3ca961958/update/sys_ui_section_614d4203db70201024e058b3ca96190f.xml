@@ -4,13 +4,13 @@
             <element>name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-06 13:18:57</sys_created_on>
-            <sys_id>ee3515afdb38601024e058b3ca9619b3</sys_id>
+            <sys_created_on>2020-12-07 21:08:42</sys_created_on>
+            <sys_id>995a88c8dbcda01024e058b3ca96195b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_trade_policy" sys_domain="global" view="Default view">614d4203db70201024e058b3ca96190f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-06 13:18:57</sys_updated_on>
+            <sys_updated_on>2020-12-07 21:08:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>.begin_split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-06 13:18:57</sys_created_on>
-            <sys_id>623515afdb38601024e058b3ca9619b4</sys_id>
+            <sys_created_on>2020-12-07 21:08:42</sys_created_on>
+            <sys_id>515a88c8dbcda01024e058b3ca96195c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_trade_policy" sys_domain="global" view="Default view">614d4203db70201024e058b3ca96190f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-06 13:18:57</sys_updated_on>
+            <sys_updated_on>2020-12-07 21:08:42</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -32,139 +32,153 @@
             <element>month_amount</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-06 13:18:57</sys_created_on>
-            <sys_id>e23515afdb38601024e058b3ca9619b4</sys_id>
+            <sys_created_on>2020-12-07 21:08:42</sys_created_on>
+            <sys_id>d15a88c8dbcda01024e058b3ca96195c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_trade_policy" sys_domain="global" view="Default view">614d4203db70201024e058b3ca96190f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-06 13:18:57</sys_updated_on>
+            <sys_updated_on>2020-12-07 21:08:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>month_result</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-07 21:08:42</sys_created_on>
+            <sys_id>555a88c8dbcda01024e058b3ca96195c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_trade_policy" sys_domain="global" view="Default view">614d4203db70201024e058b3ca96190f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-07 21:08:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>actual_result</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-06 13:18:57</sys_created_on>
-            <sys_id>663515afdb38601024e058b3ca9619b4</sys_id>
+            <sys_created_on>2020-12-07 21:08:42</sys_created_on>
+            <sys_id>d55a88c8dbcda01024e058b3ca96195c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_trade_policy" sys_domain="global" view="Default view">614d4203db70201024e058b3ca96190f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-06 13:18:57</sys_updated_on>
+            <sys_updated_on>2020-12-07 21:08:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>month</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-06 13:18:57</sys_created_on>
-            <sys_id>e63515afdb38601024e058b3ca9619b4</sys_id>
+            <sys_created_on>2020-12-07 21:08:42</sys_created_on>
+            <sys_id>595a88c8dbcda01024e058b3ca96195c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_trade_policy" sys_domain="global" view="Default view">614d4203db70201024e058b3ca96190f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-06 13:18:57</sys_updated_on>
+            <sys_updated_on>2020-12-07 21:08:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>year</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-06 13:18:57</sys_created_on>
-            <sys_id>6a3515afdb38601024e058b3ca9619b4</sys_id>
+            <sys_created_on>2020-12-07 21:08:42</sys_created_on>
+            <sys_id>d95a88c8dbcda01024e058b3ca96195c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_trade_policy" sys_domain="global" view="Default view">614d4203db70201024e058b3ca96190f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-06 13:18:57</sys_updated_on>
+            <sys_updated_on>2020-12-07 21:08:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-06 13:18:57</sys_created_on>
-            <sys_id>ea3515afdb38601024e058b3ca9619b4</sys_id>
+            <sys_created_on>2020-12-07 21:08:42</sys_created_on>
+            <sys_id>5d5a88c8dbcda01024e058b3ca96195c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_trade_policy" sys_domain="global" view="Default view">614d4203db70201024e058b3ca96190f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-06 13:18:57</sys_updated_on>
+            <sys_updated_on>2020-12-07 21:08:42</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>trade_asset</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-06 13:18:57</sys_created_on>
-            <sys_id>6e3515afdb38601024e058b3ca9619b4</sys_id>
+            <sys_created_on>2020-12-07 21:08:42</sys_created_on>
+            <sys_id>dd5a88c8dbcda01024e058b3ca96195c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_trade_policy" sys_domain="global" view="Default view">614d4203db70201024e058b3ca96190f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-06 13:18:57</sys_updated_on>
+            <sys_updated_on>2020-12-07 21:08:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>actual_result_percent</element>
-            <position>8</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-06 13:18:57</sys_created_on>
-            <sys_id>ee3515afdb38601024e058b3ca9619b4</sys_id>
+            <sys_created_on>2020-12-07 21:08:42</sys_created_on>
+            <sys_id>515a88c8dbcda01024e058b3ca96195d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_trade_policy" sys_domain="global" view="Default view">614d4203db70201024e058b3ca96190f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-06 13:18:57</sys_updated_on>
+            <sys_updated_on>2020-12-07 21:08:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>loss_limit</element>
-            <position>9</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-06 13:18:57</sys_created_on>
-            <sys_id>623515afdb38601024e058b3ca9619b5</sys_id>
+            <sys_created_on>2020-12-07 21:08:42</sys_created_on>
+            <sys_id>d15a88c8dbcda01024e058b3ca96195d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_trade_policy" sys_domain="global" view="Default view">614d4203db70201024e058b3ca96190f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-06 13:18:57</sys_updated_on>
+            <sys_updated_on>2020-12-07 21:08:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>loss_limit_am</element>
-            <position>10</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-06 13:18:57</sys_created_on>
-            <sys_id>e23515afdb38601024e058b3ca9619b5</sys_id>
+            <sys_created_on>2020-12-07 21:08:42</sys_created_on>
+            <sys_id>555a88c8dbcda01024e058b3ca96195d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_trade_policy" sys_domain="global" view="Default view">614d4203db70201024e058b3ca96190f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-06 13:18:57</sys_updated_on>
+            <sys_updated_on>2020-12-07 21:08:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>11</position>
+            <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-06 13:18:57</sys_created_on>
-            <sys_id>663515afdb38601024e058b3ca9619b5</sys_id>
+            <sys_created_on>2020-12-07 21:08:42</sys_created_on>
+            <sys_id>d55a88c8dbcda01024e058b3ca96195d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_trade_policy" sys_domain="global" view="Default view">614d4203db70201024e058b3ca96190f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-06 13:18:57</sys_updated_on>
+            <sys_updated_on>2020-12-07 21:08:42</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>

@@ -21,6 +21,7 @@
             </choice>
         </element>
         <element label="Month amount" max_length="20" name="month_amount" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Month result" max_length="20" name="month_result" type="currency"/>
         <element attributes="edge_encryption_enabled=true" display="true" label="Name" max_length="40" name="name" read_only="true" type="string"/>
         <element attributes="encode_utf8=false" label="Trade asset" mandatory="true" max_length="32" name="trade_asset" reference="x_200145_trade_sa_trade_asset" reference_qual="state=1^EQ" reference_qual_condition="state=1^EQ" type="reference"/>
         <element label="Year" mandatory="true" max_length="4" name="year" type="string"/>
