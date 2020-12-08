@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Operation" max_length="40" name="x_200145_trade_sa_operation" sizeclass="2" type="collection">
-        <element label="Amount" mandatory="true" max_length="15" name="amount" type="currency"/>
+        <element label="Amount" max_length="15" name="amount" type="currency"/>
+        <element label="Contract(s)" mandatory="true" max_length="40" name="contract" type="integer"/>
         <element label="Date Time" mandatory="true" max_length="40" name="date_time" type="glide_date_time"/>
         <element label="Day Trade" max_length="32" name="day_trade" read_only="true" reference="x_200145_trade_sa_day_trade" type="reference"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Points" mandatory="true" max_length="40" name="points" type="integer"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Result" max_length="40" name="result" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Gain" value="gain"/>

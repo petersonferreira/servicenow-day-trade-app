@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Day Trade" max_length="40" name="x_200145_trade_sa_day_trade" sizeclass="1" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Account type" mandatory="true" max_length="40" name="account_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Real" sequence="0" value="real"/>
+                <element inactive_on_update="false" label="Simulator" sequence="1" value="simulator"/>
+            </choice>
+        </element>
         <element label="Amount" max_length="15" name="amount" type="currency"/>
         <element attributes="edge_encryption_enabled=true" label="Date" mandatory="true" max_length="40" name="date" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
