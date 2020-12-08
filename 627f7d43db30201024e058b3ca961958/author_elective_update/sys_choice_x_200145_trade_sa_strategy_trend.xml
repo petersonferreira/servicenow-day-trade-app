@@ -73,5 +73,24 @@
             <sys_updated_on>2020-12-06 13:03:14</sys_updated_on>
             <value>Consolidated</value>
         </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>trend</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No Trend</label>
+            <language>en</language>
+            <name>x_200145_trade_sa_strategy</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-08 16:02:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fcdd8094db4de01024e058b3ca9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-08 16:02:26</sys_updated_on>
+            <value>No Trend</value>
+        </sys_choice>
     </sys_choice>
 </record_update>

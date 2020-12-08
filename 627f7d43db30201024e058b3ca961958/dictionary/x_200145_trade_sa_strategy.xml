@@ -16,6 +16,7 @@
                 <element inactive_on_update="false" label="On" sequence="0" value="On"/>
                 <element inactive_on_update="false" label="Off" sequence="1" value="Off"/>
                 <element inactive_on_update="false" label="Consolidated" sequence="2" value="Consolidated"/>
+                <element inactive_on_update="false" label="No Trend" sequence="3" value="No Trend"/>
             </choice>
         </element>
     </element>

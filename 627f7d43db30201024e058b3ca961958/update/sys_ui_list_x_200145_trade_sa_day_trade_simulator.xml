@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_200145_trade_sa_day_trade" version="2" view="simulator">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>date</element>
+            <list_id display_value="x_200145_trade_sa_day_trade" element="NULL" name="x_200145_trade_sa_day_trade" parent="NULL" relationship="NULL" sys_domain="global" view="1628b304db0de01024e058b3ca961927">86f78450db4de01024e058b3ca9619ce</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-08 15:36:51</sys_created_on>
+            <sys_id>06f78450db4de01024e058b3ca9619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-08 15:36:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>result</element>
+            <list_id display_value="x_200145_trade_sa_day_trade" element="NULL" name="x_200145_trade_sa_day_trade" parent="NULL" relationship="NULL" sys_domain="global" view="1628b304db0de01024e058b3ca961927">86f78450db4de01024e058b3ca9619ce</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-08 15:36:51</sys_created_on>
+            <sys_id>8af78450db4de01024e058b3ca9619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-08 15:36:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>amount</element>
+            <list_id display_value="x_200145_trade_sa_day_trade" element="NULL" name="x_200145_trade_sa_day_trade" parent="NULL" relationship="NULL" sys_domain="global" view="1628b304db0de01024e058b3ca961927">86f78450db4de01024e058b3ca9619ce</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-08 15:36:51</sys_created_on>
+            <sys_id>0ef78450db4de01024e058b3ca9619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-08 15:36:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>trade_diary</element>
+            <list_id display_value="x_200145_trade_sa_day_trade" element="NULL" name="x_200145_trade_sa_day_trade" parent="NULL" relationship="NULL" sys_domain="global" view="1628b304db0de01024e058b3ca961927">86f78450db4de01024e058b3ca9619ce</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-08 15:36:51</sys_created_on>
+            <sys_id>8ef78450db4de01024e058b3ca9619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-08 15:36:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>trade_asset</element>
+            <list_id display_value="x_200145_trade_sa_day_trade" element="NULL" name="x_200145_trade_sa_day_trade" parent="NULL" relationship="NULL" sys_domain="global" view="1628b304db0de01024e058b3ca961927">86f78450db4de01024e058b3ca9619ce</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-08 15:36:51</sys_created_on>
+            <sys_id>02f78450db4de01024e058b3ca9619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-08 15:36:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>account_type</element>
+            <list_id display_value="x_200145_trade_sa_day_trade" element="NULL" name="x_200145_trade_sa_day_trade" parent="NULL" relationship="NULL" sys_domain="global" view="1628b304db0de01024e058b3ca961927">86f78450db4de01024e058b3ca9619ce</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-08 15:36:51</sys_created_on>
+            <sys_id>82f78450db4de01024e058b3ca9619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-08 15:36:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_200145_trade_sa_day_trade</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-08 15:36:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>86f78450db4de01024e058b3ca9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_200145_trade_sa_day_trade</sys_name>
+            <sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Trade Performance">627f7d43db30201024e058b3ca961958</sys_scope>
+            <sys_update_name>sys_ui_list_x_200145_trade_sa_day_trade_simulator</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-08 15:36:51</sys_updated_on>
+            <sys_user/>
+            <view display_value="Simulator" name="simulator">1628b304db0de01024e058b3ca961927</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

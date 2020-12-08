@@ -4,7 +4,7 @@
         <application display_value="Day Trade">d0720647db30201024e058b3ca96192d</application>
         <assessment/>
         <device_type/>
-        <filter table="x_200145_trade_sa_day_trade">account_type=real^EQ<item display_value="Real" endquery="false" field="account_type" goto="false" newquery="false" operator="=" or="false" value="real"/>
+        <filter table="x_200145_trade_sa_day_trade">account_type=simulator^EQ<item display_value="Simulator" endquery="false" field="account_type" goto="false" newquery="false" operator="=" or="false" value="simulator"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter>
         <hint/>
@@ -15,30 +15,30 @@
         <mobile_title>Trades</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_200145_trade_sa_day_trade</name>
-        <order>-100</order>
+        <order>-90</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
         <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-12-05 03:21:36</sys_created_on>
+        <sys_created_on>2020-12-08 15:38:28</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>0bb24a47db30201024e058b3ca961921</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Real Trades</sys_name>
+        <sys_id>61584414db0de01024e058b3ca961926</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Simulator</sys_name>
         <sys_overrides/>
         <sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package>
         <sys_policy/>
         <sys_scope display_value="Trade Performance">627f7d43db30201024e058b3ca961958</sys_scope>
-        <sys_update_name>sys_app_module_0bb24a47db30201024e058b3ca961921</sys_update_name>
+        <sys_update_name>sys_app_module_61584414db0de01024e058b3ca961926</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-12-08 15:40:31</sys_updated_on>
+        <sys_updated_on>2020-12-08 15:38:28</sys_updated_on>
         <timeline_page/>
-        <title>Real Trades</title>
+        <title>Simulator</title>
         <uncancelable>false</uncancelable>
-        <view_name/>
+        <view_name>Simulator</view_name>
         <window_name/>
     </sys_app_module>
 </record_update>
