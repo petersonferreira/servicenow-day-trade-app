@@ -2,6 +2,7 @@
     <element label="Trade Policy" max_length="40" name="x_200145_trade_sa_trade_policy" sizeclass="1" type="collection">
         <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;&#13;&#10;&#9;return '';&#13;&#10;&#13;&#10;})(current);" default="R$" label="Actual result" max_length="15" name="actual_result" type="currency"/>
         <element label="Actual result (%)" max_length="15" name="actual_result_percent" type="percent_complete"/>
+        <element attributes="edge_encryption_enabled=true" label="Date" mandatory="true" max_length="40" name="date" type="glide_date"/>
         <element label="Loss limit (%)" max_length="15" name="loss_limit" type="percent_complete"/>
         <element label="Loss limit" max_length="15" name="loss_limit_am" type="currency"/>
         <element choice="1" label="Month" max_length="40" name="month" type="choice">

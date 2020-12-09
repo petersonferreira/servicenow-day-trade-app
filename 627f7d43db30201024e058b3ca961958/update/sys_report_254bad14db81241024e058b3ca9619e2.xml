@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report">
     <sys_report action="INSERT_OR_UPDATE">
-        <additional_groupby>result</additional_groupby>
+        <additional_groupby>operation_mep,operation_men,operation_result</additional_groupby>
         <aggregate>COUNT</aggregate>
         <aggregation_source>no_override</aggregation_source>
         <allow_data_label_overlap>false</allow_data_label_overlap>
@@ -34,7 +34,7 @@
         <created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user>
         <custom_chart_size>false</custom_chart_size>
         <custom_chart_title_position>false</custom_chart_title_position>
-        <custom_config/>
+        <custom_config>{"transforms":[{"transform":{"transform":"Reference","name":"chart-subjects"}}]}</custom_config>
         <decimal_precision>2</decimal_precision>
         <description/>
         <direction>minimize</direction>
@@ -44,10 +44,9 @@
         <donut_width_percent>50</donut_width_percent>
         <end_time/>
         <exp_report_attrs>true</exp_report_attrs>
-        <field>mep</field>
-        <field_list>number,opened_at,u_opened_date,u_day_of_month,short_description,caller_id,u_process,u_process_1,u_process_3,priority,state,category,assignment_group,assigned_to,sys_updated_on,sys_updated_by</field_list>
-        <filter table="x_200145_trade_sa_operation">date_timeONThis month@javascript:gs.beginningOfThisMonth()@javascript:gs.endOfThisMonth()<item endquery="false" field="date_time" goto="false" newquery="false" operator="ON" or="false" value="This month@javascript:gs.beginningOfThisMonth()@javascript:gs.endOfThisMonth()"/>
-        </filter>
+        <field>operation_mep</field>
+        <field_list>dt_account_type,dt_amount,dt_amount_percent,dt_date,dt_number,dt_rate,dt_result,dt_sys_class_name,dt_sys_created_by,dt_sys_created_on</field_list>
+        <filter/>
         <from/>
         <funnel_neck_percent>30</funnel_neck_percent>
         <gauge_autoscale>true</gauge_autoscale>
@@ -105,25 +104,25 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-12-08 22:50:43</sys_created_on>
         <sys_id>254bad14db81241024e058b3ca9619e2</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Best Trades</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Operation Performance</sys_name>
         <sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package>
         <sys_policy/>
         <sys_scope display_value="Trade Performance">627f7d43db30201024e058b3ca961958</sys_scope>
         <sys_update_name>sys_report_254bad14db81241024e058b3ca9619e2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-12-08 22:50:43</sys_updated_on>
-        <table>x_200145_trade_sa_operation</table>
-        <title>Best Trades</title>
+        <sys_updated_on>2020-12-09 20:47:21</sys_updated_on>
+        <table>x_200145_trade_sa_day_trade_operation</table>
+        <title>Operation Performance</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
         <title_vertical_alignment>top</title_vertical_alignment>
         <to/>
-        <trend_field>strategy</trend_field>
+        <trend_field>operation_strategy</trend_field>
         <type>bar</type>
         <upper_limit/>
         <use_color_heatmap>false</use_color_heatmap>
         <use_null_in_trend>false</use_null_in_trend>
-        <user>6816f79cc0a8016401c5a33be04be441</user>
+        <user>GLOBAL</user>
         <x_axis_allow_decimals>true</x_axis_allow_decimals>
         <x_axis_display_grid>false</x_axis_display_grid>
         <x_axis_grid_color display_value="LightGrey">65b30308a9fe3dba01ebaa03e87e7cd3</x_axis_grid_color>
