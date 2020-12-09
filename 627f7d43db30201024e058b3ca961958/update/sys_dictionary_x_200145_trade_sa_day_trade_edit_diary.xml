@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="trade_diary" table="x_200145_trade_sa_day_trade">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="edit_diary" table="x_200145_trade_sa_day_trade">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>editor.height=170,editor.plugins=table colorpicker textcolor link image media codemirror lists advlist fullscreen charmap directionality emoticons hr insertdatetime nonbreaking pagebreak print searchreplace wordcount anchor toc codesample visualblocks visualchars compat3x autolink align_listitems,editor.toolbar= fontselect fontsizeselect | bold italic underline strikethrough forecolor backcolor pastetext removeformat |  formatselect  searchreplace undo redo |  bullist numlist outdent indent alignleft aligncenter alignright | toc table  link unlink  image media codesample | code fullscreen,encode_utf8=false,serializer=com.glide.script.TranslatedTextXMLSerializer</attributes>
+        <attributes/>
         <audit>false</audit>
         <calculation/>
-        <choice/>
+        <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Trade diary</column_label>
+        <column_label>Edit diary</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -22,14 +22,14 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>trade_diary</element>
+        <element>edit_diary</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="HTML">html</internal_type>
+        <internal_type display_value="">boolean</internal_type>
         <mandatory>false</mandatory>
-        <max_length>4000</max_length>
+        <max_length>40</max_length>
         <name>x_200145_trade_sa_day_trade</name>
         <next_element/>
         <primary>false</primary>
@@ -47,16 +47,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-12-05 03:16:33</sys_created_on>
-        <sys_id>24c14a07db30201024e058b3ca961995</sys_id>
-        <sys_mod_count>6</sys_mod_count>
-        <sys_name>Trade diary</sys_name>
+        <sys_created_on>2020-12-09 23:15:17</sys_created_on>
+        <sys_id>0f7ab6acdbc1641024e058b3ca9619dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit diary</sys_name>
         <sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package>
         <sys_policy/>
         <sys_scope display_value="Trade Performance">627f7d43db30201024e058b3ca961958</sys_scope>
-        <sys_update_name>sys_dictionary_x_200145_trade_sa_day_trade_trade_diary</sys_update_name>
+        <sys_update_name>sys_dictionary_x_200145_trade_sa_day_trade_edit_diary</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-12-09 23:23:51</sys_updated_on>
+        <sys_updated_on>2020-12-09 23:15:17</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

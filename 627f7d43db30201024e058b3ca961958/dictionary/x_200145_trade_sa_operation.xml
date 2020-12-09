@@ -22,7 +22,7 @@
         </element>
         <element attributes="encode_utf8=false" label="Strategy" mandatory="true" max_length="32" name="strategy" reference="x_200145_trade_sa_strategy" type="reference"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
-        <element attributes="edge_encryption_enabled=true" label="Trade diary" max_length="4000" name="trade_diary" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Trade diary" mandatory="true" max_length="4000" name="trade_diary" type="string"/>
         <element label="Value" max_length="20" name="value" type="decimal"/>
         <index name="index">
             <element name="day_trade"/>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_action">
+    <sys_ui_action action="INSERT_OR_UPDATE">
+        <action_name/>
+        <active>true</active>
+        <client>false</client>
+        <client_script_v2><![CDATA[function onClick(g_form) {
+
+}]]></client_script_v2>
+        <comments/>
+        <condition/>
+        <form_action>true</form_action>
+        <form_button>false</form_button>
+        <form_button_v2>false</form_button_v2>
+        <form_context_menu>false</form_context_menu>
+        <form_link>true</form_link>
+        <form_menu_button_v2>false</form_menu_button_v2>
+        <form_style/>
+        <hint/>
+        <isolate_script>false</isolate_script>
+        <list_action>false</list_action>
+        <list_banner_button>false</list_banner_button>
+        <list_button>false</list_button>
+        <list_choice>false</list_choice>
+        <list_context_menu>false</list_context_menu>
+        <list_link>false</list_link>
+        <list_save_with_form_button>false</list_save_with_form_button>
+        <list_style/>
+        <messages/>
+        <name>Generate Trade Diary</name>
+        <onclick/>
+        <order>100</order>
+        <script><![CDATA[var diary = '';
+
+var gr_op = new GlideRecord('x_200145_trade_sa_operation');
+gr_op.addEncodedQuery("day_trade=" + current.getUniqueValue());
+gr_op.orderBy('date_time');
+gr_op.query();
+
+while (gr_op.next()) {
+
+    diary += '<li>' +  gr_op.trade_diary + '</li>';
+
+}
+
+current.trade_diary = '<ul style="list-style-position: inside;">'+ diary + '</ul>';
+current.update();
+action.setRedirectURL(current);]]></script>
+        <show_insert>false</show_insert>
+        <show_multiple_update>false</show_multiple_update>
+        <show_query>false</show_query>
+        <show_update>true</show_update>
+        <sys_class_name>sys_ui_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-09 23:00:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8b763ea8dbc1641024e058b3ca96193d</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Generate Trade Diary</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Trade Performance">627f7d43db30201024e058b3ca961958</sys_scope>
+        <sys_update_name>sys_ui_action_8b763ea8dbc1641024e058b3ca96193d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-09 23:18:39</sys_updated_on>
+        <table>x_200145_trade_sa_day_trade</table>
+        <ui11_compatible>true</ui11_compatible>
+        <ui16_compatible>false</ui16_compatible>
+    </sys_ui_action>
+</record_update>

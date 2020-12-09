@@ -9,6 +9,7 @@
         <element label="Amount" max_length="15" name="amount" type="currency"/>
         <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;    var tp = current.trade_policy.getRefRecord(),&#13;&#10;        value = '';&#13;&#10;&#13;&#10;    if (current.account_type == 'real')&#13;&#10;        value = current.amount / tp.month_amount * 100;&#13;&#10;&#13;&#10;    return value;&#13;&#10;&#13;&#10;})(current);" label="Amount (%)" max_length="15" name="amount_percent" type="percent_complete" virtual="true"/>
         <element attributes="edge_encryption_enabled=true" label="Date" mandatory="true" max_length="40" name="date" type="glide_date"/>
+        <element label="Edit diary" max_length="40" name="edit_diary" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
         <element attributes="omit_sys_original=true" label="Rate" max_length="20" name="rate" type="currency"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Result" max_length="40" name="result" type="choice">
@@ -19,7 +20,7 @@
         </element>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
         <element attributes="encode_utf8=false" label="Trade asset" max_length="32" name="trade_asset" reference="x_200145_trade_sa_trade_asset" type="reference"/>
-        <element attributes="edge_encryption_enabled=true" label="Trade diary" mandatory="true" max_length="4000" name="trade_diary" type="string"/>
+        <element attributes="editor.height=170,editor.plugins=table colorpicker textcolor link image media codemirror lists advlist fullscreen charmap directionality emoticons hr insertdatetime nonbreaking pagebreak print searchreplace wordcount anchor toc codesample visualblocks visualchars compat3x autolink align_listitems,editor.toolbar= fontselect fontsizeselect | bold italic underline strikethrough forecolor backcolor pastetext removeformat |  formatselect  searchreplace undo redo |  bullist numlist outdent indent alignleft aligncenter alignright | toc table  link unlink  image media codesample | code fullscreen,encode_utf8=false,serializer=com.glide.script.TranslatedTextXMLSerializer" label="Trade diary" max_length="4000" name="trade_diary" type="html"/>
         <element attributes="encode_utf8=false" label="Trade policy" max_length="32" name="trade_policy" read_only="true" reference="x_200145_trade_sa_trade_policy" type="reference"/>
         <index name="index">
             <element name="trade_asset"/>
