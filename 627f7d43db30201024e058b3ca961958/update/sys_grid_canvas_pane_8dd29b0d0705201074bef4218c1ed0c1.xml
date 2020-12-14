@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
     <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
         <grid_canvas display_value="PA Trade Performance - New Tab">aac2e59cdb41241024e058b3ca9619c3</grid_canvas>
-        <height>3</height>
-        <portal_widget display_value="Created 2020-12-09 17:59:53">ff7b96e0db81641024e058b3ca961973</portal_widget>
-        <posx>10</posx>
-        <posy>3</posy>
+        <height>10</height>
+        <portal_widget display_value="Created 2020-12-11 11:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_widget>
+        <posx>5</posx>
+        <posy>6</posy>
         <sys_class_name>sys_grid_canvas_pane</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-12-09 20:59:53</sys_created_on>
-        <sys_id>b77b96e0db81641024e058b3ca961976</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_created_on>2020-12-11 14:18:36</sys_created_on>
+        <sys_id>8dd29b0d0705201074bef4218c1ed0c1</sys_id>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name>aac2e59cdb41241024e058b3ca9619c3</sys_name>
         <sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package>
         <sys_policy/>
         <sys_scope display_value="Trade Performance">627f7d43db30201024e058b3ca961958</sys_scope>
-        <sys_update_name>sys_grid_canvas_pane_b77b96e0db81641024e058b3ca961976</sys_update_name>
+        <sys_update_name>sys_grid_canvas_pane_8dd29b0d0705201074bef4218c1ed0c1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-12-14 21:02:12</sys_updated_on>
-        <width>2</width>
+        <sys_updated_on>2020-12-14 21:00:59</sys_updated_on>
+        <width>5</width>
     </sys_grid_canvas_pane>
 </record_update>
