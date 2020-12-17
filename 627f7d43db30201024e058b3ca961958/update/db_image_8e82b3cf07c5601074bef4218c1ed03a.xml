@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
+    <db_image action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <format>png</format>
+        <height>12</height>
+        <image>6e923b8f07c5601074bef4218c1ed00e</image>
+        <name>down_arrow_red_12.png</name>
+        <size_bytes>920</size_bytes>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-17 21:45:08</sys_created_on>
+        <sys_id>8e82b3cf07c5601074bef4218c1ed03a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>down_arrow_red_12.png</sys_name>
+        <sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Trade Performance">627f7d43db30201024e058b3ca961958</sys_scope>
+        <sys_update_name>db_image_8e82b3cf07c5601074bef4218c1ed03a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-17 21:45:16</sys_updated_on>
+        <thumbnail/>
+        <width>12</width>
+    </db_image>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#ff664a</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>image</file_name>
+        <hash>71721e4f611b5ba091e6dea004069c1d3e8e88db94b526ee7237d4f99be82a94</hash>
+        <image_height>12</image_height>
+        <image_width>12</image_width>
+        <size_bytes>920</size_bytes>
+        <size_compressed>759</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-17 21:45:16</sys_created_on>
+        <sys_id>6e923b8f07c5601074bef4218c1ed00e</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-17 21:45:16</sys_updated_on>
+        <table_name>ZZ_YYdb_image</table_name>
+        <table_sys_id>8e82b3cf07c5601074bef4218c1ed03a</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image" sys_id="6e923b8f07c5601074bef4218c1ed00e">6e923b8f07c5601074bef4218c1ed00e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-17 21:45:16</sys_created_on>
+        <sys_id>ae923b8f07c5601074bef4218c1ed00e</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>6wzwc+flkuJiYGDg9fRwCQLSPCDMwQYkw0pjngMplnRHX0cGho393H8SWYF8hWSPIF8Ghio1BoaGFgaGX0ChhhcMDKUGDAyvEhgYrGYwMIgXzNkVaAOUqEiN8Ezz9WXQArI5GFgZhRiYgSxGIGRglGJgBbMZGLwYpeHsIEYNqBomBob2TAYWqHgUAwQkQvkQmmkBE1wFzwJmBBukdEXvjCogxVngEVnMwMD3GoQZC882TgWqicwMiSiJ8PWxSs7P1UtMyU9K1avILQDbYFNhBWTmppYkKlTk5uQVW1XYKoFVWAHZIGF9JQWwkpJsW6UI3wAF5/yiVAVTPRM9AyU7LgUFBZuilDSrIBc3qHYgz1Ypo6SkwEpfv7y8XK/cWC+/KF3f0NLSUt/ASN/ISBeoQre4Mq8ksUI3r1gZYgjMHJfU4uSizIKSzPw8BRA/MSm/tMRWSQmqBgIgFpVkpiFsyiuGegvoQX2QjL6hnoE+3GyQ8SBRK/+izFSgzSDz7Qxt9DHEYG7RR3MMxKf6UK/acdnow4PNjsvnkHokMJBVPV0cQzREUyda+zEbCrT9n/lViCsrS4qv0cX3EOOlxSysKyY8YNrpMKuDg1NQQ6OYUcBXyoIl3EOUk3Pj7m8PNl6/mCZ58pvNvsobahUT6+wXHz10akF5i9+3zk2rrvTfkRA5anj2vr1QspNCrguPUvzCshV5M4Mjzusyd7TOdojOV80xzzmcdbzl6qnv35SEzidciV4VaKzYOO20BbfnxRTBS7kr9x2ZEDPvzeIH2htqfvO1GzxjmlqqeDHlTfwbRp/4gk3tsnekn9yUWmp9IO/5Gfa/e5ll3ENtzZX3N8y/L/5kz70zOoffsZwxL9CzzZqjl+ykGlxVtTeM/XSFzHvD+t2tW4Nn+HR7/OC+qm3uXZC0MXCKzLc0I6upG9juWq9ddSnln+WfivNF96p5GsX+sCcvKubV5FY+DUp7nq5+LuucEpoAhGXfC5gDAAA=</data>
+        <length>1000</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="6e923b8f07c5601074bef4218c1ed00e">6e923b8f07c5601074bef4218c1ed00e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-17 21:45:16</sys_created_on>
+        <sys_id>22923b8f07c5601074bef4218c1ed00f</sys_id>
+    </sys_attachment_doc>
+</record_update>

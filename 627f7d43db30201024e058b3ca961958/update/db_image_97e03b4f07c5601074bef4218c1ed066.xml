@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
+    <db_image action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <format>png</format>
+        <height>12</height>
+        <image>e011bb4f07c5601074bef4218c1ed0b8</image>
+        <name>down_arrow_12_green.png</name>
+        <size_bytes>352</size_bytes>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-17 21:38:26</sys_created_on>
+        <sys_id>97e03b4f07c5601074bef4218c1ed066</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>down_arrow_12_green.png</sys_name>
+        <sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Trade Performance">627f7d43db30201024e058b3ca961958</sys_scope>
+        <sys_update_name>db_image_97e03b4f07c5601074bef4218c1ed066</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-17 21:38:35</sys_updated_on>
+        <thumbnail/>
+        <width>12</width>
+    </db_image>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#91ee91</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>image</file_name>
+        <hash>cd8207808a23a3be2d78def377ff6f28aeead4d70ed54e6b13487c202aafc4a7</hash>
+        <image_height>12</image_height>
+        <image_width>12</image_width>
+        <size_bytes>352</size_bytes>
+        <size_compressed>373</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-17 21:38:35</sys_created_on>
+        <sys_id>e011bb4f07c5601074bef4218c1ed0b8</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-17 21:38:35</sys_updated_on>
+        <table_name>ZZ_YYdb_image</table_name>
+        <table_sys_id>97e03b4f07c5601074bef4218c1ed066</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image" sys_id="e011bb4f07c5601074bef4218c1ed0b8">e011bb4f07c5601074bef4218c1ed0b8</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-17 21:38:35</sys_created_on>
+        <sys_id>2411bb4f07c5601074bef4218c1ed0b8</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>6wzwc+flkuJiYGDg9fRwCQLSPCDMwQYkw0pjngMpxuIgdyeGdedkXgI5LOmOvo4MDBv7uf8ksgL5nAUekcUMDHwvQZiRz9hJBij41dPFMUQj+OzE/X5MjgLH0sv8DdTKRFoebA6IiAj6wdM2Y4KDxsEnXN7rd3zWUfjFsI9VVz8p8c90AR72os+G2/MCNmx8Mj2nLH3fT7PNm32sXfIvejo4+rTNs3i+2m+p8ddJh3/cnbhHrdT7W+OMWSy7Go5+5VisrG9t1iawUHDajJn+plt28SnumFN/Jplhtt8dxb8+2atzSlcffa63u1nqHc+ZBRn9l6dvUQt7x1q0rO3RM/sVisG5M85/2hc5Rdz7rK3RDlcn8/uq+wVerbwWdlnlBNPNWUGf5pmESGQvtv/JvKqsf/d5u1vzLtXfKG/eF+ogIP8q/fFqE+2D7VwXpebei1E7JPDeBBgADJ6ufi7rnBKaAOaRsSVgAQAA</data>
+        <length>484</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="e011bb4f07c5601074bef4218c1ed0b8">e011bb4f07c5601074bef4218c1ed0b8</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-17 21:38:35</sys_created_on>
+        <sys_id>a411bb4f07c5601074bef4218c1ed0b8</sys_id>
+    </sys_attachment_doc>
+</record_update>
