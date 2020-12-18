@@ -4,7 +4,7 @@
         <element label="Actual result (%)" max_length="15" name="actual_result_percent" type="percent_complete"/>
         <element attributes="edge_encryption_enabled=true" label="Date" mandatory="true" max_length="40" name="date" type="glide_date"/>
         <element label="Loss limit (%)" max_length="15" name="loss_limit" type="percent_complete"/>
-        <element label="Loss limit" max_length="15" name="loss_limit_am" type="currency"/>
+        <element attributes="scale=2" label="Loss limit" max_length="15" name="loss_limit_am" type="currency"/>
         <element choice="1" label="Month" max_length="40" name="month" type="choice">
             <choice>
                 <element inactive_on_update="false" label="January" sequence="1" value="1"/>
@@ -21,9 +21,11 @@
                 <element inactive_on_update="false" label="December" sequence="12" value="12"/>
             </choice>
         </element>
+        <element attributes="omit_sys_original=true" label="Monthly target" max_length="20" name="monthly_target" type="currency"/>
         <element label="Month amount" max_length="20" name="month_amount" type="currency"/>
         <element attributes="omit_sys_original=true" label="Month result" max_length="20" name="month_result" type="currency"/>
         <element attributes="edge_encryption_enabled=true" display="true" label="Name" max_length="40" name="name" read_only="true" type="string"/>
+        <element label="Number of sessions" mandatory="true" max_length="40" name="number_of_sessions" type="integer"/>
         <element attributes="encode_utf8=false" label="Trade asset" mandatory="true" max_length="32" name="trade_asset" reference="x_200145_trade_sa_trade_asset" reference_qual="state=1^EQ" reference_qual_condition="state=1^EQ" type="reference"/>
         <element label="Year" mandatory="true" max_length="4" name="year" type="string"/>
         <index name="index">
