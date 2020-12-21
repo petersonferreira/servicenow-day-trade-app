@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="monthly_target" label="Monthly target" language="en" table="x_200145_trade_sa_trade_policy">
+    <sys_documentation element="target_results" label="Remaining to target" language="en" table="x_200145_trade_sa_trade_policy">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>monthly_target</element>
+            <element>target_results</element>
             <help/>
-            <hint>Number of sessions x Loss limit</hint>
-            <label>Monthly target</label>
+            <hint>Monthly target - Actual result</hint>
+            <label>Remaining to target</label>
             <language>en</language>
             <name>x_200145_trade_sa_trade_policy</name>
-            <plural>Monthly targets</plural>
+            <plural>Remaining to target</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-18 14:22:22</sys_created_on>
-            <sys_id>9cd693df07c1a01074bef4218c1ed0a9</sys_id>
+            <sys_created_on>2020-12-21 19:51:09</sys_created_on>
+            <sys_id>7ddebf180715201074bef4218c1ed084</sys_id>
             <sys_mod_count>2</sys_mod_count>
-            <sys_name>Monthly target</sys_name>
+            <sys_name>Remaining to target</sys_name>
             <sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package>
             <sys_policy/>
             <sys_scope display_value="Trade Performance">627f7d43db30201024e058b3ca961958</sys_scope>
-            <sys_update_name>sys_documentation_x_200145_trade_sa_trade_policy_monthly_target_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_200145_trade_sa_trade_policy_target_results_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-21 19:55:04</sys_updated_on>
+            <sys_updated_on>2020-12-21 20:08:00</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
