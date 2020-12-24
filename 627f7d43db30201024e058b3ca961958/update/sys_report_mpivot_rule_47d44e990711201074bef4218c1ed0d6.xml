@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_mpivot_rule">
+    <sys_report_mpivot_rule action="INSERT_OR_UPDATE">
+        <bg_color>background-color:</bg_color>
+        <bg_color_id/>
+        <color>background-color:#fcc742</color>
+        <color_id display_value="#fcc742">62f44e990711201074bef4218c1ed0b4</color_id>
+        <operator>&gt;=</operator>
+        <order>300</order>
+        <report_id display_value="Target Achieved (%)">9b344e190711201074bef4218c1ed099</report_id>
+        <sys_class_name>sys_report_mpivot_rule</sys_class_name>
+        <sys_created_by>peterson.ferreira</sys_created_by>
+        <sys_created_on>2020-12-24 13:32:51</sys_created_on>
+        <sys_id>47d44e990711201074bef4218c1ed0d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>&gt;=</sys_name>
+        <sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Trade Performance">627f7d43db30201024e058b3ca961958</sys_scope>
+        <sys_update_name>sys_report_mpivot_rule_47d44e990711201074bef4218c1ed0d6</sys_update_name>
+        <sys_updated_by>peterson.ferreira</sys_updated_by>
+        <sys_updated_on>2020-12-24 13:32:51</sys_updated_on>
+        <value1>50</value1>
+        <value2/>
+    </sys_report_mpivot_rule>
+</record_update>

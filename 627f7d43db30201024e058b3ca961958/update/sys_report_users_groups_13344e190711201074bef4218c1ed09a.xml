@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Target Achieved (%)">9b344e190711201074bef4218c1ed099</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>peterson.ferreira</sys_created_by>
+        <sys_created_on>2020-12-24 13:29:25</sys_created_on>
+        <sys_id>13344e190711201074bef4218c1ed09a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9b344e190711201074bef4218c1ed099</sys_name>
+        <sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Trade Performance">627f7d43db30201024e058b3ca961958</sys_scope>
+        <sys_update_name>sys_report_users_groups_13344e190711201074bef4218c1ed09a</sys_update_name>
+        <sys_updated_by>peterson.ferreira</sys_updated_by>
+        <sys_updated_on>2020-12-24 13:29:25</sys_updated_on>
+        <user_id display_value="Peterson Ferreira">325a78c10711201074bef4218c1ed0af</user_id>
+    </sys_report_users_groups>
+</record_update>
