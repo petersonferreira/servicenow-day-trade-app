@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Trade Policy" max_length="40" name="x_200145_trade_sa_trade_policy" sizeclass="1" type="collection">
+    <element label="Trade Policy" max_length="40" name="x_200145_trade_sa_trade_policy" sizeclass="2" type="collection">
         <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;&#13;&#10;&#9;return '';&#13;&#10;&#13;&#10;})(current);" default="R$" label="Actual result" max_length="15" name="actual_result" type="currency"/>
         <element hint="Percentage of the month's capital." label="Actual result (%)" max_length="15" name="actual_result_percent" type="percent_complete"/>
         <element attributes="edge_encryption_enabled=true" label="Date" mandatory="true" max_length="40" name="date" type="glide_date"/>
