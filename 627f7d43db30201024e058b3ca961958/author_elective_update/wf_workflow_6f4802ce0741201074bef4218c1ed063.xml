@@ -270,7 +270,7 @@
         <reverted_from/>
         <source>41ee611fdb3c201024e058b3ca9619d5</source>
         <source_table>sys_update_set</source_table>
-        <state>current</state>
+        <state>previous</state>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-12-14 11:28:41</sys_created_on>
         <sys_id>19b886ce0741201074bef4218c1ed016</sys_id>
@@ -283,7 +283,7 @@
         <update_guid_history>51b886ced7412010b9f568d769b39616:55177687</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Teste">28ab02820781201074bef4218c1ed004</sys_audit_delete>
+        <sys_audit_delete display_value="">28ab02820781201074bef4218c1ed004</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-12-14 11:41:27</sys_created_on>

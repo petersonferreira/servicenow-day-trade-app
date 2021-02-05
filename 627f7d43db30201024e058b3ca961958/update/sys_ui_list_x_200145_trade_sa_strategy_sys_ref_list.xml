@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_200145_trade_sa_strategy" element="NULL" name="x_200145_trade_sa_strategy" parent="NULL" relationship="NULL" sys_domain="global" view="2a2a3073db12101024e058b3ca961976">bee79163db78601024e058b3ca961988</list_id>
+            <list_id display_value="x_200145_trade_sa_strategy" element="NULL" name="x_200145_trade_sa_strategy" parent="NULL" relationship="NULL" sys_domain="global" view="84eb6260013120100acb3f11fae2b1b7">bee79163db78601024e058b3ca961988</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -18,7 +18,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>short_description</element>
-            <list_id display_value="x_200145_trade_sa_strategy" element="NULL" name="x_200145_trade_sa_strategy" parent="NULL" relationship="NULL" sys_domain="global" view="2a2a3073db12101024e058b3ca961976">bee79163db78601024e058b3ca961988</list_id>
+            <list_id display_value="x_200145_trade_sa_strategy" element="NULL" name="x_200145_trade_sa_strategy" parent="NULL" relationship="NULL" sys_domain="global" view="84eb6260013120100acb3f11fae2b1b7">bee79163db78601024e058b3ca961988</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -33,7 +33,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>motivator_type</element>
-            <list_id display_value="x_200145_trade_sa_strategy" element="NULL" name="x_200145_trade_sa_strategy" parent="NULL" relationship="NULL" sys_domain="global" view="2a2a3073db12101024e058b3ca961976">bee79163db78601024e058b3ca961988</list_id>
+            <list_id display_value="x_200145_trade_sa_strategy" element="NULL" name="x_200145_trade_sa_strategy" parent="NULL" relationship="NULL" sys_domain="global" view="84eb6260013120100acb3f11fae2b1b7">bee79163db78601024e058b3ca961988</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
@@ -48,7 +48,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>trend</element>
-            <list_id display_value="x_200145_trade_sa_strategy" element="NULL" name="x_200145_trade_sa_strategy" parent="NULL" relationship="NULL" sys_domain="global" view="2a2a3073db12101024e058b3ca961976">bee79163db78601024e058b3ca961988</list_id>
+            <list_id display_value="x_200145_trade_sa_strategy" element="NULL" name="x_200145_trade_sa_strategy" parent="NULL" relationship="NULL" sys_domain="global" view="84eb6260013120100acb3f11fae2b1b7">bee79163db78601024e058b3ca961988</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
@@ -85,7 +85,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2020-12-06 13:30:43</sys_updated_on>
             <sys_user/>
-            <view display_value="Reference List" name="sys_ref_list">2a2a3073db12101024e058b3ca961976</view>
+            <view display_value="Reference List" name="sys_ref_list">84eb6260013120100acb3f11fae2b1b7</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

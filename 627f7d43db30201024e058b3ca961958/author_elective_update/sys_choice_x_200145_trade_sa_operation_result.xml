@@ -6,7 +6,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-12-05 03:47:05</sys_created_on>
-            <sys_id>37b88acbdb30201024e058b3ca961991</sys_id>
+            <sys_id>b9db7783db8220101752b298f4961900</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>result</sys_name>
             <sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package>
@@ -25,6 +25,7 @@
             <language>en</language>
             <name>x_200145_trade_sa_operation</name>
             <sequence/>
+            <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-12-05 03:47:05</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -44,6 +45,7 @@
             <language>en</language>
             <name>x_200145_trade_sa_operation</name>
             <sequence/>
+            <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-12-05 03:47:13</sys_created_on>
             <sys_domain>global</sys_domain>

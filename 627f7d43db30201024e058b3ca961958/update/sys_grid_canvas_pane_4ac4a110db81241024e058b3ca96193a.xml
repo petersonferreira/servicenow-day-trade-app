@@ -2,7 +2,7 @@
     <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
         <grid_canvas display_value="PA Trade Performance - New Tab">aac2e59cdb41241024e058b3ca9619c3</grid_canvas>
         <height>3</height>
-        <portal_widget display_value="Created 2020-12-08 19:22:22">0ac4a110db81241024e058b3ca961938</portal_widget>
+        <portal_widget display_value="Created 2020-12-08 14:22:22">0ac4a110db81241024e058b3ca961938</portal_widget>
         <posx>6</posx>
         <posy>3</posy>
         <sys_class_name>sys_grid_canvas_pane</sys_class_name>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2021-02-05 15:10:58">
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2021-02-05 18:06:01">
     <sys_portal_page action="INSERT_OR_UPDATE">
         <layout/>
         <order/>
@@ -38,7 +38,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:14:34</sys_created_on>
                         <sys_id>0003259cdb41241024e058b3ca96193d</sys_id>
@@ -49,7 +49,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>is_using_database_view</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:14:34</sys_created_on>
                         <sys_id>0c03259cdb41241024e058b3ca96193d</sys_id>
@@ -60,7 +60,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_real_time</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:14:34</sys_created_on>
                         <sys_id>4c03259cdb41241024e058b3ca96193c</sys_id>
@@ -71,7 +71,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:28</sys_created_on>
                         <sys_id>60e81e20db81641024e058b3ca961944</sys_id>
@@ -82,7 +82,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:28</sys_created_on>
                         <sys_id>60e81e20db81641024e058b3ca961945</sys_id>
@@ -93,7 +93,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:28</sys_created_on>
                         <sys_id>64e81e20db81641024e058b3ca961944</sys_id>
@@ -104,7 +104,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:28</sys_created_on>
                         <sys_id>64e81e20db81641024e058b3ca961945</sys_id>
@@ -115,7 +115,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:28</sys_created_on>
                         <sys_id>68e81e20db81641024e058b3ca961944</sys_id>
@@ -126,7 +126,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:28</sys_created_on>
                         <sys_id>68e81e20db81641024e058b3ca961945</sys_id>
@@ -137,7 +137,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:28</sys_created_on>
                         <sys_id>6ce81e20db81641024e058b3ca961944</sys_id>
@@ -148,7 +148,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:28</sys_created_on>
                         <sys_id>6ce81e20db81641024e058b3ca961945</sys_id>
@@ -159,7 +159,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:14:34</sys_created_on>
                         <sys_id>8003259cdb41241024e058b3ca96193c</sys_id>
@@ -170,7 +170,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:14:34</sys_created_on>
                         <sys_id>8403259cdb41241024e058b3ca96193d</sys_id>
@@ -181,7 +181,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:14:34</sys_created_on>
                         <sys_id>8803259cdb41241024e058b3ca96193c</sys_id>
@@ -192,7 +192,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:14:34</sys_created_on>
                         <sys_id>c003259cdb41241024e058b3ca96193d</sys_id>
@@ -203,7 +203,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:34">0003259cdb41241024e058b3ca96193c</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:14:34</sys_created_on>
                         <sys_id>c403259cdb41241024e058b3ca96193c</sys_id>
@@ -228,7 +228,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2020-12-11 11:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-11 06:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-11 14:18:36</sys_created_on>
                         <sys_id>01d29b0d0705201074bef4218c1ed0c1</sys_id>
@@ -239,7 +239,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2020-12-11 11:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-11 06:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-11 14:18:36</sys_created_on>
                         <sys_id>05d29b0d0705201074bef4218c1ed0c0</sys_id>
@@ -250,7 +250,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2020-12-11 11:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-11 06:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-11 14:18:36</sys_created_on>
                         <sys_id>09d29b0d0705201074bef4218c1ed0bf</sys_id>
@@ -261,7 +261,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 2020-12-11 11:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-11 06:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-11 14:19:51</sys_created_on>
                         <sys_id>13135bc10705201074bef4218c1ed0da</sys_id>
@@ -272,7 +272,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 2020-12-11 11:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-11 06:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-11 14:19:51</sys_created_on>
                         <sys_id>13135bc10705201074bef4218c1ed0db</sys_id>
@@ -283,7 +283,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 2020-12-11 11:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-11 06:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-11 14:19:51</sys_created_on>
                         <sys_id>17135bc10705201074bef4218c1ed0da</sys_id>
@@ -294,7 +294,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 2020-12-11 11:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-11 06:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-11 14:19:51</sys_created_on>
                         <sys_id>17135bc10705201074bef4218c1ed0db</sys_id>
@@ -305,7 +305,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 2020-12-11 11:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-11 06:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-11 14:19:51</sys_created_on>
                         <sys_id>1b135bc10705201074bef4218c1ed0da</sys_id>
@@ -316,7 +316,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 2020-12-11 11:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-11 06:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-11 14:19:51</sys_created_on>
                         <sys_id>1b135bc10705201074bef4218c1ed0db</sys_id>
@@ -327,7 +327,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 2020-12-11 11:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-11 06:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-11 14:19:51</sys_created_on>
                         <sys_id>1f135bc10705201074bef4218c1ed0da</sys_id>
@@ -338,7 +338,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 2020-12-11 11:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-11 06:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-11 14:19:51</sys_created_on>
                         <sys_id>1f135bc10705201074bef4218c1ed0db</sys_id>
@@ -349,7 +349,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 2020-12-11 11:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-11 06:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-11 14:18:36</sys_created_on>
                         <sys_id>4dd29b0d0705201074bef4218c1ed0c0</sys_id>
@@ -360,7 +360,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 2020-12-11 11:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-11 06:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-11 14:18:36</sys_created_on>
                         <sys_id>89d29b0d0705201074bef4218c1ed0c0</sys_id>
@@ -371,7 +371,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 2020-12-11 11:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-11 06:18:36">01d29b0d0705201074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-11 14:18:36</sys_created_on>
                         <sys_id>c5d29b0d0705201074bef4218c1ed0c0</sys_id>
@@ -396,7 +396,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>is_using_database_view</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:22:22</sys_created_on>
                         <sys_id>06c4a110db81241024e058b3ca96193a</sys_id>
@@ -407,7 +407,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:22:22</sys_created_on>
                         <sys_id>0ac4a110db81241024e058b3ca961939</sys_id>
@@ -418,7 +418,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_real_time</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:22:22</sys_created_on>
                         <sys_id>46c4a110db81241024e058b3ca961939</sys_id>
@@ -429,7 +429,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:22:22</sys_created_on>
                         <sys_id>82c4a110db81241024e058b3ca961939</sys_id>
@@ -440,7 +440,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:22:22</sys_created_on>
                         <sys_id>8ac4a110db81241024e058b3ca961938</sys_id>
@@ -451,7 +451,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:22:22</sys_created_on>
                         <sys_id>8ec4a110db81241024e058b3ca961939</sys_id>
@@ -462,7 +462,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:38</sys_created_on>
                         <sys_id>b2e89eecdb41641024e058b3ca96196f</sys_id>
@@ -473,7 +473,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:38</sys_created_on>
                         <sys_id>b2e89eecdb41641024e058b3ca961970</sys_id>
@@ -484,7 +484,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:38</sys_created_on>
                         <sys_id>b6e89eecdb41641024e058b3ca96196f</sys_id>
@@ -495,7 +495,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:38</sys_created_on>
                         <sys_id>b6e89eecdb41641024e058b3ca961970</sys_id>
@@ -506,7 +506,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:38</sys_created_on>
                         <sys_id>bae89eecdb41641024e058b3ca96196f</sys_id>
@@ -517,7 +517,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:38</sys_created_on>
                         <sys_id>bae89eecdb41641024e058b3ca961970</sys_id>
@@ -528,7 +528,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:38</sys_created_on>
                         <sys_id>bee89eecdb41641024e058b3ca96196f</sys_id>
@@ -539,7 +539,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:38</sys_created_on>
                         <sys_id>bee89eecdb41641024e058b3ca961970</sys_id>
@@ -550,7 +550,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:22:22</sys_created_on>
                         <sys_id>cac4a110db81241024e058b3ca961939</sys_id>
@@ -561,7 +561,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:22">0ac4a110db81241024e058b3ca961938</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:22:22</sys_created_on>
                         <sys_id>cec4a110db81241024e058b3ca961938</sys_id>
@@ -586,7 +586,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2020-12-18 11:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-18 06:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-18 14:40:15</sys_created_on>
                         <sys_id>1eead3d30705a01074bef4218c1ed097</sys_id>
@@ -597,7 +597,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 2020-12-18 11:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-18 06:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-18 14:40:15</sys_created_on>
                         <sys_id>2aead3d30705a01074bef4218c1ed098</sys_id>
@@ -608,7 +608,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 2020-12-18 11:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-18 06:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-18 14:40:15</sys_created_on>
                         <sys_id>66ead3d30705a01074bef4218c1ed098</sys_id>
@@ -619,7 +619,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_real_time</name>
-                        <portal_section display_value="Created 2020-12-18 11:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-18 06:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-18 14:40:15</sys_created_on>
                         <sys_id>a2ead3d30705a01074bef4218c1ed098</sys_id>
@@ -630,7 +630,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 2020-12-18 11:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-18 06:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-18 14:42:33</sys_created_on>
                         <sys_id>c07b5b930705a01074bef4218c1ed0d0</sys_id>
@@ -641,7 +641,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 2020-12-18 11:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-18 06:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-18 14:42:33</sys_created_on>
                         <sys_id>c07b5b930705a01074bef4218c1ed0d1</sys_id>
@@ -652,7 +652,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 2020-12-18 11:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-18 06:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-18 14:42:33</sys_created_on>
                         <sys_id>c47b5b930705a01074bef4218c1ed0cf</sys_id>
@@ -663,7 +663,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 2020-12-18 11:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-18 06:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-18 14:42:33</sys_created_on>
                         <sys_id>c47b5b930705a01074bef4218c1ed0d0</sys_id>
@@ -674,7 +674,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 2020-12-18 11:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-18 06:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-18 14:42:33</sys_created_on>
                         <sys_id>c87b5b930705a01074bef4218c1ed0cf</sys_id>
@@ -685,7 +685,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 2020-12-18 11:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-18 06:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-18 14:42:33</sys_created_on>
                         <sys_id>c87b5b930705a01074bef4218c1ed0d0</sys_id>
@@ -696,7 +696,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 2020-12-18 11:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-18 06:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-18 14:42:33</sys_created_on>
                         <sys_id>cc7b5b930705a01074bef4218c1ed0cf</sys_id>
@@ -707,7 +707,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 2020-12-18 11:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-18 06:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-18 14:42:33</sys_created_on>
                         <sys_id>cc7b5b930705a01074bef4218c1ed0d0</sys_id>
@@ -718,7 +718,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2020-12-18 11:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-18 06:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-18 14:40:15</sys_created_on>
                         <sys_id>deead3d30705a01074bef4218c1ed096</sys_id>
@@ -729,7 +729,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>is_using_database_view</name>
-                        <portal_section display_value="Created 2020-12-18 11:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-18 06:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-18 14:40:15</sys_created_on>
                         <sys_id>e6ead3d30705a01074bef4218c1ed099</sys_id>
@@ -740,7 +740,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2020-12-18 11:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-18 06:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-18 14:40:15</sys_created_on>
                         <sys_id>eaead3d30705a01074bef4218c1ed098</sys_id>
@@ -751,7 +751,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 2020-12-18 11:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
+                        <portal_section display_value="Created 2020-12-18 06:40:15">1eead7530705a01074bef4218c1ed0bf</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-18 14:40:15</sys_created_on>
                         <sys_id>eeead3d30705a01074bef4218c1ed097</sys_id>
@@ -776,7 +776,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2020-12-08 19:51:14">456b6594db81241024e058b3ca9619d7</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:51:14">456b6594db81241024e058b3ca9619d7</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:51:14</sys_created_on>
                         <sys_id>096b6594db81241024e058b3ca9619d8</sys_id>
@@ -787,7 +787,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2020-12-08 19:51:14">456b6594db81241024e058b3ca9619d7</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:51:14">456b6594db81241024e058b3ca9619d7</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:51:14</sys_created_on>
                         <sys_id>0d6b6594db81241024e058b3ca9619d7</sys_id>
@@ -798,7 +798,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 2020-12-08 19:51:14">456b6594db81241024e058b3ca9619d7</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:51:14">456b6594db81241024e058b3ca9619d7</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:51:14</sys_created_on>
                         <sys_id>456b6594db81241024e058b3ca9619d8</sys_id>
@@ -809,7 +809,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 2020-12-08 19:51:14">456b6594db81241024e058b3ca9619d7</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:51:14">456b6594db81241024e058b3ca9619d7</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:51:14</sys_created_on>
                         <sys_id>816b6594db81241024e058b3ca9619d8</sys_id>
@@ -820,7 +820,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 2020-12-08 19:51:14">456b6594db81241024e058b3ca9619d7</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:51:14">456b6594db81241024e058b3ca9619d7</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:28:26</sys_created_on>
                         <sys_id>83445ee8db41641024e058b3ca961937</sys_id>
@@ -831,7 +831,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 2020-12-08 19:51:14">456b6594db81241024e058b3ca9619d7</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:51:14">456b6594db81241024e058b3ca9619d7</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:28:26</sys_created_on>
                         <sys_id>87445ee8db41641024e058b3ca961936</sys_id>
@@ -842,7 +842,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 2020-12-08 19:51:14">456b6594db81241024e058b3ca9619d7</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:51:14">456b6594db81241024e058b3ca9619d7</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:28:26</sys_created_on>
                         <sys_id>87445ee8db41641024e058b3ca961937</sys_id>
@@ -853,7 +853,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 2020-12-08 19:51:14">456b6594db81241024e058b3ca9619d7</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:51:14">456b6594db81241024e058b3ca9619d7</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:28:26</sys_created_on>
                         <sys_id>8b441a2cdb41641024e058b3ca96197d</sys_id>
@@ -864,7 +864,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 2020-12-08 19:51:14">456b6594db81241024e058b3ca9619d7</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:51:14">456b6594db81241024e058b3ca9619d7</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:28:26</sys_created_on>
                         <sys_id>8b445ee8db41641024e058b3ca961936</sys_id>
@@ -875,7 +875,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 2020-12-08 19:51:14">456b6594db81241024e058b3ca9619d7</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:51:14">456b6594db81241024e058b3ca9619d7</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:28:26</sys_created_on>
                         <sys_id>8b445ee8db41641024e058b3ca961937</sys_id>
@@ -886,7 +886,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 2020-12-08 19:51:14">456b6594db81241024e058b3ca9619d7</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:51:14">456b6594db81241024e058b3ca9619d7</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:28:26</sys_created_on>
                         <sys_id>8f445ee8db41641024e058b3ca961936</sys_id>
@@ -897,7 +897,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 2020-12-08 19:51:14">456b6594db81241024e058b3ca9619d7</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:51:14">456b6594db81241024e058b3ca9619d7</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:28:26</sys_created_on>
                         <sys_id>8f445ee8db41641024e058b3ca961937</sys_id>
@@ -908,7 +908,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2020-12-08 19:51:14">456b6594db81241024e058b3ca9619d7</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:51:14">456b6594db81241024e058b3ca9619d7</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:51:14</sys_created_on>
                         <sys_id>c56b6594db81241024e058b3ca9619d7</sys_id>
@@ -919,7 +919,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 2020-12-08 19:51:14">456b6594db81241024e058b3ca9619d7</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:51:14">456b6594db81241024e058b3ca9619d7</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:51:14</sys_created_on>
                         <sys_id>cd6b6594db81241024e058b3ca9619d7</sys_id>
@@ -944,7 +944,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_real_time</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 20:58:00</sys_created_on>
                         <sys_id>0d0b48da0709201074bef4218c1ed0b4</sys_id>
@@ -955,7 +955,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 21:13:38</sys_created_on>
                         <sys_id>319e089e0709201074bef4218c1ed0a1</sys_id>
@@ -966,7 +966,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 21:13:38</sys_created_on>
                         <sys_id>399e089e0709201074bef4218c1ed0a0</sys_id>
@@ -977,7 +977,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 21:13:38</sys_created_on>
                         <sys_id>3d9e089e0709201074bef4218c1ed0a0</sys_id>
@@ -988,7 +988,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>is_using_database_view</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 20:58:01</sys_created_on>
                         <sys_id>410b48da0709201074bef4218c1ed0b6</sys_id>
@@ -999,7 +999,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 20:58:00</sys_created_on>
                         <sys_id>450b48da0709201074bef4218c1ed0b5</sys_id>
@@ -1010,7 +1010,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 20:58:00</sys_created_on>
                         <sys_id>490b48da0709201074bef4218c1ed0b4</sys_id>
@@ -1021,7 +1021,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 20:58:00</sys_created_on>
                         <sys_id>810b48da0709201074bef4218c1ed0b5</sys_id>
@@ -1032,7 +1032,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 20:58:00</sys_created_on>
                         <sys_id>850b48da0709201074bef4218c1ed0b4</sys_id>
@@ -1043,7 +1043,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 20:58:00</sys_created_on>
                         <sys_id>890b48da0709201074bef4218c1ed0b3</sys_id>
@@ -1054,7 +1054,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 20:58:00</sys_created_on>
                         <sys_id>cd0b48da0709201074bef4218c1ed0b4</sys_id>
@@ -1065,7 +1065,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 21:13:38</sys_created_on>
                         <sys_id>f19e04de0709201074bef4218c1ed025</sys_id>
@@ -1076,7 +1076,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 21:13:38</sys_created_on>
                         <sys_id>f59e04de0709201074bef4218c1ed025</sys_id>
@@ -1087,7 +1087,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 21:13:38</sys_created_on>
                         <sys_id>f99e04de0709201074bef4218c1ed025</sys_id>
@@ -1098,7 +1098,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 21:13:38</sys_created_on>
                         <sys_id>fd9e04de0709201074bef4218c1ed024</sys_id>
@@ -1109,7 +1109,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:00">810b48da0709201074bef4218c1ed0b3</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 21:13:38</sys_created_on>
                         <sys_id>fd9e04de0709201074bef4218c1ed025</sys_id>
@@ -1134,7 +1134,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 21:13:43</sys_created_on>
                         <sys_id>039ec89e0709201074bef4218c1ed058</sys_id>
@@ -1145,7 +1145,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 21:13:43</sys_created_on>
                         <sys_id>039ec89e0709201074bef4218c1ed059</sys_id>
@@ -1156,7 +1156,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 21:13:43</sys_created_on>
                         <sys_id>079ec89e0709201074bef4218c1ed058</sys_id>
@@ -1167,7 +1167,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 21:13:43</sys_created_on>
                         <sys_id>079ec89e0709201074bef4218c1ed059</sys_id>
@@ -1178,7 +1178,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 21:13:43</sys_created_on>
                         <sys_id>0b9ec89e0709201074bef4218c1ed058</sys_id>
@@ -1189,7 +1189,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 21:13:43</sys_created_on>
                         <sys_id>0b9ec89e0709201074bef4218c1ed059</sys_id>
@@ -1200,7 +1200,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 21:13:43</sys_created_on>
                         <sys_id>0f9ec89e0709201074bef4218c1ed057</sys_id>
@@ -1211,7 +1211,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 21:13:43</sys_created_on>
                         <sys_id>0f9ec89e0709201074bef4218c1ed058</sys_id>
@@ -1222,7 +1222,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 20:58:20</sys_created_on>
                         <sys_id>351b08da0709201074bef4218c1ed0d8</sys_id>
@@ -1233,7 +1233,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 20:58:20</sys_created_on>
                         <sys_id>391b08da0709201074bef4218c1ed0d9</sys_id>
@@ -1244,7 +1244,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 20:58:20</sys_created_on>
                         <sys_id>3d1b08da0709201074bef4218c1ed0d8</sys_id>
@@ -1255,7 +1255,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 20:58:20</sys_created_on>
                         <sys_id>751b08da0709201074bef4218c1ed0d9</sys_id>
@@ -1266,7 +1266,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 20:58:20</sys_created_on>
                         <sys_id>791b08da0709201074bef4218c1ed0d8</sys_id>
@@ -1277,7 +1277,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 20:58:20</sys_created_on>
                         <sys_id>b11b08da0709201074bef4218c1ed0d9</sys_id>
@@ -1288,7 +1288,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>is_using_database_view</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 20:58:20</sys_created_on>
                         <sys_id>bd1b08da0709201074bef4218c1ed0d9</sys_id>
@@ -1299,7 +1299,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_real_time</name>
-                        <portal_section display_value="Created 2020-12-14 17:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
+                        <portal_section display_value="Created 2020-12-14 12:58:20">b11b08da0709201074bef4218c1ed0d8</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-14 20:58:20</sys_created_on>
                         <sys_id>fd1b08da0709201074bef4218c1ed0d8</sys_id>
@@ -1324,7 +1324,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:22:04</sys_created_on>
                         <sys_id>35b4a110db81241024e058b3ca9619a4</sys_id>
@@ -1335,7 +1335,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:22:04</sys_created_on>
                         <sys_id>39b4a110db81241024e058b3ca9619a5</sys_id>
@@ -1346,7 +1346,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:22:04</sys_created_on>
                         <sys_id>3db4a110db81241024e058b3ca9619a4</sys_id>
@@ -1357,7 +1357,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:34</sys_created_on>
                         <sys_id>42e8da20db81641024e058b3ca961972</sys_id>
@@ -1368,7 +1368,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:34</sys_created_on>
                         <sys_id>42e8da20db81641024e058b3ca961973</sys_id>
@@ -1379,7 +1379,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:34</sys_created_on>
                         <sys_id>46e8da20db81641024e058b3ca961972</sys_id>
@@ -1390,7 +1390,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:34</sys_created_on>
                         <sys_id>46e8da20db81641024e058b3ca961973</sys_id>
@@ -1401,7 +1401,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:34</sys_created_on>
                         <sys_id>4ae8da20db81641024e058b3ca961971</sys_id>
@@ -1412,7 +1412,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:34</sys_created_on>
                         <sys_id>4ae8da20db81641024e058b3ca961972</sys_id>
@@ -1423,7 +1423,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:34</sys_created_on>
                         <sys_id>4ee8da20db81641024e058b3ca961971</sys_id>
@@ -1434,7 +1434,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:34</sys_created_on>
                         <sys_id>4ee8da20db81641024e058b3ca961972</sys_id>
@@ -1445,7 +1445,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:22:04</sys_created_on>
                         <sys_id>75b4a110db81241024e058b3ca9619a5</sys_id>
@@ -1456,7 +1456,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:22:04</sys_created_on>
                         <sys_id>79b4a110db81241024e058b3ca9619a4</sys_id>
@@ -1467,7 +1467,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:22:04</sys_created_on>
                         <sys_id>b1b4a110db81241024e058b3ca9619a5</sys_id>
@@ -1478,7 +1478,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>is_using_database_view</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:22:04</sys_created_on>
                         <sys_id>bdb4a110db81241024e058b3ca9619a5</sys_id>
@@ -1489,7 +1489,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_real_time</name>
-                        <portal_section display_value="Created 2020-12-08 19:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:22:04">b1b4a110db81241024e058b3ca9619a4</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:22:04</sys_created_on>
                         <sys_id>fdb4a110db81241024e058b3ca9619a4</sys_id>
@@ -1514,7 +1514,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 2020-12-09 17:25:09">cb831ee8db41641024e058b3ca96190d</portal_section>
+                        <portal_section display_value="Created 2020-12-09 12:25:09">cb831ee8db41641024e058b3ca96190d</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:25:09</sys_created_on>
                         <sys_id>07831ee8db41641024e058b3ca96190f</sys_id>
@@ -1525,7 +1525,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_publish</name>
-                        <portal_section display_value="Created 2020-12-09 17:25:09">cb831ee8db41641024e058b3ca96190d</portal_section>
+                        <portal_section display_value="Created 2020-12-09 12:25:09">cb831ee8db41641024e058b3ca96190d</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:25:09</sys_created_on>
                         <sys_id>43831ee8db41641024e058b3ca96190f</sys_id>
@@ -1536,7 +1536,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2020-12-09 17:25:09">cb831ee8db41641024e058b3ca96190d</portal_section>
+                        <portal_section display_value="Created 2020-12-09 12:25:09">cb831ee8db41641024e058b3ca96190d</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:25:09</sys_created_on>
                         <sys_id>8f831ee8db41641024e058b3ca96190e</sys_id>
@@ -1547,7 +1547,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2020-12-09 17:25:09">cb831ee8db41641024e058b3ca96190d</portal_section>
+                        <portal_section display_value="Created 2020-12-09 12:25:09">cb831ee8db41641024e058b3ca96190d</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:25:09</sys_created_on>
                         <sys_id>c3831ee8db41641024e058b3ca96190e</sys_id>
@@ -1558,7 +1558,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>type</name>
-                        <portal_section display_value="Created 2020-12-09 17:25:09">cb831ee8db41641024e058b3ca96190d</portal_section>
+                        <portal_section display_value="Created 2020-12-09 12:25:09">cb831ee8db41641024e058b3ca96190d</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:25:09</sys_created_on>
                         <sys_id>c3831ee8db41641024e058b3ca961910</sys_id>
@@ -1569,7 +1569,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2020-12-09 17:25:09">cb831ee8db41641024e058b3ca96190d</portal_section>
+                        <portal_section display_value="Created 2020-12-09 12:25:09">cb831ee8db41641024e058b3ca96190d</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:25:09</sys_created_on>
                         <sys_id>c7831ee8db41641024e058b3ca96190f</sys_id>
@@ -1594,7 +1594,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_real_time</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:39:34</sys_created_on>
                         <sys_id>0eb82114db81241024e058b3ca961954</sys_id>
@@ -1605,7 +1605,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:39:34</sys_created_on>
                         <sys_id>42b825d0db81241024e058b3ca9619ab</sys_id>
@@ -1616,7 +1616,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:39:34</sys_created_on>
                         <sys_id>46b82114db81241024e058b3ca961955</sys_id>
@@ -1627,7 +1627,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:39:34</sys_created_on>
                         <sys_id>4ab82114db81241024e058b3ca961954</sys_id>
@@ -1638,7 +1638,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:39:34</sys_created_on>
                         <sys_id>82b82114db81241024e058b3ca961955</sys_id>
@@ -1649,7 +1649,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:39:34</sys_created_on>
                         <sys_id>86b82114db81241024e058b3ca961954</sys_id>
@@ -1660,7 +1660,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:42</sys_created_on>
                         <sys_id>c0f85aecdb41641024e058b3ca96191a</sys_id>
@@ -1671,7 +1671,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:42</sys_created_on>
                         <sys_id>c0f85aecdb41641024e058b3ca96191b</sys_id>
@@ -1682,7 +1682,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:42</sys_created_on>
                         <sys_id>c4f85aecdb41641024e058b3ca96191a</sys_id>
@@ -1693,7 +1693,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:42</sys_created_on>
                         <sys_id>c4f85aecdb41641024e058b3ca96191b</sys_id>
@@ -1704,7 +1704,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:42</sys_created_on>
                         <sys_id>c8f85aecdb41641024e058b3ca96191a</sys_id>
@@ -1715,7 +1715,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:42</sys_created_on>
                         <sys_id>c8f85aecdb41641024e058b3ca96191b</sys_id>
@@ -1726,7 +1726,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>is_using_database_view</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:39:34</sys_created_on>
                         <sys_id>cab82114db81241024e058b3ca961955</sys_id>
@@ -1737,7 +1737,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:42</sys_created_on>
                         <sys_id>ccf85aecdb41641024e058b3ca96191a</sys_id>
@@ -1748,7 +1748,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:42</sys_created_on>
                         <sys_id>ccf85aecdb41641024e058b3ca96191b</sys_id>
@@ -1759,7 +1759,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:34">ceb825d0db81241024e058b3ca9619aa</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:39:34</sys_created_on>
                         <sys_id>ceb82114db81241024e058b3ca961954</sys_id>
@@ -1784,7 +1784,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:47</sys_created_on>
                         <sys_id>01f85e20db81641024e058b3ca96197b</sys_id>
@@ -1795,7 +1795,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_real_time</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:39:10</sys_created_on>
                         <sys_id>14a86dd0db81241024e058b3ca961956</sys_id>
@@ -1806,7 +1806,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:39:10</sys_created_on>
                         <sys_id>50a86dd0db81241024e058b3ca961956</sys_id>
@@ -1817,7 +1817,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:39:10</sys_created_on>
                         <sys_id>54a86dd0db81241024e058b3ca961955</sys_id>
@@ -1828,7 +1828,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>is_using_database_view</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:39:10</sys_created_on>
                         <sys_id>58a86dd0db81241024e058b3ca961957</sys_id>
@@ -1839,7 +1839,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:39:10</sys_created_on>
                         <sys_id>5ca86dd0db81241024e058b3ca961956</sys_id>
@@ -1850,7 +1850,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:47</sys_created_on>
                         <sys_id>81f856ecdb41641024e058b3ca9619ab</sys_id>
@@ -1861,7 +1861,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:47</sys_created_on>
                         <sys_id>81f856ecdb41641024e058b3ca9619ac</sys_id>
@@ -1872,7 +1872,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:47</sys_created_on>
                         <sys_id>85f856ecdb41641024e058b3ca9619ab</sys_id>
@@ -1883,7 +1883,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:47</sys_created_on>
                         <sys_id>85f856ecdb41641024e058b3ca9619ac</sys_id>
@@ -1894,7 +1894,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:47</sys_created_on>
                         <sys_id>89f856ecdb41641024e058b3ca9619ab</sys_id>
@@ -1905,7 +1905,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:47</sys_created_on>
                         <sys_id>8df856ecdb41641024e058b3ca9619aa</sys_id>
@@ -1916,7 +1916,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:47</sys_created_on>
                         <sys_id>8df856ecdb41641024e058b3ca9619ab</sys_id>
@@ -1927,7 +1927,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:39:10</sys_created_on>
                         <sys_id>98a86dd0db81241024e058b3ca961956</sys_id>
@@ -1938,7 +1938,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:39:10</sys_created_on>
                         <sys_id>9ca86dd0db81241024e058b3ca961955</sys_id>
@@ -1949,7 +1949,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 2020-12-08 19:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:39:10">dca86dd0db81241024e058b3ca961954</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:39:10</sys_created_on>
                         <sys_id>d4a86dd0db81241024e058b3ca961956</sys_id>
@@ -1974,7 +1974,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:14:20</sys_created_on>
                         <sys_id>28f2ed5cdb41241024e058b3ca961961</sys_id>
@@ -1985,7 +1985,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_real_time</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:14:20</sys_created_on>
                         <sys_id>64f2ed5cdb41241024e058b3ca961961</sys_id>
@@ -1996,7 +1996,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:14:20</sys_created_on>
                         <sys_id>a0f2ed5cdb41241024e058b3ca961961</sys_id>
@@ -2007,7 +2007,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:15</sys_created_on>
                         <sys_id>a1d81220db81641024e058b3ca961999</sys_id>
@@ -2018,7 +2018,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:15</sys_created_on>
                         <sys_id>a1d81220db81641024e058b3ca96199a</sys_id>
@@ -2029,7 +2029,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:15</sys_created_on>
                         <sys_id>a5d81220db81641024e058b3ca961999</sys_id>
@@ -2040,7 +2040,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:15</sys_created_on>
                         <sys_id>a5d81220db81641024e058b3ca96199a</sys_id>
@@ -2051,7 +2051,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:15</sys_created_on>
                         <sys_id>a9d81220db81641024e058b3ca961999</sys_id>
@@ -2062,7 +2062,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:15</sys_created_on>
                         <sys_id>a9d81220db81641024e058b3ca96199a</sys_id>
@@ -2073,7 +2073,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:14:20</sys_created_on>
                         <sys_id>acf2ed5cdb41241024e058b3ca961961</sys_id>
@@ -2084,7 +2084,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:15</sys_created_on>
                         <sys_id>add81220db81641024e058b3ca961998</sys_id>
@@ -2095,7 +2095,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:48:15</sys_created_on>
                         <sys_id>add81220db81641024e058b3ca961999</sys_id>
@@ -2106,7 +2106,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:14:20</sys_created_on>
                         <sys_id>e0f2ed5cdb41241024e058b3ca961960</sys_id>
@@ -2117,7 +2117,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:14:20</sys_created_on>
                         <sys_id>e8f2ed5cdb41241024e058b3ca961961</sys_id>
@@ -2128,7 +2128,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>is_using_database_view</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:14:20</sys_created_on>
                         <sys_id>e8f2ed5cdb41241024e058b3ca961962</sys_id>
@@ -2139,7 +2139,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2020-12-08 19:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
+                        <portal_section display_value="Created 2020-12-08 14:14:20">e8f2ed5cdb41241024e058b3ca96195f</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-08 22:14:20</sys_created_on>
                         <sys_id>ecf2ed5cdb41241024e058b3ca961960</sys_id>
@@ -2164,7 +2164,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 2020-12-09 20:34:14">ecde7ea0db05641024e058b3ca961986</portal_section>
+                        <portal_section display_value="Created 2020-12-09 15:34:14">ecde7ea0db05641024e058b3ca961986</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 23:34:14</sys_created_on>
                         <sys_id>24de7ea0db05641024e058b3ca961988</sys_id>
@@ -2175,7 +2175,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_publish</name>
-                        <portal_section display_value="Created 2020-12-09 20:34:14">ecde7ea0db05641024e058b3ca961986</portal_section>
+                        <portal_section display_value="Created 2020-12-09 15:34:14">ecde7ea0db05641024e058b3ca961986</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 23:34:14</sys_created_on>
                         <sys_id>60de7ea0db05641024e058b3ca961988</sys_id>
@@ -2186,7 +2186,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2020-12-09 20:34:14">ecde7ea0db05641024e058b3ca961986</portal_section>
+                        <portal_section display_value="Created 2020-12-09 15:34:14">ecde7ea0db05641024e058b3ca961986</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 23:34:14</sys_created_on>
                         <sys_id>64de7ea0db05641024e058b3ca961987</sys_id>
@@ -2197,7 +2197,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2020-12-09 20:34:14">ecde7ea0db05641024e058b3ca961986</portal_section>
+                        <portal_section display_value="Created 2020-12-09 15:34:14">ecde7ea0db05641024e058b3ca961986</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 23:34:14</sys_created_on>
                         <sys_id>acde7ea0db05641024e058b3ca961987</sys_id>
@@ -2208,7 +2208,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>type</name>
-                        <portal_section display_value="Created 2020-12-09 20:34:14">ecde7ea0db05641024e058b3ca961986</portal_section>
+                        <portal_section display_value="Created 2020-12-09 15:34:14">ecde7ea0db05641024e058b3ca961986</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 23:34:14</sys_created_on>
                         <sys_id>e0de7ea0db05641024e058b3ca961989</sys_id>
@@ -2219,7 +2219,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2020-12-09 20:34:14">ecde7ea0db05641024e058b3ca961986</portal_section>
+                        <portal_section display_value="Created 2020-12-09 15:34:14">ecde7ea0db05641024e058b3ca961986</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 23:34:14</sys_created_on>
                         <sys_id>e4de7ea0db05641024e058b3ca961988</sys_id>
@@ -2244,7 +2244,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 2020-12-24 10:37:18">f206ced90711201074bef4218c1ed016</portal_section>
+                        <portal_section display_value="Created 2020-12-24 05:37:18">f206ced90711201074bef4218c1ed016</portal_section>
                         <sys_created_by>peterson.ferreira</sys_created_by>
                         <sys_created_on>2020-12-24 13:37:18</sys_created_on>
                         <sys_id>3206ced90711201074bef4218c1ed018</sys_id>
@@ -2255,7 +2255,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 2020-12-24 10:37:18">f206ced90711201074bef4218c1ed016</portal_section>
+                        <portal_section display_value="Created 2020-12-24 05:37:18">f206ced90711201074bef4218c1ed016</portal_section>
                         <sys_created_by>peterson.ferreira</sys_created_by>
                         <sys_created_on>2020-12-24 13:47:25</sys_created_on>
                         <sys_id>3258c29d0711201074bef4218c1ed02e</sys_id>
@@ -2266,7 +2266,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2020-12-24 10:37:18">f206ced90711201074bef4218c1ed016</portal_section>
+                        <portal_section display_value="Created 2020-12-24 05:37:18">f206ced90711201074bef4218c1ed016</portal_section>
                         <sys_created_by>peterson.ferreira</sys_created_by>
                         <sys_created_on>2020-12-24 13:37:18</sys_created_on>
                         <sys_id>3606ced90711201074bef4218c1ed017</sys_id>
@@ -2277,7 +2277,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 2020-12-24 10:37:18">f206ced90711201074bef4218c1ed016</portal_section>
+                        <portal_section display_value="Created 2020-12-24 05:37:18">f206ced90711201074bef4218c1ed016</portal_section>
                         <sys_created_by>peterson.ferreira</sys_created_by>
                         <sys_created_on>2020-12-24 13:47:25</sys_created_on>
                         <sys_id>3658c29d0711201074bef4218c1ed02e</sys_id>
@@ -2288,7 +2288,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 2020-12-24 10:37:18">f206ced90711201074bef4218c1ed016</portal_section>
+                        <portal_section display_value="Created 2020-12-24 05:37:18">f206ced90711201074bef4218c1ed016</portal_section>
                         <sys_created_by>peterson.ferreira</sys_created_by>
                         <sys_created_on>2020-12-24 13:47:25</sys_created_on>
                         <sys_id>3e58c29d0711201074bef4218c1ed02d</sys_id>
@@ -2299,7 +2299,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 2020-12-24 10:37:18">f206ced90711201074bef4218c1ed016</portal_section>
+                        <portal_section display_value="Created 2020-12-24 05:37:18">f206ced90711201074bef4218c1ed016</portal_section>
                         <sys_created_by>peterson.ferreira</sys_created_by>
                         <sys_created_on>2020-12-24 13:37:18</sys_created_on>
                         <sys_id>7e06ced90711201074bef4218c1ed017</sys_id>
@@ -2310,7 +2310,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2020-12-24 10:37:18">f206ced90711201074bef4218c1ed016</portal_section>
+                        <portal_section display_value="Created 2020-12-24 05:37:18">f206ced90711201074bef4218c1ed016</portal_section>
                         <sys_created_by>peterson.ferreira</sys_created_by>
                         <sys_created_on>2020-12-24 13:37:18</sys_created_on>
                         <sys_id>ba06ced90711201074bef4218c1ed016</sys_id>
@@ -2321,7 +2321,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_real_time</name>
-                        <portal_section display_value="Created 2020-12-24 10:37:18">f206ced90711201074bef4218c1ed016</portal_section>
+                        <portal_section display_value="Created 2020-12-24 05:37:18">f206ced90711201074bef4218c1ed016</portal_section>
                         <sys_created_by>peterson.ferreira</sys_created_by>
                         <sys_created_on>2020-12-24 13:37:18</sys_created_on>
                         <sys_id>ba06ced90711201074bef4218c1ed017</sys_id>
@@ -2332,7 +2332,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2020-12-24 10:37:18">f206ced90711201074bef4218c1ed016</portal_section>
+                        <portal_section display_value="Created 2020-12-24 05:37:18">f206ced90711201074bef4218c1ed016</portal_section>
                         <sys_created_by>peterson.ferreira</sys_created_by>
                         <sys_created_on>2020-12-24 13:37:18</sys_created_on>
                         <sys_id>f206ced90711201074bef4218c1ed018</sys_id>
@@ -2343,7 +2343,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 2020-12-24 10:37:18">f206ced90711201074bef4218c1ed016</portal_section>
+                        <portal_section display_value="Created 2020-12-24 05:37:18">f206ced90711201074bef4218c1ed016</portal_section>
                         <sys_created_by>peterson.ferreira</sys_created_by>
                         <sys_created_on>2020-12-24 13:47:24</sys_created_on>
                         <sys_id>f258821d0711201074bef4218c1ed093</sys_id>
@@ -2354,7 +2354,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 2020-12-24 10:37:18">f206ced90711201074bef4218c1ed016</portal_section>
+                        <portal_section display_value="Created 2020-12-24 05:37:18">f206ced90711201074bef4218c1ed016</portal_section>
                         <sys_created_by>peterson.ferreira</sys_created_by>
                         <sys_created_on>2020-12-24 13:37:18</sys_created_on>
                         <sys_id>f606ced90711201074bef4218c1ed017</sys_id>
@@ -2365,7 +2365,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 2020-12-24 10:37:18">f206ced90711201074bef4218c1ed016</portal_section>
+                        <portal_section display_value="Created 2020-12-24 05:37:18">f206ced90711201074bef4218c1ed016</portal_section>
                         <sys_created_by>peterson.ferreira</sys_created_by>
                         <sys_created_on>2020-12-24 13:47:25</sys_created_on>
                         <sys_id>f658821d0711201074bef4218c1ed093</sys_id>
@@ -2376,7 +2376,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 2020-12-24 10:37:18">f206ced90711201074bef4218c1ed016</portal_section>
+                        <portal_section display_value="Created 2020-12-24 05:37:18">f206ced90711201074bef4218c1ed016</portal_section>
                         <sys_created_by>peterson.ferreira</sys_created_by>
                         <sys_created_on>2020-12-24 13:47:25</sys_created_on>
                         <sys_id>fa58821d0711201074bef4218c1ed093</sys_id>
@@ -2387,7 +2387,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>is_using_database_view</name>
-                        <portal_section display_value="Created 2020-12-24 10:37:18">f206ced90711201074bef4218c1ed016</portal_section>
+                        <portal_section display_value="Created 2020-12-24 05:37:18">f206ced90711201074bef4218c1ed016</portal_section>
                         <sys_created_by>peterson.ferreira</sys_created_by>
                         <sys_created_on>2020-12-24 13:37:18</sys_created_on>
                         <sys_id>fe06ced90711201074bef4218c1ed018</sys_id>
@@ -2398,7 +2398,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 2020-12-24 10:37:18">f206ced90711201074bef4218c1ed016</portal_section>
+                        <portal_section display_value="Created 2020-12-24 05:37:18">f206ced90711201074bef4218c1ed016</portal_section>
                         <sys_created_by>peterson.ferreira</sys_created_by>
                         <sys_created_on>2020-12-24 13:47:24</sys_created_on>
                         <sys_id>fe58821d0711201074bef4218c1ed092</sys_id>
@@ -2409,7 +2409,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 2020-12-24 10:37:18">f206ced90711201074bef4218c1ed016</portal_section>
+                        <portal_section display_value="Created 2020-12-24 05:37:18">f206ced90711201074bef4218c1ed016</portal_section>
                         <sys_created_by>peterson.ferreira</sys_created_by>
                         <sys_created_on>2020-12-24 13:47:25</sys_created_on>
                         <sys_id>fe58821d0711201074bef4218c1ed093</sys_id>
@@ -2434,7 +2434,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 2020-12-09 17:59:53">ff7b96e0db81641024e058b3ca961973</portal_section>
+                        <portal_section display_value="Created 2020-12-09 12:59:53">ff7b96e0db81641024e058b3ca961973</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:59:53</sys_created_on>
                         <sys_id>337b96e0db81641024e058b3ca961975</sys_id>
@@ -2445,7 +2445,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2020-12-09 17:59:53">ff7b96e0db81641024e058b3ca961973</portal_section>
+                        <portal_section display_value="Created 2020-12-09 12:59:53">ff7b96e0db81641024e058b3ca961973</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:59:53</sys_created_on>
                         <sys_id>777b96e0db81641024e058b3ca961974</sys_id>
@@ -2456,7 +2456,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_publish</name>
-                        <portal_section display_value="Created 2020-12-09 17:59:53">ff7b96e0db81641024e058b3ca961973</portal_section>
+                        <portal_section display_value="Created 2020-12-09 12:59:53">ff7b96e0db81641024e058b3ca961973</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:59:53</sys_created_on>
                         <sys_id>7f7b96e0db81641024e058b3ca961974</sys_id>
@@ -2467,7 +2467,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2020-12-09 17:59:53">ff7b96e0db81641024e058b3ca961973</portal_section>
+                        <portal_section display_value="Created 2020-12-09 12:59:53">ff7b96e0db81641024e058b3ca961973</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:59:53</sys_created_on>
                         <sys_id>bb7b96e0db81641024e058b3ca961974</sys_id>
@@ -2478,7 +2478,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2020-12-09 17:59:53">ff7b96e0db81641024e058b3ca961973</portal_section>
+                        <portal_section display_value="Created 2020-12-09 12:59:53">ff7b96e0db81641024e058b3ca961973</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:59:53</sys_created_on>
                         <sys_id>f37b96e0db81641024e058b3ca961975</sys_id>
@@ -2489,7 +2489,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>type</name>
-                        <portal_section display_value="Created 2020-12-09 17:59:53">ff7b96e0db81641024e058b3ca961973</portal_section>
+                        <portal_section display_value="Created 2020-12-09 12:59:53">ff7b96e0db81641024e058b3ca961973</portal_section>
                         <sys_created_by>admin</sys_created_by>
                         <sys_created_on>2020-12-09 20:59:53</sys_created_on>
                         <sys_id>ff7b96e0db81641024e058b3ca961975</sys_id>

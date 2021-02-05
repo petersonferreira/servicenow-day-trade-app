@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Day Trade" max_length="40" name="x_200145_trade_sa_day_trade" sizeclass="9" type="collection">
+    <element label="Day Trade" max_length="40" name="x_200145_trade_sa_day_trade" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" label="Account type" mandatory="true" max_length="40" name="account_type" type="string">
             <choice>
                 <element inactive_on_update="false" label="Real" sequence="0" value="real"/>
@@ -7,7 +7,7 @@
             </choice>
         </element>
         <element label="Amount" max_length="15" name="amount" type="currency"/>
-        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;    var tp = current.trade_policy.getRefRecord(),&#13;&#10;        value = '';&#13;&#10;&#13;&#10;    if (current.account_type == 'real')&#13;&#10;        value = current.amount / tp.month_amount * 100;&#13;&#10;&#13;&#10;    return value;&#13;&#10;&#13;&#10;})(current);" label="Amount (%)" max_length="15" name="amount_percent" type="percent_complete" virtual="true"/>
+        <element calculation="(function calculatedFieldValue(current) {&#10;&#10;    var tp = current.trade_policy.getRefRecord(),&#10;        value = '';&#10;&#10;    if (current.account_type == 'real')&#10;        value = current.amount / tp.month_amount * 100;&#10;&#10;    return value;&#10;&#10;})(current);" label="Amount (%)" max_length="15" name="amount_percent" type="percent_complete" virtual="true"/>
         <element attributes="edge_encryption_enabled=true" label="Date" mandatory="true" max_length="40" name="date" type="glide_date"/>
         <element label="Edit diary" max_length="40" name="edit_diary" type="boolean"/>
         <element attributes="target_threshold_colors=0:#71e279;50:#fcc742;75:#fc8a3d;100:#f95050" label="Loss limit (%)" max_length="15" name="loss_limit" type="percent_complete"/>

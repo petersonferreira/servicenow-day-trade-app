@@ -87,7 +87,7 @@
         <update_guid_history>ec61338f10c5601068a7a4ca7325bc19:1304166601,5061338f7bc5601019a90d5cc081ee15:1085165536,9861338f73c56010d8875dc0c8fed312:-855455058,1a51f30fbbc560105aa5c1267fc18fe7:893999468</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="down_arrow2_12_green.png">3903bbcf07c5601074bef4218c1ed002</sys_audit_delete>
+        <sys_audit_delete display_value="">3903bbcf07c5601074bef4218c1ed002</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-12-17 21:47:08</sys_created_on>
