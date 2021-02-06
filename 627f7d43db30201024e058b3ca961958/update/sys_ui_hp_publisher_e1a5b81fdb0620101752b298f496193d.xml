@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_hp_publisher">
+    <sys_ui_hp_publisher action="INSERT_OR_UPDATE">
+        <allow_database_view_filter>true</allow_database_view_filter>
+        <allow_extended_table>true</allow_extended_table>
+        <boolean_field>dt_imported</boolean_field>
+        <boolean_table>x_200145_trade_sa_day_trade_operation</boolean_table>
+        <date_filter/>
+        <default_boolean_field>false</default_boolean_field>
+        <default_choice/>
+        <default_date_filter/>
+        <default_reference_field_value/>
+        <description/>
+        <exclusion_choice_list/>
+        <look_up_name>Imported Data</look_up_name>
+        <name>Imported Data</name>
+        <reference_conditions/>
+        <reference_table/>
+        <remove_all_option>false</remove_all_option>
+        <source_field>operation_result</source_field>
+        <source_table>x_200145_trade_sa_day_trade_operation</source_table>
+        <sys_class_name>sys_ui_hp_publisher</sys_class_name>
+        <sys_created_by>peterson.ferreira</sys_created_by>
+        <sys_created_on>2021-02-05 19:41:00</sys_created_on>
+        <sys_id>e1a5b81fdb0620101752b298f496193d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Imported Data</sys_name>
+        <sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Trade Performance">627f7d43db30201024e058b3ca961958</sys_scope>
+        <sys_update_name>sys_ui_hp_publisher_e1a5b81fdb0620101752b298f496193d</sys_update_name>
+        <sys_updated_by>peterson.ferreira</sys_updated_by>
+        <sys_updated_on>2021-02-05 19:47:01</sys_updated_on>
+        <type>5</type>
+        <ui_control_type>2</ui_control_type>
+    </sys_ui_hp_publisher>
+</record_update>

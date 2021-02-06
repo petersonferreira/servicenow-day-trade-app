@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Operation Simulator" max_length="40" name="x_200145_trade_sa_operation_simulator" sizeclass="318" type="collection">
+        <element attributes="import_attribute_name=Contract(s)" label="Contract(s)" max_length="40" name="u_contract_s_" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Date Time" label="Date Time" max_length="40" name="u_date_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Day Trade" label="Day Trade" max_length="40" name="u_day_trade" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Imported" label="Imported" max_length="40" name="u_imported" type="string"/>
+        <element attributes="import_attribute_name=MEN" label="MEN" max_length="40" name="u_men" type="integer"/>
+        <element attributes="import_attribute_name=MEP" label="MEP" max_length="15" name="u_mep" type="decimal"/>
+        <element attributes="import_attribute_name=Points" label="Points" max_length="15" name="u_points" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Realization" label="Realization" max_length="40" name="u_realization" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Strategy" label="Strategy" max_length="40" name="u_strategy" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Trade diary" label="Trade diary" max_length="40" name="u_trade_diary" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="DELETE">
+        <dashboard display_value="Copy of Trade Performance">6b57bc9fdb0620101752b298f4961951</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>peterson.ferreira</sys_created_by>
+        <sys_created_on>2021-02-05 19:48:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7b5770dfdb0620101752b298f49619d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6b57bc9fdb0620101752b298f4961951</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Trade Performance">627f7d43db30201024e058b3ca961958</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_7b5770dfdb0620101752b298f49619d6</sys_update_name>
+        <sys_updated_by>peterson.ferreira</sys_updated_by>
+        <sys_updated_on>2021-02-05 19:48:31</sys_updated_on>
+        <tab display_value="Trade Performance - New Tab">f35770dfdb0620101752b298f49619d4</tab>
+    </pa_m2m_dashboard_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Trade Performance">627f7d43db30201024e058b3ca961958</application>
+        <file_path/>
+        <instance_id>883fa0e1db64f300f492c59705961902</instance_id>
+        <instance_name>dev78168</instance_name>
+        <name>pa_m2m_dashboard_tabs_7b5770dfdb0620101752b298f49619d6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE"><dashboard display_value="Copy of Trade Performance">6b57bc9fdb0620101752b298f4961951</dashboard><home>false</home><homepage/><order>1</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>peterson.ferreira</sys_created_by><sys_created_on>2021-02-05 19:48:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7b5770dfdb0620101752b298f49619d6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>6b57bc9fdb0620101752b298f4961951</sys_name><sys_overrides/><sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package><sys_policy/><sys_scope display_value="Trade Performance">627f7d43db30201024e058b3ca961958</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_7b5770dfdb0620101752b298f49619d6</sys_update_name><sys_updated_by>peterson.ferreira</sys_updated_by><sys_updated_on>2021-02-05 19:48:31</sys_updated_on><tab display_value="Trade Performance - New Tab">f35770dfdb0620101752b298f49619d4</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+        <payload_hash>-1521191832</payload_hash>
+        <record_name>6b57bc9fdb0620101752b298f4961951</record_name>
+        <reverted_from/>
+        <source>650c7703db8220101752b298f4961996</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>peterson.ferreira</sys_created_by>
+        <sys_created_on>2021-02-05 19:48:31</sys_created_on>
+        <sys_id>fb5770dfdb0620101752b298f49619d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17773bd25080000001</sys_recorded_at>
+        <sys_updated_by>peterson.ferreira</sys_updated_by>
+        <sys_updated_on>2021-02-05 19:48:31</sys_updated_on>
+        <type>Dashboard Tab</type>
+        <update_guid>375770df7d0620108a5d2322d2c6b4d8</update_guid>
+        <update_guid_history>375770df7d0620108a5d2322d2c6b4d8:-1521191832</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Copy of Trade Performance">ed97b4dfdb0620101752b298f49619b0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>peterson.ferreira</sys_created_by>
+        <sys_created_on>2021-02-05 19:49:27</sys_created_on>
+        <sys_db_object display_value="" name="pa_m2m_dashboard_tabs">pa_m2m_dashboard_tabs</sys_db_object>
+        <sys_id>035293e5dbc547c0808a069a58f0a400</sys_id>
+        <sys_metadata>7b5770dfdb0620101752b298f49619d6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6b57bc9fdb0620101752b298f4961951</sys_name>
+        <sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package>
+        <sys_parent display_value="">6b57bc9fdb0620101752b298f4961951</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Trade Performance">627f7d43db30201024e058b3ca961958</sys_scope>
+        <sys_scope_delete display_value="">5288564ab94541c88b5d15c186430624</sys_scope_delete>
+        <sys_update_name>pa_m2m_dashboard_tabs_7b5770dfdb0620101752b298f49619d6</sys_update_name>
+        <sys_update_version display_value="pa_m2m_dashboard_tabs_7b5770dfdb0620101752b298f49619d6">fb5770dfdb0620101752b298f49619d8</sys_update_version>
+        <sys_updated_by>peterson.ferreira</sys_updated_by>
+        <sys_updated_on>2021-02-05 19:49:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
