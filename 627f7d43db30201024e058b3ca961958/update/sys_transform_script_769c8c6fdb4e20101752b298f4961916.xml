@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_script">
+    <sys_transform_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <map display_value="Operation Simulator">7c0c6497db0620101752b298f4961912</map>
+        <order>100</order>
+        <script><![CDATA[(function runTransformScript(source, map, log, target /*undefined onStart*/ ) {
+
+    var gdt = new GlideDateTime(source.u_date_time),
+		dt_sys_id;
+
+    var date = gdt.getDate();
+    date = date.toString();
+
+    var gr_dt = new GlideRecord('x_200145_trade_sa_day_trade');
+    gr_dt.addEncodedQuery("account_type=simulator^dateON" + date + "@javascript:gs.dateGenerate('" + date + "','start')@javascript:gs.dateGenerate('" + date + "','end')");
+    gr_dt.orderBy('date');
+    gr_dt.setLimit(1);
+    gr_dt.query();
+    if (gr_dt.next()) {
+
+        dt_sys_id = gr_dt.getUniqueValue();
+
+    } else {
+        var gr_dt2 = new GlideRecord('x_200145_trade_sa_day_trade');
+        gr_dt2.newRecord();
+        gr_dt2.date = date;
+        gr_dt2.account_type = 'simulator';
+        gr_dt2.trade_asset = '7c84a813db0620101752b298f496194c'; // WDOFUT  
+        gr_dt2.imported = true;
+        dt_sys_id = gr_dt2.insert();
+    }
+    if (source.u_contract_s_ == 1) {
+        target.realization = 'Full';
+    } else {
+        target.realization = 'Partial';
+    }
+
+    target.day_trade = dt_sys_id;
+    target.imported = true;
+    target.men = parseFloat(source.u_men);
+
+})(source, map, log, target);]]></script>
+        <sys_class_name>sys_transform_script</sys_class_name>
+        <sys_created_by>peterson.ferreira</sys_created_by>
+        <sys_created_on>2021-02-06 11:28:22</sys_created_on>
+        <sys_id>769c8c6fdb4e20101752b298f4961916</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>onBefore</sys_name>
+        <sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Trade Performance">627f7d43db30201024e058b3ca961958</sys_scope>
+        <sys_update_name>sys_transform_script_769c8c6fdb4e20101752b298f4961916</sys_update_name>
+        <sys_updated_by>peterson.ferreira</sys_updated_by>
+        <sys_updated_on>2021-02-06 16:37:38</sys_updated_on>
+        <when>onBefore</when>
+    </sys_transform_script>
+</record_update>

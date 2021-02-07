@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Operation" max_length="40" name="x_200145_trade_sa_operation" sizeclass="23" type="collection">
+    <element label="Operation" max_length="40" name="x_200145_trade_sa_operation" sizeclass="24" type="collection">
         <element label="Amount" max_length="15" name="amount" type="currency"/>
         <element label="Contract(s)" mandatory="true" max_length="40" name="contract" type="integer"/>
         <element label="Date Time" mandatory="true" max_length="40" name="date_time" type="glide_date_time"/>
         <element label="Day Trade" max_length="32" name="day_trade" read_only="true" reference="x_200145_trade_sa_day_trade" type="reference"/>
-        <element label="Imported" max_length="40" name="imported" type="boolean"/>
+        <element label="Imported" max_length="40" name="imported" read_only="true" type="boolean"/>
         <element hint="Maximum Negative Exposure" label="MEN" mandatory="true" max_length="15" name="men" type="decimal"/>
         <element hint="Maximum Positive Exposure" label="MEP" mandatory="true" max_length="15" name="mep" type="decimal"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>

@@ -2,21 +2,21 @@
     <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
         <grid_canvas display_value="PA Trade Performance - New Tab">aac2e59cdb41241024e058b3ca9619c3</grid_canvas>
         <height>3</height>
-        <portal_widget display_value="Created 2020-12-09 12:59:53">ff7b96e0db81641024e058b3ca961973</portal_widget>
+        <portal_widget display_value="Created 2020-12-09 17:59:53">ff7b96e0db81641024e058b3ca961973</portal_widget>
         <posx>10</posx>
         <posy>3</posy>
         <sys_class_name>sys_grid_canvas_pane</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-12-09 20:59:53</sys_created_on>
         <sys_id>b77b96e0db81641024e058b3ca961976</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_name>aac2e59cdb41241024e058b3ca9619c3</sys_name>
         <sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package>
         <sys_policy/>
         <sys_scope display_value="Trade Performance">627f7d43db30201024e058b3ca961958</sys_scope>
         <sys_update_name>sys_grid_canvas_pane_b77b96e0db81641024e058b3ca961976</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-12-14 21:02:12</sys_updated_on>
+        <sys_updated_by>peterson.ferreira</sys_updated_by>
+        <sys_updated_on>2021-02-05 19:43:18</sys_updated_on>
         <width>2</width>
     </sys_grid_canvas_pane>
 </record_update>

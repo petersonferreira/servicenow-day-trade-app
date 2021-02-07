@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_200145_trade_sa_operation">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="efficiency_rate" table="x_200145_trade_sa_day_trade">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes/>
+        <attributes>target_threshold_colors=0:#f95050;51:#fc8a3d;59:#fcc742;60:#71e279</attributes>
         <audit>false</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
-
-	// Add your code here
-	return '';  // return the calculated value
-
-})(current);]]></calculation>
+        <calculation/>
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label/>
+        <column_label>Efficiency rate</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,18 +22,18 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element/>
+        <element>efficiency_rate</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Collection">collection</internal_type>
+        <internal_type display_value="">percent_complete</internal_type>
         <mandatory>false</mandatory>
-        <max_length>40</max_length>
-        <name>x_200145_trade_sa_operation</name>
+        <max_length>15</max_length>
+        <name>x_200145_trade_sa_day_trade</name>
         <next_element/>
         <primary>false</primary>
-        <read_only>false</read_only>
+        <read_only>true</read_only>
         <read_roles/>
         <reference/>
         <reference_cascade_rule/>
@@ -47,21 +42,21 @@
         <reference_qual/>
         <reference_qual_condition/>
         <reference_type/>
-        <sizeclass>24</sizeclass>
+        <sizeclass/>
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-12-05 03:26:35</sys_created_on>
-        <sys_id>21db3783db8220101752b298f49619a3</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>x_200145_trade_sa_operation</sys_name>
+        <sys_created_by>peterson.ferreira</sys_created_by>
+        <sys_created_on>2021-02-07 13:10:44</sys_created_on>
+        <sys_id>d08f697fdb0e60101752b298f49619bc</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Efficiency rate</sys_name>
         <sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package>
         <sys_policy/>
         <sys_scope display_value="Trade Performance">627f7d43db30201024e058b3ca961958</sys_scope>
-        <sys_update_name>sys_dictionary_x_200145_trade_sa_operation_null</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2021-02-07 11:14:46</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_200145_trade_sa_day_trade_efficiency_rate</sys_update_name>
+        <sys_updated_by>peterson.ferreira</sys_updated_by>
+        <sys_updated_on>2021-02-07 13:55:11</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
