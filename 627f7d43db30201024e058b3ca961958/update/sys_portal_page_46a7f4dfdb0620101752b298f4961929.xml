@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2021-02-07 13:58:08">
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2021-02-08 18:07:02">
     <sys_portal_page action="INSERT_OR_UPDATE">
         <layout/>
         <order/>
@@ -23,5 +23,2015 @@
         <title>PA Simulator</title>
         <user/>
         <view>pa_trade_performance_-_new_tab_2</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Simulator">46a7f4dfdb0620101752b298f4961929</page>
+                <summary>Operation Result</summary>
+                <sys_created_by>peterson.ferreira</sys_created_by>
+                <sys_created_on>2021-02-08 15:30:57</sys_created_on>
+                <sys_id>0c39974cdbdaa0101752b298f4961930</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>peterson.ferreira</sys_updated_by>
+                <sys_updated_on>2021-02-08 15:30:57</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-02-08 12:30:57">0c39974cdbdaa0101752b298f4961930</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:30:57</sys_created_on>
+                        <sys_id>0c39974cdbdaa0101752b298f4961931</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:30:57</sys_updated_on>
+                        <value>Operation Result</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2021-02-08 12:30:57">0c39974cdbdaa0101752b298f4961930</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:30:57</sys_created_on>
+                        <sys_id>4839974cdbdaa0101752b298f4961931</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:30:57</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2021-02-08 12:30:57">0c39974cdbdaa0101752b298f4961930</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:30:57</sys_created_on>
+                        <sys_id>8039974cdbdaa0101752b298f4961932</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:30:57</sys_updated_on>
+                        <value>1</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2021-02-08 12:30:57">0c39974cdbdaa0101752b298f4961930</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:30:57</sys_created_on>
+                        <sys_id>8439974cdbdaa0101752b298f4961931</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:30:57</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-02-08 12:30:57">0c39974cdbdaa0101752b298f4961930</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:30:57</sys_created_on>
+                        <sys_id>8c39974cdbdaa0101752b298f4961930</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:30:57</sys_updated_on>
+                        <value>808e3aa0db05641024e058b3ca96198c</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-02-08 12:30:57">0c39974cdbdaa0101752b298f4961930</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:30:57</sys_created_on>
+                        <sys_id>c039974cdbdaa0101752b298f4961931</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:30:57</sys_updated_on>
+                        <value>com.glideapp.home.RenderHomepagePublishers</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Simulator">46a7f4dfdb0620101752b298f4961929</page>
+                <summary>Loss Average</summary>
+                <sys_created_by>peterson.ferreira</sys_created_by>
+                <sys_created_on>2021-02-08 15:24:08</sys_created_on>
+                <sys_id>14a7530cdbdaa0101752b298f496196c</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>peterson.ferreira</sys_updated_by>
+                <sys_updated_on>2021-02-08 15:24:08</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:08">14a7530cdbdaa0101752b298f496196c</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:24:08</sys_created_on>
+                        <sys_id>1ca79b0cdbdaa0101752b298f49619e6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:24:08</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:08">14a7530cdbdaa0101752b298f496196c</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:24:08</sys_created_on>
+                        <sys_id>50a7530cdbdaa0101752b298f496196d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:24:08</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:08">14a7530cdbdaa0101752b298f496196c</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:24:08</sys_created_on>
+                        <sys_id>54a79b0cdbdaa0101752b298f49619e7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:24:08</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:08">14a7530cdbdaa0101752b298f496196c</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:24:08</sys_created_on>
+                        <sys_id>58a79b0cdbdaa0101752b298f49619e6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:24:08</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:08">14a7530cdbdaa0101752b298f496196c</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:48</sys_created_on>
+                        <sys_id>83999b4cdbdaa0101752b298f4961949</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:48</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:08">14a7530cdbdaa0101752b298f496196c</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:48</sys_created_on>
+                        <sys_id>83999b4cdbdaa0101752b298f496194a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:48</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:08">14a7530cdbdaa0101752b298f496196c</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:48</sys_created_on>
+                        <sys_id>87999b4cdbdaa0101752b298f4961948</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:48</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:08">14a7530cdbdaa0101752b298f496196c</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:48</sys_created_on>
+                        <sys_id>87999b4cdbdaa0101752b298f4961949</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:48</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:08">14a7530cdbdaa0101752b298f496196c</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:48</sys_created_on>
+                        <sys_id>8b999b4cdbdaa0101752b298f4961948</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:48</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:08">14a7530cdbdaa0101752b298f496196c</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:48</sys_created_on>
+                        <sys_id>8b999b4cdbdaa0101752b298f4961949</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:48</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:08">14a7530cdbdaa0101752b298f496196c</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:48</sys_created_on>
+                        <sys_id>8f999b4cdbdaa0101752b298f4961948</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:48</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:08">14a7530cdbdaa0101752b298f496196c</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:48</sys_created_on>
+                        <sys_id>8f999b4cdbdaa0101752b298f4961949</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:48</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:08">14a7530cdbdaa0101752b298f496196c</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:24:08</sys_created_on>
+                        <sys_id>94a7530cdbdaa0101752b298f496196c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:24:08</sys_updated_on>
+                        <value>f07869d0db81241024e058b3ca9619ec</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:08">14a7530cdbdaa0101752b298f496196c</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:24:08</sys_created_on>
+                        <sys_id>9ca7530cdbdaa0101752b298f496196c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:24:08</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:08">14a7530cdbdaa0101752b298f496196c</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:24:08</sys_created_on>
+                        <sys_id>d8a7530cdbdaa0101752b298f496196c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:24:08</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:08">14a7530cdbdaa0101752b298f496196c</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:24:08</sys_created_on>
+                        <sys_id>dca79b0cdbdaa0101752b298f49619e6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:24:08</sys_updated_on>
+                        <value>Loss Average</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Simulator">46a7f4dfdb0620101752b298f4961929</page>
+                <summary>Number of Losses</summary>
+                <sys_created_by>peterson.ferreira</sys_created_by>
+                <sys_created_on>2021-02-08 15:23:10</sys_created_on>
+                <sys_id>4667570cdbdaa0101752b298f49619b5</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>peterson.ferreira</sys_updated_by>
+                <sys_updated_on>2021-02-08 15:23:10</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:10">4667570cdbdaa0101752b298f49619b5</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:23:10</sys_created_on>
+                        <sys_id>0a67570cdbdaa0101752b298f49619b6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:23:10</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:10">4667570cdbdaa0101752b298f49619b5</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:23:10</sys_created_on>
+                        <sys_id>0e67570cdbdaa0101752b298f49619b5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:23:10</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:10">4667570cdbdaa0101752b298f49619b5</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:23:10</sys_created_on>
+                        <sys_id>4267570cdbdaa0101752b298f49619b7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:23:10</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:10">4667570cdbdaa0101752b298f49619b5</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:23:10</sys_created_on>
+                        <sys_id>4667570cdbdaa0101752b298f49619b6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:23:10</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:10">4667570cdbdaa0101752b298f49619b5</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:29</sys_created_on>
+                        <sys_id>6289974cdbdaa0101752b298f4961940</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:29</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:10">4667570cdbdaa0101752b298f49619b5</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:29</sys_created_on>
+                        <sys_id>6289974cdbdaa0101752b298f4961941</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:29</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:10">4667570cdbdaa0101752b298f49619b5</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:29</sys_created_on>
+                        <sys_id>6689974cdbdaa0101752b298f4961940</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:29</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:10">4667570cdbdaa0101752b298f49619b5</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:29</sys_created_on>
+                        <sys_id>6689974cdbdaa0101752b298f4961941</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:29</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:10">4667570cdbdaa0101752b298f49619b5</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:29</sys_created_on>
+                        <sys_id>6a89974cdbdaa0101752b298f4961940</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:29</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:10">4667570cdbdaa0101752b298f49619b5</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:29</sys_created_on>
+                        <sys_id>6a89974cdbdaa0101752b298f4961941</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:29</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:10">4667570cdbdaa0101752b298f49619b5</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:29</sys_created_on>
+                        <sys_id>6e89974cdbdaa0101752b298f4961940</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:29</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:10">4667570cdbdaa0101752b298f49619b5</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:29</sys_created_on>
+                        <sys_id>6e89974cdbdaa0101752b298f4961941</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:29</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:10">4667570cdbdaa0101752b298f49619b5</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:23:10</sys_created_on>
+                        <sys_id>8267570cdbdaa0101752b298f49619b6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:23:10</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:10">4667570cdbdaa0101752b298f49619b5</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:23:10</sys_created_on>
+                        <sys_id>c667570cdbdaa0101752b298f49619b5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:23:10</sys_updated_on>
+                        <value>a6222d1cdb41241024e058b3ca96194d</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:10">4667570cdbdaa0101752b298f49619b5</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:23:10</sys_created_on>
+                        <sys_id>ca67570cdbdaa0101752b298f49619b6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:23:10</sys_updated_on>
+                        <value>Number of Losses</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:10">4667570cdbdaa0101752b298f49619b5</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:23:10</sys_created_on>
+                        <sys_id>ce67570cdbdaa0101752b298f49619b5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:23:10</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Simulator">46a7f4dfdb0620101752b298f4961929</page>
+                <summary>Average MEN</summary>
+                <sys_created_by>peterson.ferreira</sys_created_by>
+                <sys_created_on>2021-02-08 15:28:04</sys_created_on>
+                <sys_id>4688974cdbdaa0101752b298f496191d</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>peterson.ferreira</sys_updated_by>
+                <sys_updated_on>2021-02-08 15:28:04</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2021-02-08 12:28:04">4688974cdbdaa0101752b298f496191d</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:35</sys_created_on>
+                        <sys_id>0099d78cdbdaa0101752b298f4961978</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:35</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2021-02-08 12:28:04">4688974cdbdaa0101752b298f496191d</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:28:04</sys_created_on>
+                        <sys_id>0a88974cdbdaa0101752b298f496191e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:28:04</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2021-02-08 12:28:04">4688974cdbdaa0101752b298f496191d</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:35</sys_created_on>
+                        <sys_id>0c99d78cdbdaa0101752b298f4961977</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:35</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-02-08 12:28:04">4688974cdbdaa0101752b298f496191d</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:28:04</sys_created_on>
+                        <sys_id>0e88974cdbdaa0101752b298f496191d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:28:04</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2021-02-08 12:28:04">4688974cdbdaa0101752b298f496191d</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:35</sys_created_on>
+                        <sys_id>4099938cdbdaa0101752b298f496192b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:35</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2021-02-08 12:28:04">4688974cdbdaa0101752b298f496191d</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:28:04</sys_created_on>
+                        <sys_id>4288974cdbdaa0101752b298f496191f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:28:04</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2021-02-08 12:28:04">4688974cdbdaa0101752b298f496191d</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:35</sys_created_on>
+                        <sys_id>4499938cdbdaa0101752b298f496192b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:35</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2021-02-08 12:28:04">4688974cdbdaa0101752b298f496191d</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:28:04</sys_created_on>
+                        <sys_id>4688974cdbdaa0101752b298f496191e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:28:04</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2021-02-08 12:28:04">4688974cdbdaa0101752b298f496191d</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:35</sys_created_on>
+                        <sys_id>4899938cdbdaa0101752b298f496192a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:35</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2021-02-08 12:28:04">4688974cdbdaa0101752b298f496191d</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:35</sys_created_on>
+                        <sys_id>4899938cdbdaa0101752b298f496192b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:35</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2021-02-08 12:28:04">4688974cdbdaa0101752b298f496191d</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:35</sys_created_on>
+                        <sys_id>4c99938cdbdaa0101752b298f496192a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:35</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2021-02-08 12:28:04">4688974cdbdaa0101752b298f496191d</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:35</sys_created_on>
+                        <sys_id>4c99938cdbdaa0101752b298f496192b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:35</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 2021-02-08 12:28:04">4688974cdbdaa0101752b298f496191d</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:28:04</sys_created_on>
+                        <sys_id>8288974cdbdaa0101752b298f496191e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:28:04</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-02-08 12:28:04">4688974cdbdaa0101752b298f496191d</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:28:04</sys_created_on>
+                        <sys_id>c688974cdbdaa0101752b298f496191d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:28:04</sys_updated_on>
+                        <value>ceda489a0709201074bef4218c1ed097</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-02-08 12:28:04">4688974cdbdaa0101752b298f496191d</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:28:04</sys_created_on>
+                        <sys_id>ca88974cdbdaa0101752b298f496191e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:28:04</sys_updated_on>
+                        <value>Average MEN</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-02-08 12:28:04">4688974cdbdaa0101752b298f496191d</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:28:04</sys_created_on>
+                        <sys_id>ce88974cdbdaa0101752b298f496191d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:28:04</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Simulator">46a7f4dfdb0620101752b298f4961929</page>
+                <summary>Result</summary>
+                <sys_created_by>peterson.ferreira</sys_created_by>
+                <sys_created_on>2021-02-08 15:38:20</sys_created_on>
+                <sys_id>48ead7ccdbdaa0101752b298f49619d9</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>peterson.ferreira</sys_updated_by>
+                <sys_updated_on>2021-02-08 15:38:20</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-02-08 12:38:20">48ead7ccdbdaa0101752b298f49619d9</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:38:20</sys_created_on>
+                        <sys_id>00ead7ccdbdaa0101752b298f49619da</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:38:20</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2021-02-08 12:38:20">48ead7ccdbdaa0101752b298f49619d9</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:38:20</sys_created_on>
+                        <sys_id>1cead7ccdbdaa0101752b298f49619da</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:38:20</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2021-02-08 12:38:20">48ead7ccdbdaa0101752b298f49619d9</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:38:20</sys_created_on>
+                        <sys_id>54ead7ccdbdaa0101752b298f49619db</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:38:20</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2021-02-08 12:38:20">48ead7ccdbdaa0101752b298f49619d9</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:38:20</sys_created_on>
+                        <sys_id>58ead7ccdbdaa0101752b298f49619da</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:38:20</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 2021-02-08 12:38:20">48ead7ccdbdaa0101752b298f49619d9</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:38:20</sys_created_on>
+                        <sys_id>94ead7ccdbdaa0101752b298f49619da</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:38:20</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2021-02-08 12:38:20">48ead7ccdbdaa0101752b298f49619d9</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:38:52</sys_created_on>
+                        <sys_id>c00b57ccdbdaa0101752b298f496190b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:38:52</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2021-02-08 12:38:20">48ead7ccdbdaa0101752b298f49619d9</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:38:52</sys_created_on>
+                        <sys_id>c00b57ccdbdaa0101752b298f496190c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:38:52</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2021-02-08 12:38:20">48ead7ccdbdaa0101752b298f49619d9</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:38:52</sys_created_on>
+                        <sys_id>c40b57ccdbdaa0101752b298f496190a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:38:52</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2021-02-08 12:38:20">48ead7ccdbdaa0101752b298f49619d9</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:38:52</sys_created_on>
+                        <sys_id>c40b57ccdbdaa0101752b298f496190b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:38:52</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2021-02-08 12:38:20">48ead7ccdbdaa0101752b298f49619d9</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:38:52</sys_created_on>
+                        <sys_id>c80b57ccdbdaa0101752b298f496190a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:38:52</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2021-02-08 12:38:20">48ead7ccdbdaa0101752b298f49619d9</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:38:52</sys_created_on>
+                        <sys_id>c80b57ccdbdaa0101752b298f496190b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:38:52</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-02-08 12:38:20">48ead7ccdbdaa0101752b298f49619d9</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:38:20</sys_created_on>
+                        <sys_id>c8ead7ccdbdaa0101752b298f49619d9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:38:20</sys_updated_on>
+                        <value>99aad3ccdbdaa0101752b298f4961924</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2021-02-08 12:38:20">48ead7ccdbdaa0101752b298f49619d9</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:38:52</sys_created_on>
+                        <sys_id>cc0b57ccdbdaa0101752b298f496190a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:38:52</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2021-02-08 12:38:20">48ead7ccdbdaa0101752b298f49619d9</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:38:52</sys_created_on>
+                        <sys_id>cc0b57ccdbdaa0101752b298f496190b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:38:52</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-02-08 12:38:20">48ead7ccdbdaa0101752b298f49619d9</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:38:20</sys_created_on>
+                        <sys_id>d0ead7ccdbdaa0101752b298f49619da</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:38:20</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-02-08 12:38:20">48ead7ccdbdaa0101752b298f49619d9</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:38:20</sys_created_on>
+                        <sys_id>dcead7ccdbdaa0101752b298f49619da</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:38:20</sys_updated_on>
+                        <value>Result</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Simulator">46a7f4dfdb0620101752b298f4961929</page>
+                <summary>Operation Performance</summary>
+                <sys_created_by>peterson.ferreira</sys_created_by>
+                <sys_created_on>2021-02-08 15:31:46</sys_created_on>
+                <sys_id>4c69538cdbdaa0101752b298f49619fb</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>peterson.ferreira</sys_updated_by>
+                <sys_updated_on>2021-02-08 15:31:46</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-02-08 12:31:46">4c69538cdbdaa0101752b298f49619fb</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:31:46</sys_created_on>
+                        <sys_id>0069538cdbdaa0101752b298f49619fd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:31:46</sys_updated_on>
+                        <value>Operation Performance</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-02-08 12:31:46">4c69538cdbdaa0101752b298f49619fb</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:31:46</sys_created_on>
+                        <sys_id>0469538cdbdaa0101752b298f49619fc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:31:46</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2021-02-08 12:31:46">4c69538cdbdaa0101752b298f49619fb</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:33:00</sys_created_on>
+                        <sys_id>42a9d38cdbdaa0101752b298f4961992</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:33:00</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2021-02-08 12:31:46">4c69538cdbdaa0101752b298f49619fb</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:33:00</sys_created_on>
+                        <sys_id>42a9d38cdbdaa0101752b298f4961993</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:33:00</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2021-02-08 12:31:46">4c69538cdbdaa0101752b298f49619fb</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:33:00</sys_created_on>
+                        <sys_id>46a9d38cdbdaa0101752b298f4961992</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:33:00</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2021-02-08 12:31:46">4c69538cdbdaa0101752b298f49619fb</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:33:00</sys_created_on>
+                        <sys_id>46a9d38cdbdaa0101752b298f4961993</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:33:00</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2021-02-08 12:31:46">4c69538cdbdaa0101752b298f49619fb</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:33:00</sys_created_on>
+                        <sys_id>4aa9d38cdbdaa0101752b298f4961991</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:33:00</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2021-02-08 12:31:46">4c69538cdbdaa0101752b298f49619fb</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:33:00</sys_created_on>
+                        <sys_id>4aa9d38cdbdaa0101752b298f4961992</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:33:00</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2021-02-08 12:31:46">4c69538cdbdaa0101752b298f49619fb</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:31:46</sys_created_on>
+                        <sys_id>4c69538cdbdaa0101752b298f49619fc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:31:46</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2021-02-08 12:31:46">4c69538cdbdaa0101752b298f49619fb</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:33:00</sys_created_on>
+                        <sys_id>4ea9d38cdbdaa0101752b298f4961991</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:33:00</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2021-02-08 12:31:46">4c69538cdbdaa0101752b298f49619fb</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:33:00</sys_created_on>
+                        <sys_id>4ea9d38cdbdaa0101752b298f4961992</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:33:00</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2021-02-08 12:31:46">4c69538cdbdaa0101752b298f49619fb</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:31:46</sys_created_on>
+                        <sys_id>8869538cdbdaa0101752b298f49619fc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:31:46</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-02-08 12:31:46">4c69538cdbdaa0101752b298f49619fb</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:31:46</sys_created_on>
+                        <sys_id>c469538cdbdaa0101752b298f49619fc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:31:46</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-02-08 12:31:46">4c69538cdbdaa0101752b298f49619fb</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:31:46</sys_created_on>
+                        <sys_id>cc69538cdbdaa0101752b298f49619fb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:31:46</sys_updated_on>
+                        <value>254bad14db81241024e058b3ca9619e2</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Simulator">46a7f4dfdb0620101752b298f4961929</page>
+                <summary>Gain Average</summary>
+                <sys_created_by>peterson.ferreira</sys_created_by>
+                <sys_created_on>2021-02-08 15:23:52</sys_created_on>
+                <sys_id>5097d70cdbdaa0101752b298f4961978</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>peterson.ferreira</sys_updated_by>
+                <sys_updated_on>2021-02-08 15:23:52</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:52">5097d70cdbdaa0101752b298f4961978</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:23:52</sys_created_on>
+                        <sys_id>1497d70cdbdaa0101752b298f4961979</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:23:52</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:52">5097d70cdbdaa0101752b298f4961978</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:23:52</sys_created_on>
+                        <sys_id>1897d70cdbdaa0101752b298f4961978</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:23:52</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:52">5097d70cdbdaa0101752b298f4961978</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:23:52</sys_created_on>
+                        <sys_id>5097d70cdbdaa0101752b298f4961979</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:23:52</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:52">5097d70cdbdaa0101752b298f4961978</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:23:52</sys_created_on>
+                        <sys_id>5c97d70cdbdaa0101752b298f4961979</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:23:52</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:52">5097d70cdbdaa0101752b298f4961978</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:43</sys_created_on>
+                        <sys_id>8299538cdbdaa0101752b298f496190c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:43</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:52">5097d70cdbdaa0101752b298f4961978</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:43</sys_created_on>
+                        <sys_id>8299538cdbdaa0101752b298f496190d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:43</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:52">5097d70cdbdaa0101752b298f4961978</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:43</sys_created_on>
+                        <sys_id>8699538cdbdaa0101752b298f496190c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:43</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:52">5097d70cdbdaa0101752b298f4961978</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:43</sys_created_on>
+                        <sys_id>8699538cdbdaa0101752b298f496190d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:43</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:52">5097d70cdbdaa0101752b298f4961978</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:43</sys_created_on>
+                        <sys_id>8a99538cdbdaa0101752b298f496190c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:43</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:52">5097d70cdbdaa0101752b298f4961978</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:43</sys_created_on>
+                        <sys_id>8a99538cdbdaa0101752b298f496190d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:43</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:52">5097d70cdbdaa0101752b298f4961978</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:43</sys_created_on>
+                        <sys_id>8e99538cdbdaa0101752b298f496190b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:43</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:52">5097d70cdbdaa0101752b298f4961978</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:43</sys_created_on>
+                        <sys_id>8e99538cdbdaa0101752b298f496190c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:43</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:52">5097d70cdbdaa0101752b298f4961978</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:23:52</sys_created_on>
+                        <sys_id>9c97d70cdbdaa0101752b298f4961978</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:23:52</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:52">5097d70cdbdaa0101752b298f4961978</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:23:52</sys_created_on>
+                        <sys_id>d097d70cdbdaa0101752b298f4961978</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:23:52</sys_updated_on>
+                        <value>b7282d90db81241024e058b3ca9619c2</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:52">5097d70cdbdaa0101752b298f4961978</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:23:52</sys_created_on>
+                        <sys_id>d497d70cdbdaa0101752b298f4961979</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:23:52</sys_updated_on>
+                        <value>Gain Average</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:52">5097d70cdbdaa0101752b298f4961978</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:23:52</sys_created_on>
+                        <sys_id>d897d70cdbdaa0101752b298f4961978</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:23:52</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Simulator">46a7f4dfdb0620101752b298f4961929</page>
+                <summary>Number of Gains</summary>
+                <sys_created_by>peterson.ferreira</sys_created_by>
+                <sys_created_on>2021-02-08 15:23:24</sys_created_on>
+                <sys_id>6577d30cdbdaa0101752b298f49619aa</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>peterson.ferreira</sys_updated_by>
+                <sys_updated_on>2021-02-08 15:23:24</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:24">6577d30cdbdaa0101752b298f49619aa</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:07</sys_created_on>
+                        <sys_id>0579df4cdbdaa0101752b298f4961928</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:07</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:24">6577d30cdbdaa0101752b298f49619aa</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:07</sys_created_on>
+                        <sys_id>0979df4cdbdaa0101752b298f4961928</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:07</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:24">6577d30cdbdaa0101752b298f49619aa</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:07</sys_created_on>
+                        <sys_id>0d79df4cdbdaa0101752b298f4961928</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:07</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:24">6577d30cdbdaa0101752b298f49619aa</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:23:24</sys_created_on>
+                        <sys_id>2977d30cdbdaa0101752b298f49619ab</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:23:24</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:24">6577d30cdbdaa0101752b298f49619aa</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:23:24</sys_created_on>
+                        <sys_id>2d77d30cdbdaa0101752b298f49619aa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:23:24</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:24">6577d30cdbdaa0101752b298f49619aa</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:07</sys_created_on>
+                        <sys_id>4179978cdbdaa0101752b298f496194e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:07</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:24">6577d30cdbdaa0101752b298f49619aa</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:07</sys_created_on>
+                        <sys_id>4579978cdbdaa0101752b298f496194d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:07</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:24">6577d30cdbdaa0101752b298f49619aa</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:07</sys_created_on>
+                        <sys_id>4579978cdbdaa0101752b298f496194e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:07</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:24">6577d30cdbdaa0101752b298f49619aa</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:07</sys_created_on>
+                        <sys_id>4979978cdbdaa0101752b298f496194d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:07</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:24">6577d30cdbdaa0101752b298f49619aa</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:07</sys_created_on>
+                        <sys_id>4d79978cdbdaa0101752b298f496194d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:07</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:24">6577d30cdbdaa0101752b298f49619aa</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:23:24</sys_created_on>
+                        <sys_id>6177d30cdbdaa0101752b298f49619ac</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:23:24</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:24">6577d30cdbdaa0101752b298f49619aa</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:23:24</sys_created_on>
+                        <sys_id>6577d30cdbdaa0101752b298f49619ab</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:23:24</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:24">6577d30cdbdaa0101752b298f49619aa</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:23:24</sys_created_on>
+                        <sys_id>a177d30cdbdaa0101752b298f49619ab</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:23:24</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:24">6577d30cdbdaa0101752b298f49619aa</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:23:24</sys_created_on>
+                        <sys_id>e577d30cdbdaa0101752b298f49619aa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:23:24</sys_updated_on>
+                        <value>6a52219cdb41241024e058b3ca96192f</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:24">6577d30cdbdaa0101752b298f49619aa</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:23:24</sys_created_on>
+                        <sys_id>e977d30cdbdaa0101752b298f49619ab</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:23:24</sys_updated_on>
+                        <value>Number of Gains</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-02-08 12:23:24">6577d30cdbdaa0101752b298f49619aa</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:23:24</sys_created_on>
+                        <sys_id>ed77d30cdbdaa0101752b298f49619aa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:23:24</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Simulator">46a7f4dfdb0620101752b298f4961929</page>
+                <summary>Account type</summary>
+                <sys_created_by>peterson.ferreira</sys_created_by>
+                <sys_created_on>2021-02-08 15:29:53</sys_created_on>
+                <sys_id>6cf8d74cdbdaa0101752b298f4961940</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>peterson.ferreira</sys_updated_by>
+                <sys_updated_on>2021-02-08 15:29:53</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-02-08 12:29:53">6cf8d74cdbdaa0101752b298f4961940</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:29:53</sys_created_on>
+                        <sys_id>24f8d74cdbdaa0101752b298f4961941</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:29:53</sys_updated_on>
+                        <value>com.glideapp.home.RenderHomepagePublishers</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-02-08 12:29:53">6cf8d74cdbdaa0101752b298f4961940</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:29:53</sys_created_on>
+                        <sys_id>6cf8d74cdbdaa0101752b298f4961941</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:29:53</sys_updated_on>
+                        <value>Account type</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2021-02-08 12:29:53">6cf8d74cdbdaa0101752b298f4961940</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:29:53</sys_created_on>
+                        <sys_id>a8f8d74cdbdaa0101752b298f4961941</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:29:53</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2021-02-08 12:29:53">6cf8d74cdbdaa0101752b298f4961940</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:29:53</sys_created_on>
+                        <sys_id>e0f8d74cdbdaa0101752b298f4961942</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:29:53</sys_updated_on>
+                        <value>1</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2021-02-08 12:29:53">6cf8d74cdbdaa0101752b298f4961940</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:29:53</sys_created_on>
+                        <sys_id>e4f8d74cdbdaa0101752b298f4961941</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:29:53</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-02-08 12:29:53">6cf8d74cdbdaa0101752b298f4961940</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:29:53</sys_created_on>
+                        <sys_id>ecf8d74cdbdaa0101752b298f4961940</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:29:53</sys_updated_on>
+                        <value>dd0316e8db41641024e058b3ca961948</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Simulator">46a7f4dfdb0620101752b298f4961929</page>
+                <summary>Average MEP</summary>
+                <sys_created_by>peterson.ferreira</sys_created_by>
+                <sys_created_on>2021-02-08 15:24:48</sys_created_on>
+                <sys_id>cac7db0cdbdaa0101752b298f496193a</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>peterson.ferreira</sys_updated_by>
+                <sys_updated_on>2021-02-08 15:24:48</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:48">cac7db0cdbdaa0101752b298f496193a</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:24:48</sys_created_on>
+                        <sys_id>0ac7db0cdbdaa0101752b298f496193b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:24:48</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:48">cac7db0cdbdaa0101752b298f496193a</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:24:48</sys_created_on>
+                        <sys_id>42c7db0cdbdaa0101752b298f496193c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:24:48</sys_updated_on>
+                        <value>Average MEP</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:48">cac7db0cdbdaa0101752b298f496193a</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:24:48</sys_created_on>
+                        <sys_id>46c7db0cdbdaa0101752b298f496193b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:24:48</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:48">cac7db0cdbdaa0101752b298f496193a</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:24:48</sys_created_on>
+                        <sys_id>4ec7db0cdbdaa0101752b298f496193a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:24:48</sys_updated_on>
+                        <value>beaa4c9a0709201074bef4218c1ed091</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:48">cac7db0cdbdaa0101752b298f496193a</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:24:48</sys_created_on>
+                        <sys_id>82c7db0cdbdaa0101752b298f496193b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:24:48</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:48">cac7db0cdbdaa0101752b298f496193a</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:24:48</sys_created_on>
+                        <sys_id>8ec7db0cdbdaa0101752b298f496193b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:24:48</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:48">cac7db0cdbdaa0101752b298f496193a</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:23</sys_created_on>
+                        <sys_id>c189578cdbdaa0101752b298f496190d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:48">cac7db0cdbdaa0101752b298f496193a</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:23</sys_created_on>
+                        <sys_id>c189578cdbdaa0101752b298f496190e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:23</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:48">cac7db0cdbdaa0101752b298f496193a</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:23</sys_created_on>
+                        <sys_id>c589578cdbdaa0101752b298f496190c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:48">cac7db0cdbdaa0101752b298f496193a</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:23</sys_created_on>
+                        <sys_id>c589578cdbdaa0101752b298f496190d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:23</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:48">cac7db0cdbdaa0101752b298f496193a</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:24:48</sys_created_on>
+                        <sys_id>c6c7db0cdbdaa0101752b298f496193c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:24:48</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:48">cac7db0cdbdaa0101752b298f496193a</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:23</sys_created_on>
+                        <sys_id>c989578cdbdaa0101752b298f496190c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:48">cac7db0cdbdaa0101752b298f496193a</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:23</sys_created_on>
+                        <sys_id>c989578cdbdaa0101752b298f496190d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:48">cac7db0cdbdaa0101752b298f496193a</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:24:48</sys_created_on>
+                        <sys_id>cac7db0cdbdaa0101752b298f496193b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:24:48</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:48">cac7db0cdbdaa0101752b298f496193a</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:23</sys_created_on>
+                        <sys_id>cd89578cdbdaa0101752b298f496190c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:23</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2021-02-08 12:24:48">cac7db0cdbdaa0101752b298f496193a</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:23</sys_created_on>
+                        <sys_id>cd89578cdbdaa0101752b298f496190d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Simulator">46a7f4dfdb0620101752b298f4961929</page>
+                <summary>Trade Period</summary>
+                <sys_created_by>peterson.ferreira</sys_created_by>
+                <sys_created_on>2021-02-08 15:30:30</sys_created_on>
+                <sys_id>d1199b4cdbdaa0101752b298f4961987</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>peterson.ferreira</sys_updated_by>
+                <sys_updated_on>2021-02-08 15:30:30</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2021-02-08 12:30:30">d1199b4cdbdaa0101752b298f4961987</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:30:30</sys_created_on>
+                        <sys_id>11199b4cdbdaa0101752b298f4961988</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:30:30</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-02-08 12:30:30">d1199b4cdbdaa0101752b298f4961987</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:30:30</sys_created_on>
+                        <sys_id>55199b4cdbdaa0101752b298f4961987</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:30:30</sys_updated_on>
+                        <value>cf0a12a0db81641024e058b3ca9619a0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2021-02-08 12:30:30">d1199b4cdbdaa0101752b298f4961987</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:30:30</sys_created_on>
+                        <sys_id>5d199b4cdbdaa0101752b298f4961987</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:30:30</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2021-02-08 12:30:30">d1199b4cdbdaa0101752b298f4961987</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:30:30</sys_created_on>
+                        <sys_id>69199b4cdbdaa0101752b298f4961988</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:30:30</sys_updated_on>
+                        <value>3</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-02-08 12:30:30">d1199b4cdbdaa0101752b298f4961987</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:30:30</sys_created_on>
+                        <sys_id>99199b4cdbdaa0101752b298f4961987</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:30:30</sys_updated_on>
+                        <value>com.glideapp.home.RenderHomepagePublishers</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-02-08 12:30:30">d1199b4cdbdaa0101752b298f4961987</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:30:30</sys_created_on>
+                        <sys_id>e1199b4cdbdaa0101752b298f4961988</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:30:30</sys_updated_on>
+                        <value>Trade Period</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Simulator">46a7f4dfdb0620101752b298f4961929</page>
+                <summary>Imported Data</summary>
+                <sys_created_by>peterson.ferreira</sys_created_by>
+                <sys_created_on>2021-02-08 15:31:22</sys_created_on>
+                <sys_id>da499b4cdbdaa0101752b298f4961942</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>peterson.ferreira</sys_updated_by>
+                <sys_updated_on>2021-02-08 15:31:22</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2021-02-08 12:31:22">da499b4cdbdaa0101752b298f4961942</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:31:22</sys_created_on>
+                        <sys_id>1a499b4cdbdaa0101752b298f4961943</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:31:22</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2021-02-08 12:31:22">da499b4cdbdaa0101752b298f4961942</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:31:22</sys_created_on>
+                        <sys_id>52499b4cdbdaa0101752b298f4961944</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:31:22</sys_updated_on>
+                        <value>5</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2021-02-08 12:31:22">da499b4cdbdaa0101752b298f4961942</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:31:22</sys_created_on>
+                        <sys_id>56499b4cdbdaa0101752b298f4961943</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:31:22</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-02-08 12:31:22">da499b4cdbdaa0101752b298f4961942</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:31:22</sys_created_on>
+                        <sys_id>5e499b4cdbdaa0101752b298f4961942</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:31:22</sys_updated_on>
+                        <value>e1a5b81fdb0620101752b298f496193d</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-02-08 12:31:22">da499b4cdbdaa0101752b298f4961942</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:31:22</sys_created_on>
+                        <sys_id>92499b4cdbdaa0101752b298f4961943</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:31:22</sys_updated_on>
+                        <value>com.glideapp.home.RenderHomepagePublishers</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-02-08 12:31:22">da499b4cdbdaa0101752b298f4961942</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:31:22</sys_created_on>
+                        <sys_id>da499b4cdbdaa0101752b298f4961943</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:31:22</sys_updated_on>
+                        <value>Imported Data</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Simulator">46a7f4dfdb0620101752b298f4961929</page>
+                <summary>Average Efficiency Rate</summary>
+                <sys_created_by>peterson.ferreira</sys_created_by>
+                <sys_created_on>2021-02-08 15:22:39</sys_created_on>
+                <sys_id>ea47130cdbdaa0101752b298f496193b</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>peterson.ferreira</sys_updated_by>
+                <sys_updated_on>2021-02-08 15:22:39</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2021-02-08 12:22:39">ea47130cdbdaa0101752b298f496193b</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:53</sys_created_on>
+                        <sys_id>20a91b8cdbdaa0101752b298f496197d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:53</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2021-02-08 12:22:39">ea47130cdbdaa0101752b298f496193b</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:53</sys_created_on>
+                        <sys_id>24a91b8cdbdaa0101752b298f496197d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:53</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 2021-02-08 12:22:39">ea47130cdbdaa0101752b298f496193b</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:22:39</sys_created_on>
+                        <sys_id>2a47130cdbdaa0101752b298f496193c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:22:39</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2021-02-08 12:22:39">ea47130cdbdaa0101752b298f496193b</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:53</sys_created_on>
+                        <sys_id>60a9df4cdbdaa0101752b298f496191b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:53</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2021-02-08 12:22:39">ea47130cdbdaa0101752b298f496193b</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:53</sys_created_on>
+                        <sys_id>60a9df4cdbdaa0101752b298f496191c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:53</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-02-08 12:22:39">ea47130cdbdaa0101752b298f496193b</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:22:39</sys_created_on>
+                        <sys_id>6247130cdbdaa0101752b298f496193d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:22:39</sys_updated_on>
+                        <value>Average Efficiency Rate</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2021-02-08 12:22:39">ea47130cdbdaa0101752b298f496193b</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:53</sys_created_on>
+                        <sys_id>64a9df4cdbdaa0101752b298f496191b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:53</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2021-02-08 12:22:39">ea47130cdbdaa0101752b298f496193b</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:53</sys_created_on>
+                        <sys_id>64a9df4cdbdaa0101752b298f496191c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:53</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-02-08 12:22:39">ea47130cdbdaa0101752b298f496193b</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:22:39</sys_created_on>
+                        <sys_id>6647130cdbdaa0101752b298f496193c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:22:39</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2021-02-08 12:22:39">ea47130cdbdaa0101752b298f496193b</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:53</sys_created_on>
+                        <sys_id>68a9df4cdbdaa0101752b298f496191b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:53</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2021-02-08 12:22:39">ea47130cdbdaa0101752b298f496193b</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:32:53</sys_created_on>
+                        <sys_id>6ca9df4cdbdaa0101752b298f496191b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:32:53</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-02-08 12:22:39">ea47130cdbdaa0101752b298f496193b</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:22:39</sys_created_on>
+                        <sys_id>6e47130cdbdaa0101752b298f496193b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:22:39</sys_updated_on>
+                        <value>d3b6dbc8dbdaa0101752b298f496199a</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-02-08 12:22:39">ea47130cdbdaa0101752b298f496193b</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:22:39</sys_created_on>
+                        <sys_id>a247130cdbdaa0101752b298f496193c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:22:39</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2021-02-08 12:22:39">ea47130cdbdaa0101752b298f496193b</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:22:39</sys_created_on>
+                        <sys_id>ae47130cdbdaa0101752b298f496193c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:22:39</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2021-02-08 12:22:39">ea47130cdbdaa0101752b298f496193b</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:22:39</sys_created_on>
+                        <sys_id>e647130cdbdaa0101752b298f496193d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:22:39</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2021-02-08 12:22:39">ea47130cdbdaa0101752b298f496193b</portal_section>
+                        <sys_created_by>peterson.ferreira</sys_created_by>
+                        <sys_created_on>2021-02-08 15:22:39</sys_created_on>
+                        <sys_id>ea47130cdbdaa0101752b298f496193c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>peterson.ferreira</sys_updated_by>
+                        <sys_updated_on>2021-02-08 15:22:39</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
     </sys_portal_page>
 </record_update>
