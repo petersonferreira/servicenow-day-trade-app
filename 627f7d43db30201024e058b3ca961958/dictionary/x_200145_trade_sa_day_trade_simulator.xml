@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="Day Trade Simulator" max_length="40" name="x_200145_trade_sa_day_trade_simulator" sizeclass="20" type="collection">
+    <element extends="sys_import_set_row" label="Day Trade Simulator" max_length="40" name="x_200145_trade_sa_day_trade_simulator" sizeclass="0" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Account type" label="Account type" max_length="40" name="u_account_type" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Date" label="Date" max_length="40" name="u_date" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Imported" label="Imported" max_length="40" name="u_imported" type="string"/>

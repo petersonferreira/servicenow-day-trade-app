@@ -4,13 +4,13 @@
             <element>.begin_split</element>
             <position>0</position>
             <sys_created_by>peterson.ferreira</sys_created_by>
-            <sys_created_on>2021-02-05 18:54:20</sys_created_on>
-            <sys_id>92fa2857db0620101752b298f49619a4</sys_id>
+            <sys_created_on>2021-02-15 12:36:30</sys_created_on>
+            <sys_id>05643656db1220101752b298f4961970</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_operation" sys_domain="global" view="Default view">43888e8bdb30201024e058b3ca961925</sys_ui_section>
             <sys_updated_by>peterson.ferreira</sys_updated_by>
-            <sys_updated_on>2021-02-05 18:54:20</sys_updated_on>
+            <sys_updated_on>2021-02-15 12:36:30</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>date_time</element>
             <position>1</position>
             <sys_created_by>peterson.ferreira</sys_created_by>
-            <sys_created_on>2021-02-05 18:54:20</sys_created_on>
-            <sys_id>16fa2857db0620101752b298f49619a4</sys_id>
+            <sys_created_on>2021-02-15 12:36:30</sys_created_on>
+            <sys_id>85643656db1220101752b298f4961970</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_operation" sys_domain="global" view="Default view">43888e8bdb30201024e058b3ca961925</sys_ui_section>
             <sys_updated_by>peterson.ferreira</sys_updated_by>
-            <sys_updated_on>2021-02-05 18:54:20</sys_updated_on>
+            <sys_updated_on>2021-02-15 12:36:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>day_trade</element>
             <position>2</position>
             <sys_created_by>peterson.ferreira</sys_created_by>
-            <sys_created_on>2021-02-05 18:54:20</sys_created_on>
-            <sys_id>96fa2857db0620101752b298f49619a4</sys_id>
+            <sys_created_on>2021-02-15 12:36:30</sys_created_on>
+            <sys_id>09643656db1220101752b298f4961970</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_operation" sys_domain="global" view="Default view">43888e8bdb30201024e058b3ca961925</sys_ui_section>
             <sys_updated_by>peterson.ferreira</sys_updated_by>
-            <sys_updated_on>2021-02-05 18:54:20</sys_updated_on>
+            <sys_updated_on>2021-02-15 12:36:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,167 +46,195 @@
             <element>contract</element>
             <position>3</position>
             <sys_created_by>peterson.ferreira</sys_created_by>
-            <sys_created_on>2021-02-05 18:54:20</sys_created_on>
-            <sys_id>1afa2857db0620101752b298f49619a4</sys_id>
+            <sys_created_on>2021-02-15 12:36:30</sys_created_on>
+            <sys_id>89643656db1220101752b298f4961970</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_operation" sys_domain="global" view="Default view">43888e8bdb30201024e058b3ca961925</sys_ui_section>
             <sys_updated_by>peterson.ferreira</sys_updated_by>
-            <sys_updated_on>2021-02-05 18:54:20</sys_updated_on>
+            <sys_updated_on>2021-02-15 12:36:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>stop_loss</element>
+            <position>4</position>
+            <sys_created_by>peterson.ferreira</sys_created_by>
+            <sys_created_on>2021-02-15 12:36:30</sys_created_on>
+            <sys_id>0d643656db1220101752b298f4961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_operation" sys_domain="global" view="Default view">43888e8bdb30201024e058b3ca961925</sys_ui_section>
+            <sys_updated_by>peterson.ferreira</sys_updated_by>
+            <sys_updated_on>2021-02-15 12:36:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>points</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>peterson.ferreira</sys_created_by>
-            <sys_created_on>2021-02-05 18:54:20</sys_created_on>
-            <sys_id>9afa2857db0620101752b298f49619a4</sys_id>
+            <sys_created_on>2021-02-15 12:36:30</sys_created_on>
+            <sys_id>8d643656db1220101752b298f4961970</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_operation" sys_domain="global" view="Default view">43888e8bdb30201024e058b3ca961925</sys_ui_section>
             <sys_updated_by>peterson.ferreira</sys_updated_by>
-            <sys_updated_on>2021-02-05 18:54:20</sys_updated_on>
+            <sys_updated_on>2021-02-15 12:36:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asymmetry</element>
+            <position>6</position>
+            <sys_created_by>peterson.ferreira</sys_created_by>
+            <sys_created_on>2021-02-15 12:36:30</sys_created_on>
+            <sys_id>01643656db1220101752b298f4961971</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_operation" sys_domain="global" view="Default view">43888e8bdb30201024e058b3ca961925</sys_ui_section>
+            <sys_updated_by>peterson.ferreira</sys_updated_by>
+            <sys_updated_on>2021-02-15 12:36:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>5</position>
+            <position>7</position>
             <sys_created_by>peterson.ferreira</sys_created_by>
-            <sys_created_on>2021-02-05 18:54:20</sys_created_on>
-            <sys_id>1efa2857db0620101752b298f49619a4</sys_id>
+            <sys_created_on>2021-02-15 12:36:30</sys_created_on>
+            <sys_id>81643656db1220101752b298f4961971</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_operation" sys_domain="global" view="Default view">43888e8bdb30201024e058b3ca961925</sys_ui_section>
             <sys_updated_by>peterson.ferreira</sys_updated_by>
-            <sys_updated_on>2021-02-05 18:54:20</sys_updated_on>
+            <sys_updated_on>2021-02-15 12:36:30</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>result</element>
-            <position>6</position>
+            <position>8</position>
             <sys_created_by>peterson.ferreira</sys_created_by>
-            <sys_created_on>2021-02-05 18:54:20</sys_created_on>
-            <sys_id>9efa2857db0620101752b298f49619a4</sys_id>
+            <sys_created_on>2021-02-15 12:36:30</sys_created_on>
+            <sys_id>05643656db1220101752b298f4961971</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_operation" sys_domain="global" view="Default view">43888e8bdb30201024e058b3ca961925</sys_ui_section>
             <sys_updated_by>peterson.ferreira</sys_updated_by>
-            <sys_updated_on>2021-02-05 18:54:20</sys_updated_on>
+            <sys_updated_on>2021-02-15 12:36:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>amount</element>
-            <position>7</position>
+            <position>9</position>
             <sys_created_by>peterson.ferreira</sys_created_by>
-            <sys_created_on>2021-02-05 18:54:20</sys_created_on>
-            <sys_id>12fa2857db0620101752b298f49619a5</sys_id>
+            <sys_created_on>2021-02-15 12:36:30</sys_created_on>
+            <sys_id>85643656db1220101752b298f4961971</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_operation" sys_domain="global" view="Default view">43888e8bdb30201024e058b3ca961925</sys_ui_section>
             <sys_updated_by>peterson.ferreira</sys_updated_by>
-            <sys_updated_on>2021-02-05 18:54:20</sys_updated_on>
+            <sys_updated_on>2021-02-15 12:36:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>realization</element>
-            <position>8</position>
+            <position>10</position>
             <sys_created_by>peterson.ferreira</sys_created_by>
-            <sys_created_on>2021-02-05 18:54:20</sys_created_on>
-            <sys_id>92fa2857db0620101752b298f49619a5</sys_id>
+            <sys_created_on>2021-02-15 12:36:30</sys_created_on>
+            <sys_id>09643656db1220101752b298f4961971</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_operation" sys_domain="global" view="Default view">43888e8bdb30201024e058b3ca961925</sys_ui_section>
             <sys_updated_by>peterson.ferreira</sys_updated_by>
-            <sys_updated_on>2021-02-05 18:54:20</sys_updated_on>
+            <sys_updated_on>2021-02-15 12:36:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>mep</element>
-            <position>9</position>
+            <position>11</position>
             <sys_created_by>peterson.ferreira</sys_created_by>
-            <sys_created_on>2021-02-05 18:54:21</sys_created_on>
-            <sys_id>16fa2857db0620101752b298f49619a5</sys_id>
+            <sys_created_on>2021-02-15 12:36:30</sys_created_on>
+            <sys_id>89643656db1220101752b298f4961971</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_operation" sys_domain="global" view="Default view">43888e8bdb30201024e058b3ca961925</sys_ui_section>
             <sys_updated_by>peterson.ferreira</sys_updated_by>
-            <sys_updated_on>2021-02-05 18:54:21</sys_updated_on>
+            <sys_updated_on>2021-02-15 12:36:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>men</element>
-            <position>10</position>
+            <position>12</position>
             <sys_created_by>peterson.ferreira</sys_created_by>
-            <sys_created_on>2021-02-05 18:54:21</sys_created_on>
-            <sys_id>96fa2857db0620101752b298f49619a5</sys_id>
+            <sys_created_on>2021-02-15 12:36:30</sys_created_on>
+            <sys_id>0d643656db1220101752b298f4961971</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_operation" sys_domain="global" view="Default view">43888e8bdb30201024e058b3ca961925</sys_ui_section>
             <sys_updated_by>peterson.ferreira</sys_updated_by>
-            <sys_updated_on>2021-02-05 18:54:21</sys_updated_on>
+            <sys_updated_on>2021-02-15 12:36:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>imported</element>
-            <position>11</position>
+            <position>13</position>
             <sys_created_by>peterson.ferreira</sys_created_by>
-            <sys_created_on>2021-02-05 18:54:21</sys_created_on>
-            <sys_id>1afa2857db0620101752b298f49619a5</sys_id>
+            <sys_created_on>2021-02-15 12:36:30</sys_created_on>
+            <sys_id>8d643656db1220101752b298f4961971</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_operation" sys_domain="global" view="Default view">43888e8bdb30201024e058b3ca961925</sys_ui_section>
             <sys_updated_by>peterson.ferreira</sys_updated_by>
-            <sys_updated_on>2021-02-05 18:54:21</sys_updated_on>
+            <sys_updated_on>2021-02-15 12:36:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>12</position>
+            <position>14</position>
             <sys_created_by>peterson.ferreira</sys_created_by>
-            <sys_created_on>2021-02-05 18:54:21</sys_created_on>
-            <sys_id>9afa2857db0620101752b298f49619a5</sys_id>
+            <sys_created_on>2021-02-15 12:36:30</sys_created_on>
+            <sys_id>01643656db1220101752b298f4961972</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_operation" sys_domain="global" view="Default view">43888e8bdb30201024e058b3ca961925</sys_ui_section>
             <sys_updated_by>peterson.ferreira</sys_updated_by>
-            <sys_updated_on>2021-02-05 18:54:21</sys_updated_on>
+            <sys_updated_on>2021-02-15 12:36:30</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>strategy</element>
-            <position>13</position>
+            <position>15</position>
             <sys_created_by>peterson.ferreira</sys_created_by>
-            <sys_created_on>2021-02-05 18:54:21</sys_created_on>
-            <sys_id>1efa2857db0620101752b298f49619a5</sys_id>
+            <sys_created_on>2021-02-15 12:36:30</sys_created_on>
+            <sys_id>81643656db1220101752b298f4961972</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_operation" sys_domain="global" view="Default view">43888e8bdb30201024e058b3ca961925</sys_ui_section>
             <sys_updated_by>peterson.ferreira</sys_updated_by>
-            <sys_updated_on>2021-02-05 18:54:21</sys_updated_on>
+            <sys_updated_on>2021-02-15 12:36:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>trade_diary</element>
-            <position>14</position>
+            <position>16</position>
             <sys_created_by>peterson.ferreira</sys_created_by>
-            <sys_created_on>2021-02-05 18:54:21</sys_created_on>
-            <sys_id>9efa2857db0620101752b298f49619a5</sys_id>
+            <sys_created_on>2021-02-15 12:36:30</sys_created_on>
+            <sys_id>05643656db1220101752b298f4961972</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_200145_trade_sa_operation" sys_domain="global" view="Default view">43888e8bdb30201024e058b3ca961925</sys_ui_section>
             <sys_updated_by>peterson.ferreira</sys_updated_by>
-            <sys_updated_on>2021-02-05 18:54:21</sys_updated_on>
+            <sys_updated_on>2021-02-15 12:36:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

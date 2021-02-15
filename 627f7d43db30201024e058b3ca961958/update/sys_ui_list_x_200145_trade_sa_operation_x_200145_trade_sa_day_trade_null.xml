@@ -3,152 +3,167 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>date_time</element>
-            <list_id display_value="x_200145_trade_sa_operation" element="NULL" name="x_200145_trade_sa_operation" parent="x_200145_trade_sa_day_trade" relationship="NULL" sys_domain="global" view="Default view">a406989cdb4de01024e058b3ca961967</list_id>
+            <list_id display_value="x_200145_trade_sa_operation" element="NULL" name="x_200145_trade_sa_operation" parent="x_200145_trade_sa_day_trade" relationship="NULL" sys_domain="global" view="Default view">dca7c792db5220101752b298f49619be</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-08 16:38:11</sys_created_on>
-            <sys_id>2c06989cdb4de01024e058b3ca961968</sys_id>
+            <sys_created_by>peterson.ferreira</sys_created_by>
+            <sys_created_on>2021-02-15 14:00:33</sys_created_on>
+            <sys_id>94a7c792db5220101752b298f49619c0</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-08 16:38:11</sys_updated_on>
+            <sys_updated_by>peterson.ferreira</sys_updated_by>
+            <sys_updated_on>2021-02-15 14:00:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>day_trade</element>
-            <list_id display_value="x_200145_trade_sa_operation" element="NULL" name="x_200145_trade_sa_operation" parent="x_200145_trade_sa_day_trade" relationship="NULL" sys_domain="global" view="Default view">a406989cdb4de01024e058b3ca961967</list_id>
+            <list_id display_value="x_200145_trade_sa_operation" element="NULL" name="x_200145_trade_sa_operation" parent="x_200145_trade_sa_day_trade" relationship="NULL" sys_domain="global" view="Default view">dca7c792db5220101752b298f49619be</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-08 16:38:11</sys_created_on>
-            <sys_id>e006989cdb4de01024e058b3ca961969</sys_id>
+            <sys_created_by>peterson.ferreira</sys_created_by>
+            <sys_created_on>2021-02-15 14:00:33</sys_created_on>
+            <sys_id>5ca7c792db5220101752b298f49619c0</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-08 16:38:11</sys_updated_on>
+            <sys_updated_by>peterson.ferreira</sys_updated_by>
+            <sys_updated_on>2021-02-15 14:00:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>contract</element>
-            <list_id display_value="x_200145_trade_sa_operation" element="NULL" name="x_200145_trade_sa_operation" parent="x_200145_trade_sa_day_trade" relationship="NULL" sys_domain="global" view="Default view">a406989cdb4de01024e058b3ca961967</list_id>
+            <list_id display_value="x_200145_trade_sa_operation" element="NULL" name="x_200145_trade_sa_operation" parent="x_200145_trade_sa_day_trade" relationship="NULL" sys_domain="global" view="Default view">dca7c792db5220101752b298f49619be</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-08 16:38:11</sys_created_on>
-            <sys_id>6406989cdb4de01024e058b3ca961969</sys_id>
+            <sys_created_by>peterson.ferreira</sys_created_by>
+            <sys_created_on>2021-02-15 14:00:33</sys_created_on>
+            <sys_id>dca7c792db5220101752b298f49619c0</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-08 16:38:11</sys_updated_on>
+            <sys_updated_by>peterson.ferreira</sys_updated_by>
+            <sys_updated_on>2021-02-15 14:00:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>points</element>
-            <list_id display_value="x_200145_trade_sa_operation" element="NULL" name="x_200145_trade_sa_operation" parent="x_200145_trade_sa_day_trade" relationship="NULL" sys_domain="global" view="Default view">a406989cdb4de01024e058b3ca961967</list_id>
+            <list_id display_value="x_200145_trade_sa_operation" element="NULL" name="x_200145_trade_sa_operation" parent="x_200145_trade_sa_day_trade" relationship="NULL" sys_domain="global" view="Default view">dca7c792db5220101752b298f49619be</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>true</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-08 16:38:11</sys_created_on>
-            <sys_id>e406989cdb4de01024e058b3ca961969</sys_id>
+            <sys_created_by>peterson.ferreira</sys_created_by>
+            <sys_created_on>2021-02-15 14:00:33</sys_created_on>
+            <sys_id>50a7c792db5220101752b298f49619c1</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-08 16:38:11</sys_updated_on>
+            <sys_updated_by>peterson.ferreira</sys_updated_by>
+            <sys_updated_on>2021-02-15 14:00:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>amount</element>
-            <list_id display_value="x_200145_trade_sa_operation" element="NULL" name="x_200145_trade_sa_operation" parent="x_200145_trade_sa_day_trade" relationship="NULL" sys_domain="global" view="Default view">a406989cdb4de01024e058b3ca961967</list_id>
+            <list_id display_value="x_200145_trade_sa_operation" element="NULL" name="x_200145_trade_sa_operation" parent="x_200145_trade_sa_day_trade" relationship="NULL" sys_domain="global" view="Default view">dca7c792db5220101752b298f49619be</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>true</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-08 16:38:11</sys_created_on>
-            <sys_id>6806989cdb4de01024e058b3ca961969</sys_id>
+            <sys_created_by>peterson.ferreira</sys_created_by>
+            <sys_created_on>2021-02-15 14:00:33</sys_created_on>
+            <sys_id>d0a7c792db5220101752b298f49619c1</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-08 16:38:11</sys_updated_on>
+            <sys_updated_by>peterson.ferreira</sys_updated_by>
+            <sys_updated_on>2021-02-15 14:00:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>result</element>
-            <list_id display_value="x_200145_trade_sa_operation" element="NULL" name="x_200145_trade_sa_operation" parent="x_200145_trade_sa_day_trade" relationship="NULL" sys_domain="global" view="Default view">a406989cdb4de01024e058b3ca961967</list_id>
+            <element>asymmetry</element>
+            <list_id display_value="x_200145_trade_sa_operation" element="NULL" name="x_200145_trade_sa_operation" parent="x_200145_trade_sa_day_trade" relationship="NULL" sys_domain="global" view="Default view">dca7c792db5220101752b298f49619be</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-08 16:38:11</sys_created_on>
-            <sys_id>e806989cdb4de01024e058b3ca961969</sys_id>
+            <sys_created_by>peterson.ferreira</sys_created_by>
+            <sys_created_on>2021-02-15 14:00:33</sys_created_on>
+            <sys_id>54a7c792db5220101752b298f49619c1</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-08 16:38:11</sys_updated_on>
+            <sys_updated_by>peterson.ferreira</sys_updated_by>
+            <sys_updated_on>2021-02-15 14:00:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>mep</element>
-            <list_id display_value="x_200145_trade_sa_operation" element="NULL" name="x_200145_trade_sa_operation" parent="x_200145_trade_sa_day_trade" relationship="NULL" sys_domain="global" view="Default view">a406989cdb4de01024e058b3ca961967</list_id>
+            <element>result</element>
+            <list_id display_value="x_200145_trade_sa_operation" element="NULL" name="x_200145_trade_sa_operation" parent="x_200145_trade_sa_day_trade" relationship="NULL" sys_domain="global" view="Default view">dca7c792db5220101752b298f49619be</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-08 16:38:11</sys_created_on>
-            <sys_id>6c06989cdb4de01024e058b3ca961969</sys_id>
+            <sys_created_by>peterson.ferreira</sys_created_by>
+            <sys_created_on>2021-02-15 14:00:33</sys_created_on>
+            <sys_id>d4a7c792db5220101752b298f49619c1</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-08 16:38:11</sys_updated_on>
+            <sys_updated_by>peterson.ferreira</sys_updated_by>
+            <sys_updated_on>2021-02-15 14:00:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>men</element>
-            <list_id display_value="x_200145_trade_sa_operation" element="NULL" name="x_200145_trade_sa_operation" parent="x_200145_trade_sa_day_trade" relationship="NULL" sys_domain="global" view="Default view">a406989cdb4de01024e058b3ca961967</list_id>
+            <element>mep</element>
+            <list_id display_value="x_200145_trade_sa_operation" element="NULL" name="x_200145_trade_sa_operation" parent="x_200145_trade_sa_day_trade" relationship="NULL" sys_domain="global" view="Default view">dca7c792db5220101752b298f49619be</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
             <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-08 16:38:11</sys_created_on>
-            <sys_id>ec06989cdb4de01024e058b3ca961969</sys_id>
+            <sys_created_by>peterson.ferreira</sys_created_by>
+            <sys_created_on>2021-02-15 14:00:33</sys_created_on>
+            <sys_id>58a7c792db5220101752b298f49619c1</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-08 16:38:11</sys_updated_on>
+            <sys_updated_by>peterson.ferreira</sys_updated_by>
+            <sys_updated_on>2021-02-15 14:00:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>strategy</element>
-            <list_id display_value="x_200145_trade_sa_operation" element="NULL" name="x_200145_trade_sa_operation" parent="x_200145_trade_sa_day_trade" relationship="NULL" sys_domain="global" view="Default view">a406989cdb4de01024e058b3ca961967</list_id>
+            <element>men</element>
+            <list_id display_value="x_200145_trade_sa_operation" element="NULL" name="x_200145_trade_sa_operation" parent="x_200145_trade_sa_day_trade" relationship="NULL" sys_domain="global" view="Default view">dca7c792db5220101752b298f49619be</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>8</position>
             <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-08 16:38:11</sys_created_on>
-            <sys_id>6006989cdb4de01024e058b3ca96196a</sys_id>
+            <sys_created_by>peterson.ferreira</sys_created_by>
+            <sys_created_on>2021-02-15 14:00:33</sys_created_on>
+            <sys_id>d8a7c792db5220101752b298f49619c1</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-08 16:38:11</sys_updated_on>
+            <sys_updated_by>peterson.ferreira</sys_updated_by>
+            <sys_updated_on>2021-02-15 14:00:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>trade_diary</element>
-            <list_id display_value="x_200145_trade_sa_operation" element="NULL" name="x_200145_trade_sa_operation" parent="x_200145_trade_sa_day_trade" relationship="NULL" sys_domain="global" view="Default view">a406989cdb4de01024e058b3ca961967</list_id>
+            <element>strategy</element>
+            <list_id display_value="x_200145_trade_sa_operation" element="NULL" name="x_200145_trade_sa_operation" parent="x_200145_trade_sa_day_trade" relationship="NULL" sys_domain="global" view="Default view">dca7c792db5220101752b298f49619be</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>9</position>
             <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-08 16:38:11</sys_created_on>
-            <sys_id>e006989cdb4de01024e058b3ca96196a</sys_id>
+            <sys_created_by>peterson.ferreira</sys_created_by>
+            <sys_created_on>2021-02-15 14:00:33</sys_created_on>
+            <sys_id>5ca7c792db5220101752b298f49619c1</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-08 16:38:11</sys_updated_on>
+            <sys_updated_by>peterson.ferreira</sys_updated_by>
+            <sys_updated_on>2021-02-15 14:00:33</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>trade_diary</element>
+            <list_id display_value="x_200145_trade_sa_operation" element="NULL" name="x_200145_trade_sa_operation" parent="x_200145_trade_sa_day_trade" relationship="NULL" sys_domain="global" view="Default view">dca7c792db5220101752b298f49619be</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>peterson.ferreira</sys_created_by>
+            <sys_created_on>2021-02-15 14:00:33</sys_created_on>
+            <sys_id>dca7c792db5220101752b298f49619c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>peterson.ferreira</sys_updated_by>
+            <sys_updated_on>2021-02-15 14:00:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -161,19 +176,19 @@
             <relationship/>
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-08 16:38:11</sys_created_on>
+            <sys_created_by>peterson.ferreira</sys_created_by>
+            <sys_created_on>2021-02-15 14:00:33</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>a406989cdb4de01024e058b3ca961967</sys_id>
+            <sys_id>dca7c792db5220101752b298f49619be</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_200145_trade_sa_operation</sys_name>
             <sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package>
             <sys_policy/>
             <sys_scope display_value="Trade Performance">627f7d43db30201024e058b3ca961958</sys_scope>
             <sys_update_name>sys_ui_list_x_200145_trade_sa_operation_x_200145_trade_sa_day_trade_null</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-08 16:38:11</sys_updated_on>
+            <sys_updated_by>peterson.ferreira</sys_updated_by>
+            <sys_updated_on>2021-02-15 14:00:33</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
