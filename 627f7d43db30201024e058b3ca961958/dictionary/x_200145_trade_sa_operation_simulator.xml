@@ -9,6 +9,7 @@
         <element attributes="import_attribute_name=MEP" label="MEP" max_length="15" name="u_mep" type="decimal"/>
         <element attributes="import_attribute_name=Points" label="Points" max_length="15" name="u_points" type="decimal"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Realization" label="Realization" max_length="40" name="u_realization" type="string"/>
+        <element attributes="import_attribute_name=Stop loss" label="Stop loss" max_length="15" name="u_stop_loss" type="decimal"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Strategy" label="Strategy" max_length="40" name="u_strategy" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Trade diary" label="Trade diary" max_length="40" name="u_trade_diary" type="string"/>
     </element>

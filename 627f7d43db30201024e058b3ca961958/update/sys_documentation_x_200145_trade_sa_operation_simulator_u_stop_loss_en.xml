@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_stop_loss" label="Stop loss" language="en" table="x_200145_trade_sa_operation_simulator">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_stop_loss</element>
+            <help/>
+            <hint/>
+            <label>Stop loss</label>
+            <language>en</language>
+            <name>x_200145_trade_sa_operation_simulator</name>
+            <plural>Stop loss</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>peterson.ferreira</sys_created_by>
+            <sys_created_on>2021-02-15 15:21:03</sys_created_on>
+            <sys_id>2b0a5712db9220101752b298f4961973</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Stop loss</sys_name>
+            <sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Trade Performance">627f7d43db30201024e058b3ca961958</sys_scope>
+            <sys_update_name>sys_documentation_x_200145_trade_sa_operation_simulator_u_stop_loss_en</sys_update_name>
+            <sys_updated_by>peterson.ferreira</sys_updated_by>
+            <sys_updated_on>2021-02-15 15:21:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -6,7 +6,8 @@
         <script><![CDATA[(function runTransformScript(source, map, log, target /*undefined onStart*/ ) {
 
     var gdt = new GlideDateTime(source.u_date_time),
-		dt_sys_id;
+        dt_sys_id, 
+		strategy = '3eb8ecd3db0620101752b298f4961985'; // Not mapped;
 
     var date = gdt.getDate();
     date = date.toString();
@@ -35,6 +36,20 @@
         target.realization = 'Partial';
     }
 
+    var gr_stg = new GlideRecord('x_200145_trade_sa_strategy');
+    gr_stg.addEncodedQuery("entry_code!=NULL");
+    gr_stg.addQuery('entry_code', source.u_strategy);
+    gr_stg.orderBy('number');
+    gr_stg.setLimit(1);
+    gr_stg.query();	
+	
+    if (gr_stg.next()) {
+
+        strategy = gr_stg.getUniqueValue();
+	
+    }
+	//log.info('PETERSON ' + strategy);
+	target.strategy = strategy;
     target.day_trade = dt_sys_id;
     target.imported = true;
     target.men = parseFloat(source.u_men);
@@ -44,14 +59,14 @@
         <sys_created_by>peterson.ferreira</sys_created_by>
         <sys_created_on>2021-02-06 11:28:22</sys_created_on>
         <sys_id>769c8c6fdb4e20101752b298f4961916</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>onBefore</sys_name>
         <sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package>
         <sys_policy/>
         <sys_scope display_value="Trade Performance">627f7d43db30201024e058b3ca961958</sys_scope>
         <sys_update_name>sys_transform_script_769c8c6fdb4e20101752b298f4961916</sys_update_name>
         <sys_updated_by>peterson.ferreira</sys_updated_by>
-        <sys_updated_on>2021-02-06 16:37:38</sys_updated_on>
+        <sys_updated_on>2021-02-15 18:17:00</sys_updated_on>
         <when>onBefore</when>
     </sys_transform_script>
 </record_update>
