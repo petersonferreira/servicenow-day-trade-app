@@ -35,7 +35,7 @@
         <created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user>
         <custom_chart_size>false</custom_chart_size>
         <custom_chart_title_position>false</custom_chart_title_position>
-        <custom_config/>
+        <custom_config>{"transforms":[{"transform":{"transform":"Reference","name":"chart-subjects"}}]}</custom_config>
         <decimal_precision>2</decimal_precision>
         <description/>
         <direction>minimize</direction>
@@ -45,11 +45,11 @@
         <donut_width_percent>50</donut_width_percent>
         <end_time/>
         <exp_report_attrs>true</exp_report_attrs>
-        <field>amount</field>
-        <field_list>number,opened_at,u_opened_date,u_day_of_month,short_description,caller_id,u_process,u_process_1,u_process_3,priority,state,category,assignment_group,assigned_to,sys_updated_on,sys_updated_by</field_list>
-        <filter table="x_200145_trade_sa_day_trade">result=gain<item display_value="Gain" endquery="false" field="result" goto="false" newquery="false" operator="=" or="false" value="gain"/>
+        <field/>
+        <field_list>operation_date_time,operation_day_trade,dt_account_type,dt_amount,dt_amount_percent,dt_rate,dt_result,dt_sys_class_name,dt_sys_created_by,dt_sys_created_on</field_list>
+        <filter table="x_200145_trade_sa_day_trade_operation">operation_result=gain<item display_value="gain" endquery="false" field="operation_result" goto="false" newquery="false" operator="=" or="false" value="gain"/>
         </filter>
-        <formatting_configuration/>
+        <formatting_configuration>{"table":"x_200145_trade_sa_day_trade","stringFormattingProperties":{},"durationFormattingProperties":{},"dateFormattingProperties":{},"numberFormattingProperties":{}}</formatting_configuration>
         <from/>
         <funnel_neck_percent>30</funnel_neck_percent>
         <gauge_autoscale>true</gauge_autoscale>
@@ -102,20 +102,20 @@
         <source_type>table</source_type>
         <start_time/>
         <style_config/>
-        <sumfield>amount</sumfield>
+        <sumfield>operation_amount</sumfield>
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-12-08 22:37:13</sys_created_on>
         <sys_id>b7282d90db81241024e058b3ca9619c2</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Gain Average</sys_name>
         <sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package>
         <sys_policy/>
         <sys_scope display_value="Trade Performance">627f7d43db30201024e058b3ca961958</sys_scope>
         <sys_update_name>sys_report_b7282d90db81241024e058b3ca9619c2</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-12-09 21:02:30</sys_updated_on>
-        <table>x_200145_trade_sa_day_trade</table>
+        <sys_updated_by>peterson.ferreira</sys_updated_by>
+        <sys_updated_on>2021-02-17 12:48:41</sys_updated_on>
+        <table>x_200145_trade_sa_day_trade_operation</table>
         <title>Gain Average</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
         <title_vertical_alignment>top</title_vertical_alignment>

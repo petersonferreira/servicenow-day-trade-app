@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="DELETE">
+        <grid_canvas display_value="PA Trade Performance - New Tab 2">caa7f4dfdb0620101752b298f4961929</grid_canvas>
+        <height>3</height>
+        <portal_widget display_value="Created 2021-02-08 12:23:10">4667570cdbdaa0101752b298f49619b5</portal_widget>
+        <posx>0</posx>
+        <posy>6</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>peterson.ferreira</sys_created_by>
+        <sys_created_on>2021-02-08 15:23:10</sys_created_on>
+        <sys_id>8667570cdbdaa0101752b298f49619b7</sys_id>
+        <sys_mod_count>48</sys_mod_count>
+        <sys_name>caa7f4dfdb0620101752b298f4961929</sys_name>
+        <sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Trade Performance">627f7d43db30201024e058b3ca961958</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_8667570cdbdaa0101752b298f49619b7</sys_update_name>
+        <sys_updated_by>peterson.ferreira</sys_updated_by>
+        <sys_updated_on>2021-02-17 12:54:29</sys_updated_on>
+        <width>2</width>
+    </sys_grid_canvas_pane>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Trade Performance">627f7d43db30201024e058b3ca961958</application>
+        <file_path/>
+        <instance_id>883fa0e1db64f300f492c59705961902</instance_id>
+        <instance_name>dev78168</instance_name>
+        <name>sys_grid_canvas_pane_8667570cdbdaa0101752b298f49619b7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA Trade Performance - New Tab 2">caa7f4dfdb0620101752b298f4961929</grid_canvas><height>3</height><portal_widget display_value="Created 2021-02-08 12:23:10">4667570cdbdaa0101752b298f49619b5</portal_widget><posx>0</posx><posy>6</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>peterson.ferreira</sys_created_by><sys_created_on>2021-02-08 15:23:10</sys_created_on><sys_id>8667570cdbdaa0101752b298f49619b7</sys_id><sys_mod_count>48</sys_mod_count><sys_name>caa7f4dfdb0620101752b298f4961929</sys_name><sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package><sys_policy/><sys_scope display_value="Trade Performance">627f7d43db30201024e058b3ca961958</sys_scope><sys_update_name>sys_grid_canvas_pane_8667570cdbdaa0101752b298f49619b7</sys_update_name><sys_updated_by>peterson.ferreira</sys_updated_by><sys_updated_on>2021-02-17 12:54:29</sys_updated_on><width>2</width></sys_grid_canvas_pane></record_update>]]></payload>
+        <payload_hash>-1056033600</payload_hash>
+        <record_name>caa7f4dfdb0620101752b298f4961929</record_name>
+        <reverted_from/>
+        <source>650c7703db8220101752b298f4961996</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>peterson.ferreira</sys_created_by>
+        <sys_created_on>2021-02-17 12:54:29</sys_created_on>
+        <sys_id>f3ab850fdbd620101752b298f496192b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177b00e65fd0000001</sys_recorded_at>
+        <sys_updated_by>peterson.ferreira</sys_updated_by>
+        <sys_updated_on>2021-02-17 12:54:29</sys_updated_on>
+        <type>Grid Canvas Pane</type>
+        <update_guid>3fab850fc1d620104d0a39948c18bf2a</update_guid>
+        <update_guid_history>3fab850fc1d620104d0a39948c18bf2a:-1056033600,4fab450f02d620103948ec81c74659f8:-1487237832,11ab450f10d6201061fc35c1fd26d26f:1599755773,e8ab450fc4d620105d211bab6b339419:-1056033600,ff9b050f9ed62010f6e863ffddf8f0d9:-1487237832,b918414b50d62010b98d46b5c75ba276:1599755773,3418414b99d620109b31742c4cbfa226:-1056033600,4c18014b5cd62010fffffc61227e5bff:-1487237832,3c0bc35679522010439c8cefaaf984ac:1599755773,93fac356db522010bf13c3a16e118e3b:-1487237832,3ebd1464415ae010e950542f9e7035f9:1599755773,c9bdd464a45ae01094762f3794cdc30a:-1056033600,58bd9464d25ae010dbe8a42a9f3f3de2:-1487237832,238d18242a5ae010659d55164c90bb6f:1599755773,428d1464455ae010385c19d833da358a:-1056033600,6c8dd064875ae010a712b0d484f383fc:-1487237832,c45d9c24ef5ae01081b65ecdc0477b38:1599755773,19ea9bccb7daa01052874979f6c347b2:371327036,9cea9bccefdaa010156142e75722486f:1016874419,a969578c61daa0108268694c223dad8c:371327036,3869578c13daa01054ccc0c5fd78345c:447500868,8869178c07daa010c7e51e6dd7f000fe:1016874419,4059138c9cdaa010df9718ff8f4345fa:371327036,db49d38c64daa0105cbeb237056400cb:2010504959,9a49d38ce0daa01072d2f345c8e44285:1016874419,3d39938c20daa0102d7fa53df0583ab7:371327036,4939938c39daa0102da603b32d6ecb62:2010504959,4c395b4c29daa010e6ea5764716431ce:1016874419,f6199b4c3edaa0108a329e7137273927:371327036,1a19138c59daa010f5571e27440eb3ea:2010504959,65199b4ccddaa010758ad2bc1f10e5eb:1016874419,cef8df4c91daa010f595697c5d11aa1e:371327036,25f8df4cf5daa01032b50b5e33b07809:2010504959,a4f89f4ce8daa0104d86abca78213fde:1016874419,1f88d74ca4daa01028e5047b96f9a586:371327036,4288d74c87daa010fe64826dbc5e69b6:1016874419,57c75f0caddaa01011c6c9a6a5e50156:371327036,4ec7db0c66daa010b79f8748f880ecb5:1016874419,b3a7db0c63daa01086c1771b0f41aab0:371327036,cda7db0cfddaa01081d29190839d1e32:583144323,50a79b0c30daa010baf6b7e791551626:151940091,3197970ca8daa010c8530cee8c93698f:-1056033600,0997570c1edaa010b86ebb93034540bd:36751682,9c971b0c6adaa010887c1e8f1120f29b:-1487237832,eb771b0c5bdaa0109b29f159c04713ea:1599755773,ea771b0c23daa010472d5a5e680a3294:2146148414,e177130c94daa0108611d626c2ec2156:1168551541,3e67530c02daa01044b8a2199b9d0612:-39422150,8667570cbcdaa010836a6f8603e333b8:-401604905</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>peterson.ferreira</sys_created_by>
+        <sys_created_on>2021-02-17 12:54:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas_pane">sys_grid_canvas_pane</sys_db_object>
+        <sys_id>8b42d0047457493593519714f5fab839</sys_id>
+        <sys_metadata>8667570cdbdaa0101752b298f49619b7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>caa7f4dfdb0620101752b298f4961929</sys_name>
+        <sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Trade Performance">627f7d43db30201024e058b3ca961958</sys_scope>
+        <sys_scope_delete display_value="">5288564ab94541c88b5d15c186430624</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_pane_8667570cdbdaa0101752b298f49619b7</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_pane_8667570cdbdaa0101752b298f49619b7">f3ab850fdbd620101752b298f496192b</sys_update_version>
+        <sys_updated_by>peterson.ferreira</sys_updated_by>
+        <sys_updated_on>2021-02-17 12:54:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
