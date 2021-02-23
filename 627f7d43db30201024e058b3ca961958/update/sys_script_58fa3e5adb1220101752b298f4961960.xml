@@ -49,20 +49,18 @@
 
     } else if (current.result == 'loss') {
 
-        if (points == current.stop_loss) {
-            asymmetry = "-1:1";
-        } else {
-            points *= -1;
-            asymmetry = points / current.stop_loss;
-            asymmetry = asymmetry.toFixed(1).toString().split('.');
+        points *= -1;
+        asymmetry = points / current.stop_loss;
+        asymmetry = asymmetry.toFixed(1).toString().split('.');
 
-            if (asymmetry[1] == 0) {
-                asymmetry = asymmetry[0];
-            }
-
-            asymmetry = asymmetry.toString().replace(re, '') + ":1";
-
+        if (asymmetry[1] == 0) {
+            asymmetry = asymmetry[0];
         }
+
+        asymmetry = "1:" + asymmetry.toString().replace(re, '');
+        //asymmetry = asymmetry.toString().replace(re, '') + ":1";
+
+
 
     } else {
         asymmetry = "0:0";
@@ -78,7 +76,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>58fa3e5adb1220101752b298f4961960</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Calculate asymmetry</sys_name>
         <sys_overrides/>
         <sys_package display_value="Trade Performance" source="x_200145_trade_sa">627f7d43db30201024e058b3ca961958</sys_package>
@@ -86,7 +84,7 @@
         <sys_scope display_value="Trade Performance">627f7d43db30201024e058b3ca961958</sys_scope>
         <sys_update_name>sys_script_58fa3e5adb1220101752b298f4961960</sys_update_name>
         <sys_updated_by>peterson.ferreira</sys_updated_by>
-        <sys_updated_on>2021-02-15 17:23:29</sys_updated_on>
+        <sys_updated_on>2021-02-23 21:33:16</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
